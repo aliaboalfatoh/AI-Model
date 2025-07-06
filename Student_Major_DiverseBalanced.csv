@@ -1,0 +1,2636 @@
+Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Recommended_Major
+b,a,No,Yes,Yes,No,No,Yes,Yes,No,Commerce
+c,d,Yes,Yes,No,No,No,No,Yes,Yes,Commerce
+a,d,No,Yes,No,No,No,No,Yes,No,Commerce
+a,a,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Commerce
+b,c,Yes,Yes,No,Yes,No,Yes,Yes,No,Commerce
+c,d,No,No,No,Yes,No,No,Yes,No,Commerce
+a,a,No,Yes,Yes,Yes,No,No,Yes,No,Commerce
+a,d,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Commerce
+b,b,Yes,Yes,No,No,No,No,No,Yes,Commerce
+b,d,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Commerce
+c,a,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Commerce
+c,b,No,Yes,Yes,Yes,No,No,No,Yes,Commerce
+a,d,No,Yes,No,Yes,No,No,Yes,Yes,Commerce
+a,d,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Commerce
+b,a,No,Yes,No,No,No,No,Yes,No,Commerce
+b,c,No,Yes,Yes,No,Yes,No,Yes,Yes,Commerce
+b,d,No,Yes,No,No,No,Yes,No,No,Commerce
+b,a,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Commerce
+b,b,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+a,d,No,Yes,No,No,No,Yes,Yes,No,Commerce
+b,b,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Commerce
+a,b,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Commerce
+b,a,No,Yes,Yes,Yes,No,No,No,Yes,Commerce
+b,d,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Commerce
+b,d,Yes,Yes,No,Yes,No,No,No,Yes,Commerce
+b,d,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Commerce
+b,d,No,Yes,Yes,Yes,No,No,No,Yes,Commerce
+b,d,No,Yes,No,No,Yes,No,Yes,No,Commerce
+b,c,Yes,Yes,No,Yes,No,No,No,No,Commerce
+b,b,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Commerce
+b,c,No,Yes,Yes,Yes,No,Yes,Yes,No,Commerce
+b,d,No,Yes,No,No,Yes,Yes,Yes,No,Commerce
+b,d,Yes,Yes,No,Yes,Yes,No,No,Yes,Commerce
+c,d,No,No,No,No,No,No,Yes,No,Commerce
+b,a,No,Yes,No,Yes,Yes,No,Yes,No,Commerce
+b,b,No,Yes,Yes,No,Yes,No,Yes,Yes,Commerce
+b,d,No,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+a,b,Yes,Yes,No,Yes,No,Yes,Yes,No,Commerce
+b,d,No,Yes,No,No,No,No,No,No,Commerce
+b,d,No,Yes,No,No,Yes,No,Yes,Yes,Commerce
+c,d,No,Yes,Yes,No,Yes,No,No,Yes,Commerce
+b,a,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Commerce
+b,c,No,Yes,No,Yes,Yes,No,No,Yes,Commerce
+a,b,No,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+a,d,Yes,Yes,No,Yes,No,No,Yes,No,Commerce
+b,a,No,Yes,No,Yes,Yes,No,Yes,Yes,Commerce
+b,c,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Commerce
+b,a,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Commerce
+b,b,Yes,Yes,No,No,Yes,Yes,Yes,No,Commerce
+a,d,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Commerce
+b,b,No,Yes,Yes,No,Yes,No,Yes,No,Commerce
+a,d,No,No,Yes,Yes,No,No,No,No,Commerce
+a,a,No,Yes,No,Yes,No,No,No,No,Commerce
+a,d,Yes,Yes,Yes,Yes,No,No,No,No,Commerce
+b,b,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Commerce
+b,c,No,Yes,No,No,Yes,No,No,Yes,Commerce
+b,d,No,Yes,Yes,Yes,Yes,No,No,No,Commerce
+b,c,No,Yes,No,Yes,No,No,Yes,No,Commerce
+c,c,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Commerce
+c,d,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Commerce
+c,c,No,Yes,No,Yes,No,No,Yes,Yes,Commerce
+c,d,No,Yes,No,Yes,Yes,No,No,No,Commerce
+b,a,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Commerce
+b,c,Yes,Yes,Yes,Yes,No,No,No,Yes,Commerce
+b,d,Yes,Yes,No,Yes,No,Yes,No,Yes,Commerce
+b,c,Yes,Yes,No,No,No,No,Yes,No,Commerce
+b,c,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Commerce
+a,d,Yes,Yes,No,Yes,No,Yes,No,Yes,Commerce
+a,d,No,No,Yes,Yes,No,Yes,No,No,Commerce
+b,a,No,Yes,Yes,No,No,Yes,Yes,Yes,Commerce
+b,d,Yes,Yes,Yes,No,No,Yes,Yes,No,Commerce
+c,b,No,Yes,No,Yes,No,No,Yes,Yes,Commerce
+b,a,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Commerce
+a,a,No,Yes,Yes,Yes,No,No,No,Yes,Commerce
+b,c,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Commerce
+b,d,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Commerce
+a,d,No,Yes,Yes,No,No,Yes,Yes,Yes,Commerce
+b,d,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Commerce
+a,d,Yes,Yes,No,Yes,No,No,Yes,Yes,Commerce
+b,d,No,Yes,No,Yes,No,No,Yes,Yes,Commerce
+b,d,No,Yes,Yes,No,Yes,No,Yes,No,Commerce
+b,b,Yes,Yes,No,Yes,No,Yes,No,Yes,Commerce
+b,c,No,Yes,Yes,Yes,Yes,No,No,Yes,Commerce
+b,d,Yes,Yes,No,No,No,Yes,No,No,Commerce
+b,a,Yes,Yes,Yes,Yes,No,No,No,Yes,Commerce
+a,d,No,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+b,d,No,Yes,No,Yes,Yes,No,Yes,Yes,Commerce
+a,d,No,Yes,Yes,No,No,No,Yes,Yes,Commerce
+b,d,Yes,Yes,No,No,No,Yes,No,Yes,Commerce
+a,d,Yes,Yes,Yes,Yes,No,No,No,Yes,Commerce
+a,b,No,Yes,Yes,Yes,No,Yes,Yes,No,Commerce
+b,d,Yes,Yes,Yes,No,Yes,No,No,No,Commerce
+a,d,No,Yes,No,No,No,No,Yes,Yes,Commerce
+b,b,Yes,Yes,No,Yes,No,No,Yes,No,Commerce
+a,d,Yes,Yes,Yes,Yes,No,No,Yes,No,Commerce
+b,c,Yes,Yes,No,No,Yes,No,No,No,Commerce
+c,d,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Commerce
+b,d,Yes,Yes,Yes,No,No,No,Yes,No,Commerce
+b,c,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Commerce
+b,d,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Commerce
+b,a,No,Yes,Yes,Yes,Yes,Yes,No,No,Commerce
+b,c,No,Yes,No,No,No,No,Yes,No,Commerce
+a,d,Yes,Yes,No,No,No,No,Yes,No,Commerce
+a,d,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Commerce
+a,d,No,No,No,Yes,No,No,No,No,Commerce
+b,d,No,Yes,No,No,No,No,Yes,Yes,Commerce
+c,d,No,Yes,No,No,Yes,No,No,Yes,Commerce
+a,d,Yes,Yes,Yes,No,No,No,Yes,Yes,Commerce
+b,d,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+c,d,No,Yes,No,Yes,No,No,No,Yes,Commerce
+a,d,No,Yes,No,Yes,Yes,Yes,Yes,No,Commerce
+a,b,No,Yes,No,Yes,No,Yes,Yes,No,Commerce
+b,c,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Commerce
+b,d,No,Yes,No,Yes,Yes,No,No,No,Commerce
+c,d,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Commerce
+b,a,No,Yes,Yes,No,Yes,No,No,No,Commerce
+b,a,No,Yes,Yes,No,No,No,Yes,Yes,Commerce
+a,d,No,Yes,Yes,No,No,No,No,No,Commerce
+a,d,Yes,Yes,Yes,Yes,No,Yes,No,No,Commerce
+b,d,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Commerce
+a,d,No,Yes,Yes,Yes,Yes,No,Yes,No,Commerce
+b,b,No,Yes,Yes,Yes,No,No,Yes,No,Commerce
+b,b,No,Yes,No,Yes,Yes,No,Yes,No,Commerce
+b,c,Yes,Yes,No,No,No,No,Yes,Yes,Commerce
+a,d,No,Yes,Yes,No,No,No,Yes,No,Commerce
+b,a,No,Yes,Yes,No,No,No,No,No,Commerce
+c,d,No,Yes,No,No,No,Yes,Yes,Yes,Commerce
+a,d,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Commerce
+c,d,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+c,b,No,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+b,b,Yes,Yes,Yes,Yes,No,No,No,No,Commerce
+b,c,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+b,b,No,Yes,No,No,No,Yes,Yes,Yes,Commerce
+a,c,Yes,Yes,No,Yes,No,Yes,Yes,No,Commerce
+a,c,Yes,Yes,No,Yes,No,No,Yes,No,Commerce
+b,c,Yes,Yes,No,Yes,Yes,Yes,No,No,Commerce
+b,c,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Commerce
+b,d,No,Yes,No,No,Yes,Yes,No,No,Commerce
+b,a,Yes,Yes,No,Yes,No,No,Yes,Yes,Commerce
+a,d,Yes,Yes,No,Yes,No,No,No,No,Commerce
+b,b,No,Yes,No,No,No,No,Yes,No,Commerce
+b,c,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+b,d,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+b,a,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+b,a,No,Yes,Yes,Yes,No,Yes,Yes,No,Commerce
+b,d,Yes,Yes,Yes,No,No,No,No,Yes,Commerce
+b,b,No,Yes,Yes,No,No,No,No,Yes,Commerce
+c,b,No,Yes,No,Yes,Yes,No,Yes,Yes,Commerce
+b,d,No,Yes,Yes,Yes,No,No,Yes,No,Commerce
+b,b,Yes,Yes,No,No,No,Yes,Yes,No,Commerce
+b,c,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Commerce
+a,c,No,Yes,No,Yes,No,Yes,No,No,Commerce
+c,c,No,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+b,d,No,Yes,No,Yes,No,Yes,No,No,Commerce
+b,d,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Commerce
+b,c,No,Yes,No,Yes,Yes,Yes,No,No,Commerce
+b,c,Yes,Yes,No,Yes,Yes,No,No,No,Commerce
+c,b,No,Yes,Yes,Yes,No,No,Yes,No,Commerce
+b,d,Yes,Yes,Yes,No,Yes,No,No,Yes,Commerce
+b,c,Yes,Yes,No,Yes,No,No,Yes,No,Commerce
+c,d,No,Yes,Yes,Yes,Yes,No,No,No,Commerce
+c,d,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Commerce
+b,d,No,Yes,No,Yes,Yes,Yes,No,Yes,Commerce
+b,d,No,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+a,c,No,Yes,Yes,Yes,No,Yes,No,Yes,Commerce
+a,d,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Commerce
+b,c,No,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+b,b,Yes,Yes,No,No,No,Yes,Yes,Yes,Commerce
+b,d,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Commerce
+b,c,Yes,Yes,No,No,No,No,No,No,Commerce
+a,d,No,Yes,Yes,Yes,No,Yes,Yes,No,Commerce
+b,b,Yes,Yes,No,Yes,Yes,No,Yes,No,Commerce
+b,d,No,Yes,Yes,No,No,No,Yes,Yes,Commerce
+b,d,No,Yes,Yes,No,No,Yes,Yes,No,Commerce
+c,d,No,Yes,No,No,No,No,Yes,No,Commerce
+b,a,No,Yes,Yes,Yes,No,Yes,No,Yes,Commerce
+b,d,Yes,Yes,Yes,No,No,Yes,No,Yes,Commerce
+b,a,No,Yes,No,No,No,No,No,Yes,Commerce
+b,b,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Commerce
+b,a,No,Yes,Yes,Yes,No,No,No,No,Commerce
+a,b,No,Yes,Yes,Yes,No,No,Yes,No,Commerce
+b,c,No,Yes,Yes,No,No,Yes,Yes,No,Commerce
+a,c,No,Yes,No,Yes,No,No,No,Yes,Commerce
+c,d,No,Yes,No,Yes,No,No,Yes,No,Commerce
+b,b,No,Yes,No,Yes,No,Yes,No,Yes,Commerce
+b,a,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Commerce
+b,b,No,Yes,No,No,Yes,Yes,Yes,No,Commerce
+b,c,Yes,Yes,No,No,Yes,No,Yes,No,Commerce
+b,d,No,Yes,Yes,Yes,No,Yes,No,Yes,Commerce
+a,b,No,Yes,No,Yes,No,No,Yes,No,Commerce
+b,b,No,Yes,No,No,No,No,No,Yes,Commerce
+a,d,Yes,Yes,Yes,No,No,No,No,No,Commerce
+b,b,Yes,Yes,No,No,Yes,No,Yes,No,Commerce
+a,d,No,Yes,No,No,No,No,No,No,Commerce
+c,d,No,Yes,Yes,Yes,Yes,No,Yes,No,Commerce
+b,b,Yes,Yes,Yes,No,No,No,Yes,Yes,Commerce
+a,d,No,Yes,Yes,Yes,No,Yes,No,No,Commerce
+c,d,Yes,Yes,No,Yes,No,No,Yes,Yes,Commerce
+b,b,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Commerce
+b,b,Yes,Yes,No,Yes,No,Yes,Yes,No,Commerce
+b,a,No,Yes,Yes,No,No,No,Yes,No,Commerce
+b,c,No,Yes,Yes,Yes,No,No,No,Yes,Commerce
+b,d,No,Yes,No,Yes,No,Yes,Yes,No,Commerce
+c,d,No,Yes,No,Yes,Yes,Yes,No,Yes,Commerce
+b,c,No,Yes,Yes,Yes,Yes,Yes,No,No,Commerce
+b,b,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Commerce
+b,a,No,Yes,No,Yes,Yes,Yes,No,Yes,Commerce
+b,b,No,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+b,a,No,Yes,Yes,No,No,No,No,Yes,Commerce
+a,d,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Commerce
+b,a,Yes,Yes,No,No,No,No,Yes,No,Commerce
+b,b,Yes,Yes,No,No,No,No,Yes,Yes,Commerce
+b,d,No,Yes,Yes,No,No,Yes,No,Yes,Commerce
+a,b,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+a,d,Yes,Yes,No,No,No,No,No,No,Commerce
+b,b,No,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+a,d,No,No,No,Yes,No,Yes,No,No,Commerce
+b,b,No,Yes,No,Yes,Yes,Yes,No,Yes,Commerce
+a,a,Yes,Yes,No,Yes,No,No,Yes,No,Commerce
+a,a,No,Yes,No,Yes,No,No,No,Yes,Commerce
+b,a,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+b,b,No,Yes,No,Yes,Yes,No,Yes,Yes,Commerce
+a,c,No,Yes,No,Yes,No,Yes,Yes,No,Commerce
+b,c,No,Yes,Yes,No,Yes,Yes,Yes,No,Commerce
+b,d,No,Yes,Yes,No,Yes,Yes,No,Yes,Commerce
+b,d,Yes,Yes,Yes,No,No,No,No,No,Commerce
+b,a,No,Yes,No,No,Yes,No,Yes,No,Commerce
+c,b,No,Yes,No,Yes,No,No,No,Yes,Commerce
+b,a,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Commerce
+b,d,No,Yes,No,Yes,Yes,No,Yes,No,Commerce
+b,d,No,Yes,Yes,No,No,No,No,Yes,Commerce
+b,d,Yes,Yes,No,No,Yes,Yes,No,Yes,Commerce
+a,d,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Commerce
+b,a,No,Yes,No,Yes,No,Yes,No,No,Commerce
+b,a,Yes,Yes,No,Yes,Yes,No,Yes,No,Commerce
+b,a,No,Yes,No,No,Yes,Yes,Yes,Yes,Commerce
+b,b,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Commerce
+b,c,No,Yes,No,No,Yes,No,Yes,No,Commerce
+b,d,No,Yes,Yes,No,Yes,Yes,Yes,No,Commerce
+b,b,No,Yes,Yes,No,Yes,Yes,Yes,No,Commerce
+c,d,Yes,Yes,No,Yes,No,No,Yes,No,Commerce
+b,b,No,Yes,Yes,No,No,No,Yes,Yes,Commerce
+a,d,No,Yes,Yes,No,No,No,No,Yes,Commerce
+b,a,Yes,Yes,Yes,No,No,No,Yes,Yes,Commerce
+b,c,No,Yes,No,No,Yes,Yes,No,Yes,Commerce
+b,d,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Commerce
+b,b,No,Yes,No,Yes,No,No,Yes,Yes,Commerce
+b,c,No,Yes,Yes,No,Yes,No,No,No,Commerce
+a,c,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Commerce
+a,d,No,Yes,Yes,Yes,No,No,No,Yes,Commerce
+b,a,No,Yes,No,No,Yes,No,No,Yes,Commerce
+a,d,No,Yes,Yes,No,No,Yes,No,No,Commerce
+b,b,No,Yes,Yes,No,No,Yes,No,Yes,Commerce
+b,c,Yes,Yes,No,Yes,No,Yes,No,Yes,Commerce
+b,a,No,Yes,No,Yes,Yes,Yes,No,No,Commerce
+b,a,Yes,Yes,No,Yes,No,Yes,Yes,No,Commerce
+b,b,No,Yes,No,No,Yes,No,Yes,Yes,Commerce
+b,c,Yes,Yes,No,Yes,Yes,No,No,Yes,Commerce
+b,a,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Commerce
+a,c,No,Yes,No,Yes,No,No,Yes,Yes,Commerce
+c,b,No,Yes,No,Yes,Yes,No,Yes,No,Commerce
+a,d,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Commerce
+c,d,No,Yes,No,Yes,No,Yes,No,Yes,Commerce
+b,c,No,Yes,Yes,Yes,No,No,Yes,No,Commerce
+c,d,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Commerce
+b,b,No,Yes,No,No,No,Yes,No,No,Commerce
+b,a,Yes,Yes,No,Yes,No,No,No,Yes,Commerce
+b,c,No,Yes,Yes,No,Yes,Yes,No,No,Commerce
+a,b,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Commerce
+b,b,Yes,Yes,Yes,No,No,Yes,Yes,No,Commerce
+b,d,No,Yes,Yes,No,No,No,No,No,Commerce
+c,d,Yes,No,No,Yes,Yes,No,Yes,No,Commerce
+c,d,No,Yes,Yes,Yes,No,No,No,No,Commerce
+b,d,No,Yes,Yes,No,Yes,No,No,No,Commerce
+b,b,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Commerce
+b,b,No,Yes,No,Yes,Yes,No,No,Yes,Commerce
+a,d,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+b,d,No,Yes,No,Yes,No,No,No,No,Commerce
+b,c,No,Yes,No,No,No,Yes,No,Yes,Commerce
+b,a,No,Yes,Yes,Yes,Yes,No,Yes,No,Commerce
+a,d,Yes,Yes,No,No,No,Yes,Yes,No,Commerce
+b,b,Yes,Yes,No,Yes,Yes,Yes,No,No,Commerce
+b,c,Yes,Yes,No,No,Yes,No,Yes,Yes,Commerce
+b,c,No,Yes,No,No,No,No,Yes,Yes,Commerce
+a,c,Yes,Yes,No,Yes,No,No,No,Yes,Commerce
+b,c,Yes,Yes,No,Yes,No,Yes,No,No,Commerce
+c,d,No,Yes,No,Yes,Yes,Yes,Yes,No,Commerce
+c,d,No,Yes,No,Yes,No,Yes,Yes,No,Commerce
+b,b,No,Yes,No,No,Yes,Yes,Yes,Yes,Commerce
+b,b,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Commerce
+b,d,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Commerce
+b,a,Yes,Yes,Yes,Yes,No,No,Yes,No,Commerce
+b,a,No,Yes,No,No,No,No,No,No,Commerce
+b,b,Yes,Yes,No,No,Yes,No,Yes,Yes,Commerce
+b,a,No,Yes,No,Yes,Yes,No,No,No,Commerce
+a,d,No,Yes,No,Yes,No,No,Yes,No,Commerce
+b,c,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Commerce
+b,b,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+c,d,No,Yes,No,Yes,Yes,No,No,Yes,Commerce
+b,c,Yes,Yes,No,Yes,No,No,No,Yes,Commerce
+a,c,No,Yes,Yes,Yes,No,No,Yes,No,Commerce
+a,c,No,Yes,Yes,Yes,No,Yes,Yes,No,Commerce
+b,b,Yes,Yes,No,No,No,No,No,No,Commerce
+c,c,No,Yes,No,Yes,Yes,No,Yes,No,Commerce
+c,d,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Commerce
+b,d,No,Yes,No,Yes,No,No,No,Yes,Commerce
+c,c,No,Yes,No,Yes,Yes,No,Yes,Yes,Commerce
+b,b,No,Yes,No,No,No,No,No,No,Commerce
+b,b,Yes,Yes,Yes,Yes,Yes,No,No,No,Commerce
+b,b,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Commerce
+b,d,No,Yes,Yes,Yes,No,Yes,Yes,No,Commerce
+b,a,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Commerce
+b,b,No,Yes,Yes,Yes,No,Yes,Yes,No,Commerce
+b,b,Yes,Yes,No,Yes,No,Yes,No,No,Commerce
+b,d,No,Yes,No,Yes,No,No,Yes,No,Commerce
+b,b,No,Yes,No,Yes,Yes,Yes,No,No,Commerce
+b,a,No,Yes,Yes,Yes,Yes,No,No,Yes,Commerce
+b,c,No,Yes,No,Yes,No,Yes,No,No,Commerce
+b,d,Yes,Yes,Yes,Yes,No,No,Yes,No,Commerce
+b,d,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Commerce
+b,d,Yes,Yes,Yes,Yes,No,Yes,No,No,Commerce
+b,d,Yes,Yes,No,Yes,Yes,No,No,No,Commerce
+a,c,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+b,b,No,Yes,No,No,No,No,Yes,Yes,Commerce
+b,d,Yes,Yes,No,No,Yes,Yes,Yes,No,Commerce
+a,c,No,Yes,Yes,Yes,No,No,No,Yes,Commerce
+a,d,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+b,c,No,Yes,Yes,No,Yes,No,No,Yes,Commerce
+c,d,No,Yes,Yes,No,No,Yes,Yes,Yes,Commerce
+c,d,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+c,d,Yes,No,No,Yes,No,No,Yes,No,Commerce
+b,c,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Commerce
+b,d,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Commerce
+b,d,Yes,Yes,No,No,Yes,No,No,Yes,Commerce
+b,b,No,Yes,Yes,No,No,Yes,Yes,Yes,Commerce
+b,b,No,Yes,Yes,No,No,Yes,No,No,Commerce
+c,d,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+c,d,No,Yes,No,No,Yes,Yes,Yes,Yes,Commerce
+b,c,No,Yes,No,No,No,Yes,Yes,Yes,Commerce
+b,d,Yes,Yes,Yes,No,Yes,Yes,No,No,Commerce
+b,c,No,Yes,No,No,No,No,No,Yes,Commerce
+b,c,No,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+b,c,No,Yes,No,Yes,No,No,No,Yes,Commerce
+a,a,Yes,Yes,No,Yes,No,No,Yes,Yes,Commerce
+b,a,No,Yes,No,Yes,No,No,Yes,No,Commerce
+b,b,No,Yes,Yes,Yes,Yes,No,Yes,No,Commerce
+a,d,Yes,Yes,Yes,No,No,No,Yes,No,Commerce
+b,c,Yes,Yes,No,Yes,Yes,No,Yes,No,Commerce
+c,c,No,Yes,No,Yes,No,No,Yes,No,Commerce
+a,a,No,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+a,d,No,Yes,Yes,Yes,No,Yes,No,Yes,Commerce
+b,d,No,Yes,No,No,Yes,Yes,No,Yes,Commerce
+a,b,No,Yes,No,Yes,No,No,Yes,Yes,Commerce
+b,a,No,Yes,No,Yes,No,No,No,No,Commerce
+c,d,Yes,Yes,Yes,Yes,No,No,Yes,No,Commerce
+a,d,No,No,No,Yes,No,Yes,Yes,No,Commerce
+b,d,Yes,Yes,No,No,Yes,No,Yes,Yes,Commerce
+b,a,No,Yes,No,Yes,No,Yes,Yes,No,Commerce
+b,c,No,Yes,No,Yes,Yes,Yes,Yes,No,Commerce
+b,c,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Commerce
+c,d,No,Yes,Yes,Yes,No,No,No,Yes,Commerce
+c,d,No,Yes,No,No,Yes,No,Yes,Yes,Commerce
+b,d,Yes,Yes,No,Yes,No,No,No,No,Commerce
+b,d,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Commerce
+b,d,Yes,Yes,No,No,Yes,Yes,No,No,Commerce
+b,b,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Commerce
+a,c,Yes,Yes,No,Yes,No,No,Yes,Yes,Commerce
+b,d,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+b,b,No,Yes,No,Yes,No,No,No,Yes,Commerce
+c,d,No,No,Yes,Yes,No,No,Yes,No,Commerce
+b,d,Yes,Yes,Yes,No,No,No,Yes,Yes,Commerce
+b,b,No,Yes,No,Yes,No,Yes,Yes,No,Commerce
+b,c,Yes,Yes,Yes,Yes,No,No,Yes,No,Commerce
+b,d,Yes,Yes,No,Yes,Yes,No,Yes,No,Commerce
+c,d,No,No,No,Yes,Yes,No,Yes,No,Commerce
+a,d,Yes,No,Yes,Yes,No,Yes,Yes,No,Commerce
+c,d,No,Yes,Yes,Yes,Yes,No,No,Yes,Commerce
+b,b,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Commerce
+b,c,Yes,Yes,No,No,Yes,Yes,Yes,No,Commerce
+b,d,Yes,Yes,No,No,No,No,No,Yes,Commerce
+b,b,Yes,Yes,Yes,No,No,No,No,No,Commerce
+c,b,No,Yes,No,Yes,No,No,Yes,No,Commerce
+b,b,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Commerce
+a,b,Yes,Yes,No,Yes,No,No,Yes,No,Commerce
+b,c,No,Yes,Yes,Yes,Yes,No,No,No,Commerce
+b,d,Yes,Yes,Yes,Yes,Yes,No,No,No,Commerce
+b,b,No,Yes,Yes,Yes,Yes,No,No,Yes,Commerce
+b,d,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Commerce
+b,c,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Commerce
+a,a,Yes,Yes,Yes,Yes,No,No,Yes,No,Commerce
+a,d,Yes,No,No,Yes,No,No,Yes,No,Commerce
+b,b,Yes,Yes,Yes,Yes,No,No,Yes,No,Commerce
+a,d,Yes,Yes,No,No,No,No,Yes,Yes,Commerce
+c,d,No,No,Yes,Yes,No,Yes,Yes,No,Commerce
+b,b,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Commerce
+b,a,Yes,Yes,No,Yes,Yes,No,No,Yes,Commerce
+b,d,No,Yes,Yes,Yes,Yes,Yes,No,No,Commerce
+b,c,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Commerce
+a,c,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+b,c,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+b,b,No,Yes,No,Yes,Yes,Yes,Yes,No,Commerce
+b,b,No,Yes,No,Yes,No,No,No,No,Commerce
+c,a,No,Yes,No,Yes,Yes,No,Yes,Yes,Commerce
+b,a,No,Yes,Yes,No,Yes,No,Yes,No,Commerce
+b,b,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+b,a,No,Yes,Yes,No,Yes,No,No,Yes,Commerce
+c,d,Yes,Yes,No,No,Yes,No,Yes,Yes,Commerce
+b,c,No,Yes,Yes,No,No,Yes,No,No,Commerce
+a,d,Yes,Yes,No,Yes,No,No,No,Yes,Commerce
+b,d,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Commerce
+b,d,No,Yes,No,Yes,Yes,Yes,Yes,No,Commerce
+b,c,No,Yes,No,Yes,No,No,No,No,Commerce
+b,b,No,Yes,No,Yes,No,No,Yes,No,Commerce
+a,b,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+b,a,Yes,Yes,Yes,No,No,No,Yes,No,Commerce
+a,d,Yes,Yes,Yes,No,No,Yes,Yes,No,Commerce
+c,b,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Commerce
+b,a,No,Yes,No,No,Yes,No,Yes,Yes,Commerce
+a,d,No,Yes,No,Yes,No,Yes,No,No,Commerce
+c,c,No,Yes,No,Yes,Yes,No,No,Yes,Commerce
+b,b,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Commerce
+b,b,No,Yes,Yes,Yes,Yes,Yes,No,No,Commerce
+b,c,Yes,Yes,No,No,Yes,No,No,Yes,Commerce
+b,d,Yes,Yes,No,No,No,Yes,Yes,Yes,Commerce
+b,d,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Commerce
+b,c,No,Yes,No,Yes,No,No,Yes,Yes,Commerce
+b,a,Yes,Yes,No,Yes,Yes,No,No,No,Commerce
+a,d,No,Yes,Yes,No,No,Yes,Yes,No,Commerce
+b,c,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Commerce
+b,c,No,Yes,No,Yes,Yes,Yes,No,Yes,Commerce
+b,d,No,Yes,No,No,No,No,No,Yes,Commerce
+b,b,No,Yes,Yes,Yes,No,Yes,No,No,Commerce
+b,a,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+b,d,Yes,Yes,No,No,Yes,No,Yes,No,Commerce
+a,a,No,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+b,b,No,Yes,Yes,No,No,Yes,Yes,No,Commerce
+b,c,No,Yes,Yes,Yes,No,Yes,No,No,Commerce
+b,d,No,Yes,No,No,No,Yes,No,Yes,Commerce
+b,d,Yes,Yes,No,No,No,Yes,Yes,No,Commerce
+a,a,No,Yes,Yes,Yes,No,No,No,No,Commerce
+a,c,No,Yes,No,Yes,No,No,No,No,Commerce
+a,c,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Commerce
+a,a,No,Yes,Yes,Yes,No,Yes,Yes,No,Commerce
+b,d,Yes,Yes,No,Yes,No,Yes,No,No,Commerce
+b,c,No,Yes,No,No,No,Yes,Yes,No,Commerce
+a,d,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Commerce
+b,c,No,Yes,Yes,No,No,No,Yes,No,Commerce
+b,d,Yes,Yes,Yes,Yes,No,No,No,No,Commerce
+b,a,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Commerce
+b,d,No,Yes,Yes,No,Yes,No,No,Yes,Commerce
+a,c,No,Yes,No,Yes,No,No,Yes,No,Commerce
+b,a,Yes,Yes,Yes,Yes,Yes,No,No,No,Commerce
+a,d,Yes,Yes,No,Yes,Yes,No,Yes,No,Commerce
+b,d,No,Yes,Yes,Yes,Yes,No,No,Yes,Commerce
+b,b,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Commerce
+b,d,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Commerce
+b,d,Yes,Yes,Yes,Yes,No,No,No,Yes,Commerce
+b,a,No,Yes,No,Yes,No,Yes,No,Yes,Commerce
+b,d,No,Yes,Yes,No,No,Yes,Yes,Yes,Commerce
+b,c,Yes,Yes,No,Yes,No,No,Yes,Yes,Commerce
+a,b,Yes,Yes,Yes,Yes,No,No,Yes,No,Commerce
+b,b,Yes,Yes,No,No,No,No,Yes,No,Commerce
+b,a,Yes,Yes,No,No,Yes,No,Yes,No,Commerce
+b,b,No,Yes,Yes,Yes,No,No,No,Yes,Commerce
+a,b,No,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+a,a,No,Yes,No,Yes,No,No,Yes,No,Commerce
+b,c,No,Yes,Yes,Yes,No,No,No,No,Commerce
+b,c,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Commerce
+b,a,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+c,d,No,Yes,No,No,No,No,No,Yes,Commerce
+a,d,No,Yes,No,Yes,No,No,No,Yes,Commerce
+b,c,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+a,d,No,Yes,No,Yes,No,Yes,No,Yes,Commerce
+c,d,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+b,a,No,Yes,No,Yes,Yes,No,No,Yes,Commerce
+b,b,No,Yes,Yes,No,No,No,Yes,No,Commerce
+c,b,No,Yes,Yes,Yes,Yes,No,Yes,No,Commerce
+b,a,No,Yes,No,No,No,Yes,Yes,No,Commerce
+b,b,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Commerce
+a,d,Yes,Yes,No,Yes,No,Yes,Yes,No,Commerce
+b,b,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Commerce
+b,c,No,Yes,No,Yes,No,Yes,No,Yes,Commerce
+a,d,Yes,Yes,Yes,No,No,No,No,Yes,Commerce
+b,a,Yes,Yes,Yes,No,Yes,No,Yes,No,Commerce
+b,c,No,Yes,No,Yes,No,Yes,Yes,No,Commerce
+c,d,Yes,Yes,No,Yes,No,No,No,Yes,Commerce
+b,c,No,Yes,Yes,No,No,Yes,No,Yes,Commerce
+b,c,No,Yes,No,Yes,Yes,No,Yes,No,Commerce
+b,d,No,Yes,No,No,No,Yes,Yes,Yes,Commerce
+a,d,No,Yes,No,Yes,Yes,No,Yes,Yes,Commerce
+b,a,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Commerce
+a,d,No,Yes,No,Yes,Yes,No,Yes,No,Commerce
+a,d,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Commerce
+c,d,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Commerce
+b,c,No,Yes,Yes,Yes,No,Yes,No,Yes,Commerce
+b,c,Yes,Yes,No,No,No,Yes,Yes,No,Commerce
+b,d,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Commerce
+a,d,Yes,Yes,No,Yes,No,Yes,No,No,Commerce
+b,d,No,Yes,Yes,Yes,No,No,No,No,Commerce
+c,d,No,Yes,Yes,Yes,No,Yes,Yes,No,Commerce
+b,a,Yes,Yes,No,No,No,No,Yes,Yes,Commerce
+c,a,No,Yes,No,Yes,No,No,Yes,Yes,Commerce
+c,d,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Commerce
+b,d,Yes,Yes,No,No,No,No,Yes,No,Commerce
+c,b,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Commerce
+b,c,Yes,Yes,No,No,No,No,No,Yes,Commerce
+c,d,No,Yes,Yes,Yes,No,No,Yes,No,Commerce
+a,d,No,Yes,No,No,No,Yes,Yes,Yes,Commerce
+b,d,Yes,Yes,No,Yes,No,Yes,Yes,No,Commerce
+b,d,No,Yes,Yes,Yes,No,Yes,No,No,Commerce
+b,a,No,Yes,No,No,No,Yes,Yes,Yes,Commerce
+a,a,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+b,c,No,Yes,No,No,No,Yes,No,No,Commerce
+c,d,No,Yes,No,Yes,No,No,No,No,Commerce
+b,a,Yes,Yes,Yes,Yes,No,No,No,No,Commerce
+b,b,No,Yes,Yes,Yes,No,No,No,No,Commerce
+b,c,No,Yes,No,No,Yes,Yes,Yes,No,Commerce
+b,a,No,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+b,a,No,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+a,c,Yes,Yes,No,Yes,No,No,No,No,Commerce
+b,c,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Commerce
+b,d,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Commerce
+b,c,Yes,Yes,Yes,Yes,No,Yes,No,No,Commerce
+c,b,No,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+c,d,No,No,No,Yes,No,Yes,Yes,No,Commerce
+a,d,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Commerce
+c,d,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Commerce
+b,d,No,Yes,No,Yes,Yes,Yes,No,No,Commerce
+b,b,Yes,Yes,Yes,Yes,No,No,No,Yes,Commerce
+a,d,Yes,Yes,No,No,No,No,No,Yes,Commerce
+b,b,No,Yes,No,No,No,Yes,Yes,No,Commerce
+b,b,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Commerce
+a,c,No,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+b,c,No,Yes,Yes,No,No,No,Yes,Yes,Commerce
+b,a,No,Yes,Yes,Yes,No,No,Yes,No,Commerce
+b,c,No,Yes,No,No,Yes,Yes,Yes,Yes,Commerce
+b,b,Yes,Yes,Yes,Yes,No,Yes,No,No,Commerce
+b,d,Yes,Yes,No,Yes,Yes,Yes,No,No,Commerce
+b,c,No,Yes,Yes,Yes,Yes,No,Yes,No,Commerce
+a,d,Yes,No,No,Yes,No,No,No,No,Commerce
+b,c,No,Yes,No,No,Yes,No,No,No,Commerce
+a,d,No,No,No,Yes,No,No,Yes,No,Commerce
+b,d,No,Yes,No,Yes,Yes,No,No,Yes,Commerce
+c,d,No,Yes,Yes,No,No,No,Yes,No,Commerce
+c,c,No,Yes,No,Yes,No,No,No,Yes,Commerce
+a,d,No,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+a,d,Yes,No,Yes,Yes,No,No,Yes,No,Commerce
+b,d,Yes,Yes,No,Yes,No,No,Yes,No,Commerce
+a,b,Yes,Yes,No,Yes,No,No,Yes,Yes,Commerce
+b,c,No,Yes,No,Yes,Yes,No,No,No,Commerce
+c,d,No,No,No,Yes,Yes,Yes,Yes,No,Commerce
+a,d,No,Yes,No,Yes,No,No,No,No,Commerce
+a,c,No,Yes,Yes,Yes,No,No,No,No,Commerce
+b,a,No,Yes,Yes,Yes,Yes,No,No,No,Commerce
+b,b,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Commerce
+a,c,No,Yes,No,Yes,No,Yes,No,Yes,Commerce
+b,a,No,Yes,No,No,Yes,Yes,Yes,No,Commerce
+b,b,Yes,Yes,No,Yes,Yes,No,No,Yes,Commerce
+b,d,Yes,Yes,No,Yes,No,No,Yes,Yes,Commerce
+a,d,No,Yes,No,No,No,Yes,No,Yes,Commerce
+b,c,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Commerce
+a,d,Yes,Yes,No,No,No,Yes,Yes,Yes,Commerce
+b,a,No,Yes,Yes,Yes,No,Yes,No,No,Commerce
+c,b,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Commerce
+b,a,No,Yes,Yes,No,Yes,No,Yes,Yes,Commerce
+b,b,No,Yes,Yes,No,No,No,No,No,Commerce
+b,a,No,Yes,No,Yes,Yes,Yes,Yes,No,Commerce
+c,b,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+c,b,No,No,No,Yes,No,No,Yes,No,Commerce
+c,d,No,Yes,Yes,No,Yes,No,Yes,No,Commerce
+a,d,No,Yes,Yes,Yes,No,No,No,No,Commerce
+c,d,No,Yes,No,Yes,No,No,Yes,Yes,Commerce
+b,d,No,Yes,No,No,No,No,Yes,No,Commerce
+c,d,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Commerce
+b,b,Yes,Yes,No,Yes,No,No,No,No,Commerce
+a,d,No,Yes,No,Yes,No,Yes,Yes,No,Commerce
+c,d,No,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+a,d,Yes,No,Yes,Yes,No,No,No,No,Commerce
+b,b,Yes,Yes,No,Yes,No,No,No,Yes,Commerce
+b,a,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Commerce
+c,d,No,Yes,Yes,No,Yes,No,Yes,Yes,Commerce
+b,b,Yes,Yes,Yes,No,Yes,No,Yes,No,Commerce
+b,c,No,Yes,Yes,No,No,Yes,Yes,Yes,Commerce
+b,b,No,Yes,No,Yes,Yes,No,No,No,Commerce
+b,a,No,Yes,No,Yes,No,No,No,Yes,Commerce
+b,b,Yes,Yes,Yes,No,No,No,Yes,No,Commerce
+a,c,No,Yes,Yes,Yes,No,Yes,No,No,Commerce
+c,d,No,Yes,Yes,No,No,No,No,Yes,Commerce
+c,d,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Commerce
+b,b,Yes,Yes,Yes,No,No,No,No,Yes,Commerce
+b,a,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Commerce
+b,c,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Commerce
+b,c,Yes,Yes,No,No,No,Yes,Yes,Yes,Commerce
+a,d,Yes,No,No,Yes,No,Yes,Yes,No,Commerce
+b,d,No,Yes,Yes,No,No,No,Yes,No,Commerce
+a,d,No,No,Yes,Yes,No,Yes,Yes,No,Commerce
+b,a,Yes,Yes,No,Yes,No,No,No,No,Commerce
+b,b,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Commerce
+a,d,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+b,d,No,Yes,No,No,No,Yes,Yes,No,Commerce
+b,a,No,No,Yes,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,Yes,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+a,d,No,No,Yes,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,No,Yes,No,No,No,Higher Institute of Administrative Sciences
+b,c,No,No,No,Yes,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,No,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+c,d,No,No,Yes,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+c,b,No,No,No,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,Yes,No,No,No,No,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,Yes,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,Yes,Yes,No,No,No,Higher Institute of Administrative Sciences
+c,d,No,No,Yes,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+c,d,Yes,No,Yes,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,No,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,No,No,No,No,No,No,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,Yes,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,Yes,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,Yes,Yes,Yes,No,No,Higher Institute of Administrative Sciences
+b,b,No,No,No,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,Yes,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+c,d,No,No,No,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,Yes,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,No,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,No,Yes,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,Yes,No,No,Yes,No,Higher Institute of Administrative Sciences
+c,d,No,No,Yes,Yes,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,No,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,No,Yes,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,No,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,No,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+c,d,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,No,No,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,No,Yes,No,No,No,No,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,No,Yes,No,No,No,No,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,No,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,No,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,Yes,Yes,No,No,No,Higher Institute of Administrative Sciences
+c,d,No,No,Yes,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,No,Yes,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,No,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,a,No,No,No,Yes,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,No,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,Yes,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,Yes,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,Yes,No,Yes,No,No,Higher Institute of Administrative Sciences
+c,a,No,No,No,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,No,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+b,b,No,No,No,Yes,No,Yes,No,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,Yes,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,No,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,Yes,Yes,Yes,No,No,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+c,b,No,No,No,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,No,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,c,No,No,No,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,No,No,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,No,Yes,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,No,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,No,No,No,No,No,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,No,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,c,No,No,No,Yes,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,Yes,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+c,d,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,No,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,No,No,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+c,b,No,No,No,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,No,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,Yes,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,a,No,No,No,No,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,Yes,Yes,No,No,No,Higher Institute of Administrative Sciences
+b,d,No,No,No,No,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,b,No,No,No,No,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,Yes,No,No,No,No,Higher Institute of Administrative Sciences
+a,d,No,No,No,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,No,Yes,No,No,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,Yes,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,No,No,Yes,Yes,No,No,Higher Institute of Administrative Sciences
+b,d,No,No,No,No,Yes,No,No,No,Higher Institute of Administrative Sciences
+b,c,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,No,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+c,d,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+a,d,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,Yes,No,No,No,No,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,Yes,Yes,Yes,No,No,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,Yes,Yes,No,No,No,Higher Institute of Administrative Sciences
+c,d,No,No,Yes,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+a,d,No,No,No,Yes,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,Yes,Yes,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,Yes,No,No,No,No,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,Yes,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,Yes,Yes,No,No,No,Higher Institute of Administrative Sciences
+c,d,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,No,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,Yes,No,Yes,No,No,Higher Institute of Administrative Sciences
+b,d,No,No,No,Yes,Yes,No,No,No,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,No,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,Yes,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,No,No,No,No,No,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,No,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+c,d,No,No,No,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,No,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+a,d,No,No,Yes,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+a,d,No,No,No,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,No,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,Yes,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,No,No,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,No,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,c,No,No,No,Yes,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,No,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,No,No,No,Yes,No,Higher Institute of Administrative Sciences
+c,a,No,No,No,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,No,Yes,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,No,Yes,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,No,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+c,c,No,No,No,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+c,d,No,No,No,No,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+a,d,No,No,Yes,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+a,d,Yes,No,No,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,No,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,Yes,Yes,No,No,No,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,No,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,Yes,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,Yes,No,Yes,No,No,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,Yes,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,Yes,No,Yes,No,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,No,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+b,d,No,No,No,Yes,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,Yes,No,Yes,No,No,Higher Institute of Administrative Sciences
+b,c,Yes,No,Yes,Yes,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,c,No,No,No,Yes,No,No,No,No,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,Yes,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,Yes,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,No,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,Yes,Yes,No,No,No,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,Yes,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+b,c,Yes,No,Yes,Yes,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+c,d,No,No,No,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,No,Yes,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,No,No,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,Yes,Yes,Yes,No,No,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,No,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+a,d,Yes,No,No,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,Yes,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,Yes,No,No,No,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,Yes,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,Yes,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,No,Yes,Yes,Yes,No,No,Higher Institute of Administrative Sciences
+b,c,No,No,No,Yes,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,No,Yes,No,Yes,No,No,Higher Institute of Administrative Sciences
+b,d,No,No,No,No,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,Yes,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+c,a,No,No,Yes,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+a,a,No,No,No,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,No,No,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,Yes,No,No,No,No,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,Yes,No,Yes,No,No,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,Yes,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,d,No,No,No,Yes,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,No,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,No,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,Yes,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,b,No,No,No,Yes,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,c,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,Yes,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,Yes,Yes,Yes,No,No,Higher Institute of Administrative Sciences
+b,c,No,No,No,Yes,No,Yes,No,No,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,Yes,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,No,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,No,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+a,a,No,No,Yes,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,No,Yes,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,No,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,No,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,No,No,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,Yes,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,No,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,Yes,Yes,No,No,No,Higher Institute of Administrative Sciences
+b,d,No,No,No,No,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,No,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+c,d,Yes,No,No,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,No,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,Yes,No,No,No,No,Higher Institute of Administrative Sciences
+a,a,Yes,No,No,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,Yes,No,Yes,No,No,Higher Institute of Administrative Sciences
+b,d,No,No,No,No,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+a,d,No,No,Yes,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+c,c,No,No,No,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,Yes,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,Yes,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,No,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,d,No,No,No,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,No,Yes,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+c,d,Yes,No,No,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+a,c,Yes,No,No,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,No,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,Yes,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,No,No,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,Yes,No,Yes,No,No,Higher Institute of Administrative Sciences
+c,a,No,No,Yes,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,Yes,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+a,a,No,No,Yes,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,No,Yes,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+c,d,Yes,No,No,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,No,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,No,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,Yes,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,No,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+c,c,No,No,No,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,No,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,Yes,Yes,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,No,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,No,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,Yes,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,c,No,No,No,No,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+b,d,No,No,No,Yes,Yes,Yes,No,No,Higher Institute of Administrative Sciences
+b,b,No,No,No,Yes,Yes,Yes,No,No,Higher Institute of Administrative Sciences
+b,d,No,No,No,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,No,No,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,No,Yes,Yes,No,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,Yes,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,No,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,No,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,No,Yes,Yes,No,No,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,No,Yes,No,No,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,No,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,No,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,No,No,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,No,Yes,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+a,c,No,No,Yes,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,No,No,No,No,No,Higher Institute of Administrative Sciences
+b,c,No,No,No,No,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,d,No,No,No,No,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,No,No,No,Yes,No,No,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,Yes,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,No,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,No,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+a,d,No,No,Yes,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,Yes,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,a,No,No,No,No,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,No,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,No,No,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+a,c,No,No,No,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,No,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,Yes,Yes,No,No,No,Higher Institute of Administrative Sciences
+b,c,No,No,No,Yes,Yes,No,No,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,Yes,Yes,Yes,No,No,Higher Institute of Administrative Sciences
+b,a,No,No,No,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,No,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,No,No,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,No,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,No,Yes,Yes,No,No,Higher Institute of Administrative Sciences
+a,d,Yes,No,Yes,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,Yes,Yes,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+c,d,Yes,No,No,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+c,d,No,No,No,Yes,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,No,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,No,No,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+c,d,Yes,No,No,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,No,No,No,No,Yes,No,Higher Institute of Administrative Sciences
+a,a,No,No,No,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,Yes,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,Yes,Yes,Yes,No,No,Higher Institute of Administrative Sciences
+c,d,No,No,No,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,No,No,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,Yes,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,Yes,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+a,c,Yes,No,No,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,No,Yes,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,b,No,No,No,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+a,d,No,No,No,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,No,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,Yes,Yes,Yes,No,No,Higher Institute of Administrative Sciences
+b,a,No,No,No,Yes,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,Yes,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,No,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+b,c,No,No,No,No,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,No,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,Yes,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,No,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+c,d,No,No,No,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,No,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+a,a,Yes,No,Yes,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,No,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,Yes,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,No,No,Yes,No,No,Higher Institute of Administrative Sciences
+c,b,No,No,Yes,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+a,d,Yes,No,Yes,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+c,d,Yes,No,No,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,No,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,No,No,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,No,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,No,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,No,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,Yes,Yes,No,No,No,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,Yes,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+b,b,No,No,No,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,No,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,No,Yes,No,No,Yes,No,Higher Institute of Administrative Sciences
+c,c,No,No,No,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,Yes,No,No,No,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,Yes,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,No,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+c,d,Yes,No,No,Yes,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,Yes,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,No,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,Yes,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,No,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,Yes,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,c,No,No,No,No,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+c,d,No,No,No,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,No,Yes,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,Yes,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,No,No,No,Yes,No,Higher Institute of Administrative Sciences
+a,d,Yes,No,No,Yes,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,No,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+a,d,No,No,No,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,No,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,Yes,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,No,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,No,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,No,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,No,No,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,Yes,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,No,No,Yes,No,No,Higher Institute of Administrative Sciences
+a,d,Yes,No,No,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,No,Yes,No,No,No,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,No,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,Yes,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+a,d,Yes,No,Yes,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,Yes,No,No,No,No,Higher Institute of Administrative Sciences
+b,c,Yes,No,Yes,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+c,d,No,No,No,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,No,No,No,No,No,No,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,Yes,No,No,No,No,Higher Institute of Administrative Sciences
+a,d,Yes,No,Yes,Yes,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,Yes,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,No,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,No,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,Yes,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,c,No,No,No,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,No,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+c,b,No,No,Yes,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,No,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,No,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,Yes,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,Yes,No,Yes,No,No,Higher Institute of Administrative Sciences
+b,c,No,No,No,No,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,No,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,No,No,Yes,No,No,Higher Institute of Administrative Sciences
+b,a,No,No,No,Yes,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,Yes,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,Yes,Yes,Yes,No,No,Higher Institute of Administrative Sciences
+a,c,No,No,Yes,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+a,d,Yes,No,No,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,Yes,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,No,No,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,No,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,No,Yes,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,No,No,No,No,No,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,Yes,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,a,No,No,No,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,Yes,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,No,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,No,Yes,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,No,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,No,No,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,No,Yes,Yes,Yes,No,No,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,Yes,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,No,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,No,Yes,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,d,No,No,No,Yes,No,Yes,No,No,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,Yes,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,Yes,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,Yes,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,No,No,No,No,No,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,No,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,Yes,No,Yes,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,No,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,No,Yes,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,b,No,No,No,Yes,Yes,No,No,No,Higher Institute of Administrative Sciences
+c,d,No,No,Yes,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,a,No,No,Yes,Yes,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,Yes,Yes,No,No,No,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,Yes,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,No,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,No,No,No,No,No,No,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,No,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,Yes,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+c,d,No,No,Yes,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,No,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+c,d,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+a,c,No,No,No,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,Yes,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+a,d,Yes,No,No,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,Yes,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+a,d,Yes,No,Yes,Yes,No,No,No,Yes,Higher Institute of Administrative Sciences
+b,c,No,No,Yes,Yes,No,Yes,No,Yes,Higher Institute of Administrative Sciences
+c,d,No,No,Yes,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,d,Yes,No,Yes,No,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,Yes,Yes,No,No,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,b,No,No,Yes,No,No,No,No,No,Higher Institute of Administrative Sciences
+b,b,No,No,No,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+c,d,No,No,Yes,No,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+c,b,Yes,No,No,Yes,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+a,d,No,No,No,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+b,a,Yes,No,Yes,Yes,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+b,d,No,No,No,Yes,Yes,Yes,No,Yes,Higher Institute of Administrative Sciences
+b,d,Yes,No,No,Yes,No,No,No,No,Higher Institute of Administrative Sciences
+b,a,No,No,No,Yes,Yes,No,No,No,Higher Institute of Administrative Sciences
+b,c,Yes,No,Yes,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+a,b,No,Yes,Yes,Yes,No,Yes,No,Yes,Law
+a,b,No,No,Yes,Yes,No,No,Yes,No,Law
+a,c,Yes,No,No,No,Yes,Yes,No,Yes,Law
+a,b,Yes,No,No,No,No,No,No,No,Law
+a,d,No,No,Yes,No,Yes,Yes,No,No,Law
+a,d,No,Yes,Yes,No,No,Yes,Yes,No,Law
+a,d,No,No,Yes,No,Yes,Yes,Yes,Yes,Law
+a,c,No,No,No,No,Yes,Yes,No,Yes,Law
+a,c,No,Yes,Yes,Yes,Yes,No,No,No,Law
+a,c,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Law
+a,d,No,Yes,Yes,No,Yes,Yes,Yes,No,Law
+a,a,No,Yes,No,No,Yes,Yes,Yes,No,Law
+a,b,No,Yes,No,No,Yes,No,Yes,Yes,Law
+a,d,Yes,No,Yes,No,Yes,No,Yes,No,Law
+a,d,Yes,Yes,No,No,Yes,No,No,No,Law
+a,b,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Law
+c,b,No,Yes,No,No,Yes,Yes,Yes,Yes,Law
+c,b,No,Yes,No,Yes,Yes,No,No,Yes,Law
+a,a,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Law
+a,b,Yes,Yes,No,No,Yes,No,Yes,No,Law
+a,a,No,No,No,Yes,Yes,Yes,No,No,Law
+a,b,No,No,Yes,No,No,Yes,Yes,Yes,Law
+a,a,Yes,No,Yes,No,Yes,Yes,No,Yes,Law
+b,b,Yes,Yes,Yes,No,Yes,No,No,Yes,Law
+a,a,Yes,No,No,No,Yes,No,Yes,Yes,Law
+a,d,No,No,No,No,Yes,Yes,No,No,Law
+a,c,No,No,No,No,No,Yes,No,Yes,Law
+a,c,No,Yes,No,No,Yes,Yes,No,Yes,Law
+a,b,Yes,No,Yes,No,Yes,No,No,Yes,Law
+a,c,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Law
+a,c,Yes,No,Yes,No,Yes,Yes,No,Yes,Law
+a,b,Yes,No,Yes,No,Yes,Yes,No,Yes,Law
+b,c,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Law
+a,c,Yes,No,No,Yes,No,Yes,Yes,Yes,Law
+a,d,No,No,No,Yes,No,Yes,Yes,No,Law
+a,a,No,Yes,No,Yes,No,Yes,Yes,Yes,Law
+a,b,No,No,No,Yes,No,Yes,No,Yes,Law
+a,d,No,No,No,Yes,Yes,Yes,Yes,No,Law
+a,b,No,Yes,No,No,Yes,No,Yes,No,Law
+b,b,No,Yes,Yes,No,Yes,No,Yes,No,Law
+a,c,No,Yes,Yes,No,No,Yes,Yes,Yes,Law
+a,c,No,No,No,Yes,Yes,No,Yes,No,Law
+a,c,Yes,Yes,No,Yes,Yes,No,Yes,No,Law
+a,c,No,Yes,Yes,No,No,No,No,Yes,Law
+a,a,No,No,Yes,Yes,No,Yes,Yes,No,Law
+a,a,Yes,Yes,No,Yes,Yes,No,Yes,No,Law
+a,b,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Law
+a,b,No,Yes,No,Yes,No,No,Yes,No,Law
+a,a,No,No,Yes,No,Yes,No,No,No,Law
+a,d,Yes,No,No,No,Yes,Yes,Yes,Yes,Law
+a,d,No,Yes,No,No,Yes,Yes,Yes,No,Law
+a,c,No,Yes,No,Yes,Yes,Yes,No,Yes,Law
+c,b,No,No,Yes,Yes,Yes,No,Yes,No,Law
+a,c,No,No,Yes,Yes,Yes,No,Yes,Yes,Law
+a,a,No,No,Yes,Yes,No,Yes,Yes,Yes,Law
+a,c,No,Yes,Yes,No,Yes,Yes,No,Yes,Law
+a,b,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Law
+a,d,Yes,Yes,No,Yes,Yes,Yes,No,No,Law
+a,a,Yes,Yes,Yes,Yes,Yes,No,No,No,Law
+a,b,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Law
+a,d,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Law
+a,b,Yes,Yes,Yes,Yes,No,No,No,Yes,Law
+a,d,Yes,No,No,No,Yes,No,No,No,Law
+b,a,No,Yes,No,No,Yes,No,Yes,No,Law
+a,c,No,No,No,Yes,No,Yes,No,Yes,Law
+a,c,No,Yes,No,Yes,No,Yes,Yes,No,Law
+a,b,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Law
+a,d,Yes,Yes,Yes,No,Yes,Yes,No,No,Law
+a,b,Yes,No,No,Yes,Yes,Yes,No,No,Law
+a,c,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Law
+c,b,No,No,No,Yes,Yes,No,Yes,Yes,Law
+a,d,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Law
+a,d,No,No,Yes,No,Yes,No,No,Yes,Law
+a,c,Yes,Yes,No,No,No,Yes,Yes,Yes,Law
+a,b,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Law
+a,b,No,No,Yes,No,No,No,No,No,Law
+a,d,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Law
+a,d,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Law
+a,c,No,No,No,No,Yes,No,Yes,Yes,Law
+a,a,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Law
+a,b,No,Yes,Yes,Yes,Yes,No,No,Yes,Law
+a,a,No,No,Yes,No,Yes,Yes,Yes,Yes,Law
+a,d,Yes,No,No,No,No,Yes,Yes,No,Law
+a,a,No,Yes,Yes,Yes,Yes,No,Yes,No,Law
+a,d,No,Yes,No,No,Yes,Yes,Yes,Yes,Law
+a,b,Yes,Yes,No,Yes,No,No,No,Yes,Law
+a,b,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Law
+a,b,No,No,No,No,No,No,Yes,No,Law
+a,c,No,No,No,Yes,No,No,No,Yes,Law
+a,b,No,Yes,Yes,No,Yes,Yes,No,No,Law
+a,a,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Law
+b,b,Yes,Yes,No,No,Yes,No,Yes,No,Law
+b,c,No,No,Yes,No,Yes,No,Yes,Yes,Law
+c,b,No,No,No,No,No,No,Yes,Yes,Law
+a,b,No,Yes,No,Yes,Yes,No,No,Yes,Law
+a,b,No,Yes,Yes,Yes,Yes,No,Yes,No,Law
+a,c,Yes,No,No,Yes,No,No,Yes,Yes,Law
+a,c,No,Yes,No,Yes,Yes,No,Yes,No,Law
+a,d,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Law
+a,c,No,Yes,Yes,No,Yes,No,Yes,No,Law
+a,b,No,No,Yes,No,No,No,No,Yes,Law
+a,d,Yes,No,No,Yes,No,Yes,Yes,No,Law
+c,b,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Law
+b,a,Yes,No,No,No,Yes,No,Yes,Yes,Law
+a,d,Yes,No,No,No,Yes,No,Yes,No,Law
+a,a,No,Yes,Yes,No,No,No,Yes,Yes,Law
+a,d,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Law
+a,b,Yes,No,Yes,Yes,No,Yes,No,Yes,Law
+a,d,No,Yes,No,No,Yes,No,Yes,No,Law
+a,b,No,No,Yes,Yes,No,No,No,No,Law
+b,c,No,No,Yes,No,Yes,Yes,Yes,No,Law
+a,b,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Law
+b,b,No,No,No,No,Yes,Yes,Yes,No,Law
+a,c,No,Yes,No,No,Yes,Yes,No,No,Law
+a,d,No,No,No,No,Yes,Yes,Yes,Yes,Law
+a,d,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Law
+a,b,No,Yes,No,No,No,No,No,Yes,Law
+a,c,Yes,No,No,Yes,Yes,No,Yes,No,Law
+a,c,No,Yes,Yes,Yes,No,No,Yes,Yes,Law
+a,b,No,No,Yes,No,Yes,Yes,No,No,Law
+a,d,No,No,No,Yes,Yes,No,Yes,No,Law
+a,b,No,No,Yes,No,Yes,Yes,No,Yes,Law
+a,c,Yes,No,No,No,No,No,Yes,No,Law
+a,d,Yes,No,Yes,Yes,No,Yes,Yes,No,Law
+b,b,No,Yes,Yes,No,Yes,Yes,Yes,No,Law
+a,a,Yes,No,Yes,No,No,No,Yes,No,Law
+a,c,No,No,Yes,Yes,No,No,Yes,No,Law
+c,b,Yes,Yes,No,No,Yes,No,Yes,Yes,Law
+a,b,No,Yes,No,Yes,No,Yes,No,No,Law
+a,c,Yes,No,Yes,No,Yes,No,No,No,Law
+b,b,No,Yes,No,No,Yes,No,No,Yes,Law
+a,a,No,No,Yes,No,Yes,Yes,No,No,Law
+b,a,No,No,Yes,No,Yes,No,No,No,Law
+a,b,No,No,Yes,No,Yes,No,No,No,Law
+a,a,Yes,Yes,No,No,Yes,No,Yes,Yes,Law
+b,a,No,No,No,No,Yes,Yes,Yes,No,Law
+a,b,Yes,Yes,No,No,No,No,Yes,Yes,Law
+a,b,No,Yes,No,No,No,Yes,No,Yes,Law
+a,a,No,No,No,No,No,Yes,Yes,Yes,Law
+b,b,Yes,No,Yes,No,Yes,Yes,Yes,No,Law
+a,c,Yes,Yes,Yes,Yes,Yes,No,No,No,Law
+a,a,Yes,No,Yes,No,Yes,No,Yes,No,Law
+a,c,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Law
+a,b,No,Yes,Yes,No,No,No,Yes,No,Law
+a,b,No,Yes,No,No,Yes,No,No,Yes,Law
+a,a,No,No,No,Yes,Yes,Yes,Yes,No,Law
+a,c,No,Yes,No,No,No,Yes,Yes,No,Law
+a,b,No,No,No,Yes,No,No,No,Yes,Law
+a,b,Yes,Yes,Yes,Yes,No,No,Yes,No,Law
+a,b,No,No,Yes,Yes,No,Yes,No,Yes,Law
+a,b,Yes,No,Yes,No,Yes,No,Yes,Yes,Law
+a,a,Yes,Yes,Yes,No,Yes,No,Yes,No,Law
+a,d,No,Yes,No,No,Yes,Yes,No,No,Law
+c,d,No,No,No,No,Yes,No,Yes,Yes,Law
+b,a,No,Yes,No,No,Yes,Yes,Yes,Yes,Law
+a,d,Yes,No,No,No,No,No,Yes,Yes,Law
+a,c,No,Yes,Yes,No,No,Yes,No,Yes,Law
+a,a,No,No,Yes,No,Yes,No,No,Yes,Law
+c,d,No,Yes,Yes,No,Yes,No,Yes,Yes,Law
+a,b,Yes,Yes,No,Yes,No,No,No,No,Law
+a,a,Yes,No,No,No,Yes,No,No,Yes,Law
+b,c,No,No,No,No,Yes,No,Yes,No,Law
+a,b,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Law
+a,b,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Law
+a,b,No,No,No,Yes,No,Yes,No,No,Law
+a,a,Yes,Yes,No,No,Yes,No,No,Yes,Law
+a,b,No,No,No,Yes,No,No,Yes,No,Law
+a,b,Yes,No,Yes,Yes,No,No,Yes,No,Law
+a,c,Yes,No,Yes,No,Yes,Yes,Yes,No,Law
+a,d,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Law
+a,c,No,Yes,No,Yes,Yes,No,Yes,Yes,Law
+a,d,No,Yes,Yes,No,No,No,Yes,No,Law
+a,c,No,No,Yes,Yes,Yes,Yes,No,No,Law
+a,a,No,No,No,No,No,No,Yes,No,Law
+a,c,No,Yes,No,Yes,Yes,No,No,No,Law
+a,b,Yes,No,No,Yes,No,Yes,Yes,No,Law
+a,c,No,No,No,No,No,No,Yes,No,Law
+a,b,No,Yes,No,No,Yes,Yes,Yes,No,Law
+a,d,Yes,No,Yes,No,No,No,Yes,Yes,Law
+a,a,Yes,No,Yes,No,Yes,No,No,Yes,Law
+a,b,Yes,Yes,Yes,Yes,No,No,No,No,Law
+a,b,No,Yes,No,Yes,Yes,No,No,No,Law
+b,c,No,No,Yes,No,Yes,Yes,Yes,Yes,Law
+a,b,No,Yes,No,Yes,No,No,Yes,Yes,Law
+a,a,No,No,Yes,Yes,No,No,Yes,Yes,Law
+a,d,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Law
+a,a,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Law
+b,b,Yes,No,No,Yes,Yes,Yes,Yes,No,Law
+a,a,No,No,No,Yes,Yes,No,No,Yes,Law
+a,a,Yes,No,Yes,No,Yes,No,Yes,Yes,Law
+a,b,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Law
+a,a,No,No,Yes,Yes,No,No,No,No,Law
+a,c,No,No,No,No,No,Yes,Yes,Yes,Law
+a,d,Yes,No,Yes,No,Yes,No,No,Yes,Law
+c,c,No,Yes,No,Yes,Yes,No,Yes,Yes,Law
+a,d,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Law
+b,c,No,No,No,No,Yes,No,No,No,Law
+a,d,Yes,No,No,No,Yes,Yes,Yes,No,Law
+a,b,No,Yes,No,No,No,Yes,Yes,No,Law
+a,a,Yes,No,No,No,Yes,Yes,Yes,Yes,Law
+a,a,No,No,No,Yes,Yes,Yes,Yes,Yes,Law
+a,c,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Law
+a,a,No,Yes,No,No,No,No,Yes,No,Law
+c,b,No,No,No,No,Yes,Yes,Yes,Yes,Law
+a,b,Yes,No,No,Yes,Yes,No,Yes,No,Law
+a,b,No,No,Yes,No,No,No,Yes,No,Law
+a,a,No,Yes,No,No,Yes,Yes,Yes,Yes,Law
+a,b,No,No,No,Yes,No,No,Yes,Yes,Law
+a,c,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Law
+a,d,No,Yes,No,Yes,Yes,Yes,Yes,No,Law
+a,a,Yes,No,Yes,Yes,No,No,Yes,No,Law
+a,b,No,No,No,No,No,No,Yes,Yes,Law
+a,b,Yes,No,No,No,Yes,No,No,No,Law
+a,a,No,No,Yes,Yes,Yes,Yes,Yes,No,Law
+a,b,No,No,No,Yes,No,Yes,Yes,No,Law
+a,c,No,No,No,No,Yes,Yes,Yes,No,Law
+a,d,No,Yes,No,No,No,No,Yes,No,Law
+a,c,Yes,No,No,No,Yes,Yes,Yes,Yes,Law
+a,b,No,Yes,No,Yes,No,Yes,No,Yes,Law
+a,d,No,No,Yes,Yes,Yes,No,Yes,No,Law
+a,b,No,Yes,Yes,No,Yes,No,No,Yes,Law
+a,d,No,No,No,Yes,Yes,No,Yes,Yes,Law
+a,b,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Law
+b,b,No,No,No,No,Yes,Yes,Yes,Yes,Law
+a,b,No,No,No,Yes,Yes,No,No,Yes,Law
+b,a,No,No,No,No,Yes,No,No,No,Law
+a,b,No,Yes,Yes,Yes,Yes,No,No,No,Law
+a,d,No,No,No,No,No,Yes,No,Yes,Law
+a,b,Yes,No,No,No,No,Yes,Yes,Yes,Law
+a,a,Yes,No,No,Yes,Yes,Yes,Yes,No,Law
+a,c,No,Yes,No,No,No,No,Yes,No,Law
+a,b,Yes,No,Yes,Yes,Yes,No,No,Yes,Law
+b,c,Yes,No,No,No,Yes,Yes,Yes,Yes,Law
+a,c,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Law
+a,d,No,No,Yes,No,Yes,No,Yes,Yes,Law
+a,a,No,Yes,No,Yes,Yes,Yes,Yes,No,Law
+a,a,No,No,Yes,No,No,No,No,No,Law
+b,c,No,Yes,Yes,No,Yes,Yes,Yes,No,Law
+a,c,No,No,No,No,Yes,No,No,Yes,Law
+a,a,No,No,No,No,No,Yes,Yes,No,Law
+a,b,No,No,Yes,No,No,No,Yes,Yes,Law
+a,b,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Law
+b,a,No,No,No,No,Yes,No,Yes,Yes,Law
+a,d,No,No,Yes,No,No,Yes,No,Yes,Law
+a,c,No,Yes,Yes,No,Yes,No,Yes,Yes,Law
+a,c,No,No,No,No,No,Yes,Yes,No,Law
+a,a,Yes,Yes,No,No,Yes,No,Yes,No,Law
+a,a,Yes,No,No,No,Yes,No,No,No,Law
+b,b,Yes,No,No,No,Yes,Yes,No,Yes,Law
+a,d,Yes,No,Yes,No,Yes,No,No,No,Law
+a,a,No,No,No,Yes,No,No,No,Yes,Law
+a,b,No,Yes,Yes,No,Yes,No,No,No,Law
+a,d,No,Yes,No,Yes,Yes,No,No,Yes,Law
+a,b,No,Yes,No,No,Yes,Yes,No,Yes,Law
+a,d,No,No,No,Yes,Yes,Yes,No,No,Law
+a,a,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Law
+a,b,No,Yes,Yes,No,No,No,Yes,Yes,Law
+a,d,Yes,Yes,No,No,Yes,No,Yes,Yes,Law
+a,c,No,Yes,No,No,No,No,No,No,Law
+a,d,Yes,Yes,Yes,No,No,No,Yes,Yes,Law
+a,a,No,Yes,Yes,No,Yes,No,Yes,No,Law
+a,a,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Law
+a,d,No,No,No,No,No,No,Yes,Yes,Law
+a,b,Yes,Yes,No,No,No,Yes,Yes,Yes,Law
+a,a,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Law
+b,c,No,Yes,Yes,No,Yes,No,Yes,Yes,Law
+a,b,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Law
+a,a,No,No,No,Yes,Yes,No,Yes,Yes,Law
+a,b,No,Yes,No,No,No,No,Yes,Yes,Law
+b,a,Yes,No,No,No,Yes,No,Yes,No,Law
+a,b,Yes,Yes,Yes,Yes,Yes,No,No,No,Law
+a,a,No,No,Yes,No,Yes,No,Yes,Yes,Law
+a,a,Yes,No,Yes,Yes,Yes,No,Yes,No,Law
+a,b,No,Yes,Yes,Yes,No,Yes,No,No,Law
+a,c,No,No,Yes,Yes,No,Yes,Yes,Yes,Law
+a,b,No,No,No,No,No,Yes,No,No,Law
+a,d,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Law
+a,a,No,Yes,No,Yes,No,No,Yes,No,Law
+a,d,Yes,No,No,No,Yes,Yes,No,Yes,Law
+b,b,No,Yes,No,No,Yes,Yes,No,Yes,Law
+a,b,No,Yes,No,No,Yes,No,No,No,Law
+c,b,No,Yes,Yes,No,Yes,No,Yes,No,Law
+b,a,No,Yes,No,No,Yes,No,Yes,Yes,Law
+a,c,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Law
+a,d,Yes,No,Yes,No,No,No,No,Yes,Law
+a,b,No,No,Yes,Yes,No,No,Yes,Yes,Law
+a,d,Yes,Yes,No,Yes,Yes,No,No,No,Law
+a,c,No,Yes,No,No,No,No,Yes,Yes,Law
+a,c,Yes,Yes,No,No,Yes,No,No,No,Law
+c,b,Yes,No,No,Yes,Yes,No,Yes,No,Law
+a,c,Yes,Yes,No,No,No,No,Yes,No,Law
+c,b,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Law
+a,c,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Law
+a,b,No,No,No,Yes,No,Yes,Yes,Yes,Law
+a,c,Yes,Yes,No,No,Yes,Yes,No,Yes,Law
+b,b,No,Yes,No,No,Yes,No,No,No,Law
+a,d,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Law
+a,b,Yes,No,No,No,Yes,Yes,Yes,No,Law
+b,c,Yes,No,No,No,Yes,Yes,Yes,No,Law
+a,b,No,No,Yes,Yes,Yes,No,No,Yes,Law
+a,a,No,No,No,Yes,No,No,Yes,No,Law
+a,c,Yes,Yes,No,Yes,No,No,Yes,No,Law
+b,c,No,Yes,Yes,No,Yes,No,Yes,No,Law
+a,a,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Law
+a,b,No,Yes,No,Yes,Yes,Yes,Yes,No,Law
+c,b,No,No,Yes,Yes,Yes,Yes,Yes,No,Law
+b,b,Yes,No,No,No,Yes,Yes,Yes,Yes,Law
+a,d,Yes,No,Yes,No,No,Yes,Yes,No,Law
+a,c,No,Yes,Yes,No,Yes,Yes,No,No,Law
+a,a,No,Yes,No,No,No,No,Yes,Yes,Law
+a,a,Yes,No,No,Yes,Yes,No,Yes,Yes,Law
+a,c,No,No,No,No,Yes,No,No,No,Law
+a,d,No,Yes,No,Yes,Yes,No,No,No,Law
+a,d,No,No,Yes,No,No,No,Yes,No,Law
+a,a,No,No,Yes,Yes,Yes,No,Yes,Yes,Law
+a,b,Yes,Yes,Yes,No,Yes,No,No,No,Law
+a,b,No,No,Yes,Yes,No,Yes,No,No,Law
+a,b,No,No,No,No,Yes,No,No,Yes,Law
+a,d,No,No,Yes,No,No,No,No,No,Law
+a,d,Yes,Yes,No,No,Yes,Yes,Yes,No,Law
+a,b,Yes,Yes,No,No,No,No,Yes,No,Law
+a,c,No,Yes,No,Yes,No,No,Yes,Yes,Law
+a,c,No,No,Yes,No,Yes,No,Yes,Yes,Law
+a,c,No,Yes,Yes,Yes,Yes,No,Yes,No,Law
+a,c,Yes,No,No,No,No,Yes,Yes,No,Law
+a,d,Yes,No,Yes,Yes,Yes,No,Yes,No,Law
+a,c,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Law
+a,c,No,No,No,Yes,Yes,No,Yes,Yes,Law
+a,b,No,No,No,Yes,Yes,No,Yes,Yes,Law
+a,a,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Law
+a,a,No,Yes,Yes,No,No,No,Yes,No,Law
+a,b,Yes,Yes,Yes,No,Yes,No,Yes,No,Law
+a,c,No,Yes,No,No,No,Yes,Yes,Yes,Law
+b,a,No,Yes,Yes,No,Yes,No,Yes,No,Law
+a,a,No,Yes,Yes,No,Yes,No,No,No,Law
+b,b,Yes,No,No,No,Yes,Yes,Yes,No,Law
+a,b,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Law
+a,b,No,No,No,No,No,No,No,No,Law
+a,c,No,No,Yes,No,No,No,Yes,Yes,Law
+a,d,Yes,Yes,No,No,Yes,No,Yes,No,Law
+a,c,Yes,Yes,No,No,Yes,No,Yes,No,Law
+a,b,No,Yes,Yes,No,Yes,No,Yes,No,Law
+c,b,No,No,Yes,Yes,Yes,No,Yes,Yes,Law
+a,d,Yes,Yes,Yes,No,Yes,No,No,No,Law
+a,a,No,No,No,No,Yes,Yes,Yes,No,Law
+a,b,Yes,No,Yes,No,Yes,No,Yes,No,Law
+a,b,No,No,No,No,Yes,No,No,No,Law
+a,c,Yes,No,Yes,Yes,Yes,Yes,No,No,Law
+a,b,Yes,Yes,No,Yes,Yes,No,Yes,No,Law
+a,b,No,No,Yes,Yes,No,No,No,Yes,Law
+a,b,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Law
+a,b,Yes,Yes,No,Yes,Yes,No,No,No,Law
+a,b,Yes,Yes,No,Yes,No,No,Yes,Yes,Law
+a,a,No,No,Yes,No,Yes,Yes,Yes,No,Law
+a,b,No,Yes,No,No,No,No,Yes,No,Law
+a,d,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Law
+a,a,No,No,Yes,No,No,No,No,Yes,Law
+a,b,Yes,No,No,Yes,Yes,No,No,Yes,Law
+a,a,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Law
+a,d,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Law
+a,a,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Law
+a,b,Yes,No,Yes,No,No,No,No,Yes,Law
+a,c,No,No,Yes,Yes,Yes,Yes,No,Yes,Law
+a,b,Yes,Yes,No,No,Yes,No,Yes,Yes,Law
+a,c,Yes,No,No,Yes,No,Yes,Yes,No,Law
+a,d,No,No,No,Yes,Yes,No,No,Yes,Law
+b,a,Yes,Yes,No,No,Yes,No,Yes,Yes,Law
+a,d,Yes,No,No,Yes,Yes,Yes,No,Yes,Law
+a,c,Yes,No,No,Yes,Yes,No,No,Yes,Law
+c,b,No,No,No,No,Yes,No,No,Yes,Law
+a,b,No,No,No,Yes,Yes,No,Yes,No,Law
+a,c,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Law
+a,c,Yes,No,No,Yes,No,No,Yes,No,Law
+a,a,No,Yes,Yes,Yes,No,No,Yes,Yes,Law
+a,b,No,No,No,No,Yes,Yes,Yes,No,Law
+a,b,Yes,Yes,No,No,Yes,Yes,No,No,Law
+a,b,Yes,No,No,Yes,No,Yes,Yes,Yes,Law
+a,b,Yes,No,No,Yes,No,No,No,No,Law
+a,d,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Law
+a,d,Yes,No,Yes,No,No,Yes,Yes,Yes,Law
+b,b,Yes,No,Yes,Yes,Yes,No,Yes,No,Law
+a,b,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Law
+a,d,No,No,No,No,No,No,Yes,No,Law
+c,d,No,No,Yes,No,Yes,Yes,Yes,Yes,Law
+a,b,No,No,No,No,No,Yes,No,Yes,Law
+a,d,No,Yes,Yes,Yes,Yes,No,No,Yes,Law
+b,b,No,No,No,Yes,Yes,No,Yes,No,Law
+c,d,No,No,No,No,Yes,Yes,Yes,Yes,Law
+a,c,Yes,Yes,No,Yes,Yes,No,No,No,Law
+b,a,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Law
+a,b,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Law
+a,b,No,No,Yes,No,Yes,No,Yes,Yes,Law
+a,d,No,Yes,Yes,No,Yes,Yes,No,Yes,Law
+a,a,Yes,No,No,No,No,No,Yes,Yes,Law
+a,b,Yes,Yes,No,No,No,No,No,Yes,Law
+a,b,Yes,No,No,No,Yes,No,No,Yes,Law
+a,c,Yes,No,Yes,Yes,Yes,No,No,No,Law
+a,c,No,No,No,Yes,Yes,Yes,No,Yes,Law
+a,c,No,Yes,No,No,Yes,No,No,No,Law
+a,a,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Law
+a,d,Yes,No,No,No,No,No,Yes,No,Law
+a,d,Yes,No,Yes,No,Yes,Yes,No,Yes,Law
+a,b,No,No,Yes,Yes,No,Yes,Yes,Yes,Law
+a,d,No,No,Yes,Yes,No,Yes,Yes,No,Law
+a,c,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Law
+a,d,Yes,Yes,Yes,Yes,Yes,No,No,No,Law
+a,a,No,No,Yes,Yes,No,No,Yes,No,Law
+a,c,No,No,Yes,No,No,Yes,Yes,No,Law
+a,c,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Law
+a,c,Yes,Yes,No,No,Yes,Yes,Yes,No,Law
+a,b,Yes,No,No,No,No,No,No,Yes,Law
+a,a,Yes,No,Yes,Yes,Yes,No,No,No,Law
+a,b,No,No,Yes,No,Yes,No,Yes,No,Law
+a,b,No,Yes,No,Yes,No,No,No,Yes,Law
+a,c,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Law
+c,b,No,No,No,No,Yes,No,Yes,No,Law
+a,d,Yes,No,Yes,No,Yes,Yes,No,No,Law
+a,c,Yes,No,No,No,Yes,Yes,No,No,Law
+b,a,No,No,Yes,No,Yes,Yes,Yes,Yes,Law
+a,b,No,Yes,Yes,No,No,Yes,Yes,Yes,Law
+a,d,No,No,Yes,No,Yes,Yes,No,Yes,Law
+a,a,No,No,Yes,Yes,Yes,No,No,No,Law
+a,b,Yes,No,Yes,No,No,No,Yes,No,Law
+a,a,No,No,No,Yes,Yes,No,No,No,Law
+a,d,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Law
+a,d,No,Yes,No,No,Yes,Yes,No,Yes,Law
+a,a,No,Yes,No,No,Yes,Yes,No,Yes,Law
+a,d,No,Yes,Yes,Yes,Yes,No,Yes,No,Law
+a,b,No,No,No,No,Yes,Yes,No,No,Law
+a,d,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Law
+a,a,No,Yes,Yes,Yes,No,No,Yes,No,Law
+a,b,No,No,No,No,Yes,No,Yes,Yes,Law
+a,c,No,No,Yes,No,No,Yes,Yes,Yes,Law
+a,c,No,Yes,Yes,No,No,No,Yes,Yes,Law
+b,b,No,No,Yes,No,Yes,No,Yes,Yes,Law
+a,b,No,No,No,Yes,Yes,Yes,No,No,Law
+a,a,Yes,No,Yes,No,No,No,Yes,Yes,Law
+a,b,No,No,No,No,No,Yes,Yes,No,Law
+a,b,Yes,No,No,Yes,No,No,No,Yes,Law
+c,b,No,No,Yes,No,Yes,No,No,Yes,Law
+b,b,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Law
+c,c,No,Yes,No,No,Yes,No,Yes,Yes,Law
+a,c,No,No,No,No,Yes,No,Yes,No,Law
+a,d,No,No,No,Yes,Yes,Yes,Yes,Yes,Law
+a,c,No,No,Yes,No,Yes,Yes,Yes,No,Law
+c,b,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Law
+a,b,Yes,Yes,No,No,Yes,No,No,No,Law
+a,d,No,No,Yes,Yes,Yes,No,No,No,Law
+a,b,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Law
+a,b,No,No,No,Yes,No,No,No,No,Law
+a,a,No,Yes,Yes,No,Yes,Yes,Yes,No,Law
+a,a,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Law
+a,c,Yes,No,No,No,Yes,Yes,Yes,No,Law
+a,b,Yes,No,No,No,No,No,Yes,Yes,Law
+a,b,Yes,No,Yes,No,No,Yes,Yes,Yes,Law
+a,b,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Law
+b,b,Yes,No,Yes,No,Yes,No,Yes,No,Law
+a,d,No,Yes,No,No,Yes,No,No,Yes,Law
+a,d,No,No,No,Yes,Yes,No,No,No,Law
+a,d,Yes,No,Yes,Yes,Yes,Yes,No,No,Law
+a,c,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Law
+a,a,Yes,No,No,No,No,No,Yes,No,Law
+b,b,No,No,Yes,Yes,Yes,No,Yes,No,Law
+a,c,No,Yes,No,No,No,Yes,No,Yes,Law
+a,d,Yes,No,Yes,No,Yes,No,Yes,Yes,Law
+a,d,Yes,Yes,No,No,Yes,No,No,Yes,Law
+a,a,No,Yes,No,No,Yes,No,Yes,Yes,Law
+a,b,Yes,No,No,No,Yes,Yes,Yes,Yes,Law
+a,d,Yes,Yes,Yes,No,Yes,No,Yes,No,Law
+a,a,No,Yes,Yes,No,Yes,Yes,No,No,Law
+a,a,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Law
+b,b,No,Yes,No,No,Yes,No,Yes,No,Law
+a,b,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Law
+a,a,No,No,Yes,No,Yes,Yes,No,Yes,Law
+a,c,No,Yes,No,No,Yes,Yes,Yes,Yes,Law
+b,b,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Law
+c,b,No,No,No,No,Yes,No,Yes,Yes,Law
+a,c,No,No,No,Yes,No,Yes,Yes,No,Law
+a,c,Yes,No,No,No,Yes,No,Yes,No,Law
+a,d,No,No,No,No,Yes,No,Yes,No,Law
+a,c,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Law
+a,b,No,No,Yes,No,Yes,Yes,Yes,No,Law
+a,b,Yes,No,No,No,Yes,No,Yes,Yes,Law
+a,c,No,No,Yes,No,Yes,No,Yes,No,Law
+a,c,Yes,Yes,No,No,Yes,No,No,Yes,Law
+a,c,Yes,No,Yes,No,Yes,Yes,No,No,Law
+a,b,No,No,No,No,Yes,No,Yes,No,Law
+a,b,Yes,No,No,No,No,No,Yes,No,Law
+a,a,Yes,No,No,Yes,Yes,No,No,No,Law
+a,d,No,Yes,Yes,No,No,No,Yes,Yes,Law
+a,d,No,Yes,Yes,No,Yes,Yes,No,No,Law
+a,a,No,Yes,No,Yes,Yes,No,Yes,No,Law
+a,a,Yes,No,Yes,Yes,Yes,No,No,Yes,Law
+a,d,No,Yes,No,No,No,No,Yes,Yes,Law
+b,b,No,No,No,No,Yes,No,Yes,No,Law
+a,c,Yes,No,No,Yes,Yes,No,Yes,Yes,Law
+a,b,Yes,No,No,Yes,Yes,No,No,No,Law
+a,d,Yes,No,No,No,Yes,No,Yes,Yes,Law
+a,d,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Law
+b,c,Yes,No,No,No,Yes,No,Yes,Yes,Law
+c,a,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Media
+a,a,Yes,No,No,No,No,No,No,Yes,Media
+c,a,No,No,No,No,Yes,No,No,No,Media
+b,a,Yes,No,No,No,No,No,No,No,Media
+a,a,Yes,Yes,Yes,No,No,No,Yes,No,Media
+c,a,No,No,No,No,Yes,No,No,Yes,Media
+c,b,No,Yes,No,Yes,No,Yes,Yes,Yes,Media
+c,a,No,Yes,No,Yes,Yes,Yes,Yes,No,Media
+c,a,Yes,No,No,No,Yes,Yes,Yes,Yes,Media
+a,a,Yes,Yes,Yes,No,No,No,No,No,Media
+c,a,Yes,No,No,No,Yes,No,Yes,Yes,Media
+c,c,No,Yes,No,Yes,Yes,Yes,Yes,No,Media
+b,a,No,Yes,No,No,Yes,Yes,No,No,Media
+b,a,No,Yes,No,No,No,Yes,No,Yes,Media
+c,a,Yes,No,No,Yes,No,No,Yes,No,Media
+c,b,Yes,Yes,No,No,Yes,Yes,No,No,Media
+c,a,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Media
+c,a,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Media
+c,a,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Media
+c,a,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Media
+c,a,No,Yes,Yes,No,No,Yes,Yes,Yes,Media
+c,b,Yes,No,No,Yes,No,Yes,No,Yes,Media
+b,a,Yes,Yes,Yes,No,Yes,Yes,No,No,Media
+b,a,Yes,No,No,No,Yes,Yes,Yes,Yes,Media
+c,d,Yes,Yes,No,No,No,No,No,Yes,Media
+a,a,Yes,No,Yes,Yes,No,Yes,No,Yes,Media
+c,c,No,Yes,No,No,Yes,Yes,Yes,No,Media
+c,b,No,Yes,Yes,No,Yes,Yes,Yes,No,Media
+b,a,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Media
+c,a,Yes,No,Yes,No,No,Yes,Yes,No,Media
+c,a,No,No,Yes,No,No,Yes,Yes,Yes,Media
+c,c,No,Yes,No,No,Yes,Yes,Yes,Yes,Media
+c,a,Yes,No,No,Yes,No,Yes,Yes,Yes,Media
+c,d,No,Yes,No,No,No,Yes,Yes,No,Media
+b,a,Yes,Yes,No,No,No,Yes,No,Yes,Media
+c,a,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Media
+a,a,Yes,No,Yes,Yes,Yes,Yes,No,No,Media
+b,b,Yes,No,No,No,Yes,Yes,No,No,Media
+a,a,Yes,No,No,Yes,No,No,No,Yes,Media
+c,a,No,No,No,No,No,Yes,No,No,Media
+b,b,Yes,No,Yes,No,Yes,Yes,No,No,Media
+c,a,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Media
+c,a,Yes,No,No,Yes,Yes,No,Yes,Yes,Media
+c,a,No,No,No,No,Yes,Yes,No,No,Media
+a,a,No,No,Yes,No,No,Yes,No,No,Media
+b,a,Yes,No,No,No,No,Yes,Yes,No,Media
+c,a,No,Yes,Yes,No,Yes,Yes,No,Yes,Media
+c,b,Yes,Yes,No,Yes,No,No,Yes,No,Media
+c,b,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Media
+c,b,Yes,Yes,No,No,No,Yes,Yes,Yes,Media
+c,a,No,No,No,Yes,No,Yes,No,No,Media
+c,b,Yes,No,No,No,No,No,No,No,Media
+c,d,Yes,No,No,Yes,Yes,Yes,No,No,Media
+b,a,Yes,Yes,Yes,No,No,Yes,Yes,No,Media
+c,b,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Media
+a,a,Yes,Yes,Yes,No,No,Yes,No,Yes,Media
+c,b,Yes,No,No,Yes,Yes,No,No,No,Media
+c,a,No,No,Yes,No,No,Yes,Yes,No,Media
+a,a,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Media
+a,c,Yes,Yes,No,No,No,Yes,No,No,Media
+c,a,No,No,Yes,Yes,Yes,Yes,No,No,Media
+a,a,No,Yes,No,No,No,Yes,No,Yes,Media
+c,a,No,No,Yes,No,No,Yes,No,Yes,Media
+c,b,Yes,Yes,Yes,No,No,Yes,No,No,Media
+b,a,Yes,Yes,No,No,No,No,No,No,Media
+a,a,No,No,No,No,No,Yes,No,Yes,Media
+a,c,Yes,Yes,No,Yes,No,Yes,No,No,Media
+b,a,No,Yes,Yes,No,No,Yes,No,Yes,Media
+c,b,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Media
+c,c,Yes,No,No,Yes,No,Yes,No,Yes,Media
+c,a,No,Yes,Yes,Yes,No,Yes,No,Yes,Media
+c,d,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Media
+b,c,Yes,Yes,No,No,No,Yes,No,No,Media
+c,a,No,Yes,Yes,Yes,No,Yes,Yes,No,Media
+a,a,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Media
+c,a,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Media
+c,a,No,No,Yes,Yes,Yes,Yes,Yes,No,Media
+b,a,No,Yes,No,No,Yes,Yes,Yes,No,Media
+a,a,Yes,Yes,No,Yes,No,No,No,Yes,Media
+c,a,Yes,Yes,Yes,Yes,No,No,Yes,No,Media
+c,b,Yes,Yes,No,Yes,Yes,No,Yes,No,Media
+b,a,Yes,No,No,Yes,No,Yes,No,No,Media
+c,b,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Media
+a,b,Yes,Yes,Yes,No,No,Yes,No,Yes,Media
+c,d,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Media
+b,a,Yes,No,Yes,No,No,Yes,Yes,No,Media
+c,a,Yes,No,No,No,No,No,Yes,Yes,Media
+a,a,Yes,Yes,Yes,No,No,No,No,Yes,Media
+c,b,Yes,Yes,No,Yes,No,Yes,No,Yes,Media
+c,a,No,Yes,No,No,Yes,Yes,Yes,No,Media
+c,a,No,Yes,No,No,No,No,Yes,No,Media
+a,d,Yes,Yes,No,No,No,Yes,No,No,Media
+c,d,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Media
+c,a,Yes,No,No,No,Yes,No,Yes,No,Media
+c,a,No,No,No,No,No,Yes,Yes,No,Media
+c,a,No,Yes,No,Yes,No,No,No,Yes,Media
+c,a,No,No,No,No,Yes,Yes,Yes,Yes,Media
+c,a,No,Yes,Yes,No,Yes,Yes,Yes,No,Media
+a,a,Yes,No,Yes,No,No,No,No,No,Media
+c,a,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Media
+b,c,Yes,Yes,No,No,Yes,Yes,Yes,No,Media
+c,d,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Media
+c,c,Yes,No,No,No,Yes,Yes,No,No,Media
+a,c,Yes,Yes,No,Yes,No,Yes,No,Yes,Media
+a,b,Yes,Yes,No,No,No,Yes,No,Yes,Media
+c,a,Yes,Yes,Yes,Yes,No,No,No,Yes,Media
+c,a,No,Yes,No,Yes,Yes,No,No,No,Media
+c,a,No,No,Yes,Yes,Yes,Yes,No,Yes,Media
+a,a,Yes,No,Yes,No,No,Yes,No,Yes,Media
+c,d,Yes,Yes,No,No,No,No,No,No,Media
+b,a,Yes,Yes,Yes,No,No,Yes,No,Yes,Media
+c,a,Yes,No,Yes,Yes,No,Yes,Yes,No,Media
+c,b,No,Yes,Yes,Yes,No,Yes,Yes,No,Media
+c,a,Yes,No,No,Yes,No,Yes,No,Yes,Media
+a,a,No,Yes,No,Yes,No,Yes,No,No,Media
+c,a,No,No,No,Yes,Yes,Yes,No,No,Media
+b,a,Yes,Yes,No,No,No,Yes,Yes,Yes,Media
+c,a,Yes,Yes,No,No,Yes,No,Yes,No,Media
+a,a,Yes,No,No,Yes,No,Yes,Yes,Yes,Media
+a,a,No,No,No,Yes,No,Yes,No,Yes,Media
+c,a,No,No,No,No,No,Yes,Yes,Yes,Media
+c,d,Yes,Yes,No,No,No,Yes,Yes,Yes,Media
+a,a,Yes,No,No,No,No,Yes,Yes,No,Media
+c,a,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Media
+a,a,Yes,No,Yes,Yes,No,No,No,No,Media
+b,a,Yes,No,Yes,No,Yes,No,No,No,Media
+b,a,Yes,No,Yes,No,No,Yes,No,No,Media
+a,a,No,No,Yes,Yes,No,Yes,No,Yes,Media
+c,a,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Media
+c,a,No,No,Yes,No,No,No,No,No,Media
+c,a,No,No,Yes,No,No,No,No,Yes,Media
+c,b,Yes,No,No,Yes,No,Yes,No,No,Media
+b,a,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Media
+c,b,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Media
+c,c,Yes,Yes,No,Yes,No,Yes,No,Yes,Media
+c,b,No,Yes,No,Yes,No,Yes,Yes,No,Media
+c,d,Yes,No,No,Yes,Yes,No,No,No,Media
+c,b,Yes,No,No,No,Yes,Yes,No,Yes,Media
+c,a,No,Yes,No,No,Yes,Yes,No,Yes,Media
+c,a,No,No,Yes,No,No,Yes,No,No,Media
+b,b,Yes,No,Yes,No,No,Yes,No,No,Media
+c,a,No,No,Yes,Yes,No,No,No,No,Media
+c,b,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Media
+c,b,Yes,No,No,No,Yes,No,No,No,Media
+c,a,Yes,No,No,No,Yes,Yes,Yes,No,Media
+c,d,Yes,No,Yes,No,No,Yes,No,Yes,Media
+b,a,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Media
+c,c,Yes,Yes,No,Yes,Yes,Yes,No,No,Media
+b,a,Yes,Yes,No,No,Yes,No,No,No,Media
+c,a,No,No,No,Yes,Yes,Yes,No,Yes,Media
+c,a,Yes,Yes,Yes,No,Yes,No,Yes,No,Media
+c,a,No,Yes,Yes,Yes,No,No,Yes,Yes,Media
+c,a,Yes,No,No,No,No,No,No,Yes,Media
+c,d,Yes,Yes,No,Yes,No,Yes,Yes,No,Media
+a,a,No,Yes,Yes,No,No,No,No,No,Media
+c,d,Yes,Yes,No,Yes,Yes,Yes,No,No,Media
+c,b,Yes,Yes,No,No,Yes,Yes,No,Yes,Media
+a,d,Yes,No,No,No,No,Yes,No,No,Media
+c,b,Yes,No,No,Yes,Yes,Yes,No,Yes,Media
+c,d,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Media
+c,a,Yes,No,No,Yes,Yes,No,Yes,No,Media
+a,c,Yes,No,No,No,No,Yes,No,Yes,Media
+c,a,No,No,No,Yes,No,Yes,Yes,No,Media
+c,d,Yes,No,No,No,No,Yes,Yes,No,Media
+b,a,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Media
+c,a,No,Yes,No,Yes,No,No,Yes,No,Media
+c,a,No,No,No,No,Yes,Yes,Yes,No,Media
+c,d,Yes,Yes,No,Yes,No,Yes,No,No,Media
+c,c,No,Yes,No,Yes,No,Yes,Yes,No,Media
+a,a,Yes,Yes,Yes,Yes,No,Yes,No,No,Media
+a,a,Yes,Yes,No,Yes,No,No,Yes,No,Media
+c,a,Yes,No,Yes,Yes,Yes,No,No,No,Media
+a,b,Yes,No,No,No,No,Yes,No,No,Media
+a,a,No,Yes,No,Yes,No,Yes,No,Yes,Media
+b,a,Yes,Yes,No,No,No,No,Yes,No,Media
+c,c,Yes,No,No,No,Yes,Yes,No,Yes,Media
+c,a,Yes,No,No,Yes,Yes,Yes,Yes,No,Media
+c,a,Yes,No,No,No,Yes,Yes,No,Yes,Media
+c,b,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Media
+c,a,No,No,No,Yes,No,Yes,Yes,Yes,Media
+b,a,No,No,No,No,No,Yes,No,No,Media
+a,a,Yes,No,Yes,Yes,No,Yes,Yes,No,Media
+c,a,Yes,Yes,No,Yes,No,Yes,Yes,No,Media
+b,a,Yes,Yes,Yes,No,No,No,Yes,No,Media
+c,d,Yes,No,Yes,Yes,No,Yes,No,Yes,Media
+c,a,No,Yes,Yes,Yes,Yes,Yes,No,No,Media
+c,b,Yes,Yes,Yes,Yes,No,Yes,No,No,Media
+a,b,Yes,No,Yes,Yes,No,Yes,No,No,Media
+c,d,Yes,No,No,Yes,No,Yes,Yes,Yes,Media
+b,c,Yes,No,No,No,Yes,Yes,No,No,Media
+c,a,Yes,No,Yes,No,No,Yes,No,No,Media
+a,a,Yes,Yes,No,No,Yes,Yes,No,Yes,Media
+c,d,Yes,No,No,Yes,Yes,Yes,Yes,No,Media
+a,d,Yes,Yes,Yes,No,No,Yes,Yes,No,Media
+c,b,Yes,Yes,No,No,Yes,No,Yes,No,Media
+c,b,Yes,No,No,No,No,No,No,Yes,Media
+a,a,Yes,Yes,No,Yes,No,No,No,No,Media
+b,b,Yes,Yes,Yes,No,No,Yes,No,No,Media
+b,a,Yes,Yes,Yes,No,No,No,No,Yes,Media
+c,d,No,Yes,Yes,No,No,Yes,Yes,No,Media
+b,c,Yes,Yes,No,No,No,Yes,No,Yes,Media
+a,a,Yes,Yes,No,Yes,No,Yes,No,No,Media
+c,d,Yes,Yes,No,No,Yes,Yes,No,Yes,Media
+c,a,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Media
+a,a,No,Yes,Yes,No,No,Yes,Yes,Yes,Media
+c,d,Yes,No,No,Yes,No,No,No,No,Media
+c,a,No,Yes,Yes,Yes,No,Yes,No,No,Media
+c,b,Yes,No,No,Yes,No,Yes,Yes,Yes,Media
+b,b,Yes,Yes,Yes,No,No,Yes,Yes,No,Media
+b,a,Yes,No,No,No,No,No,Yes,No,Media
+c,a,Yes,No,No,Yes,Yes,Yes,No,No,Media
+c,b,Yes,Yes,Yes,No,No,Yes,Yes,No,Media
+c,a,Yes,No,No,Yes,No,Yes,No,No,Media
+c,a,Yes,No,Yes,No,Yes,No,No,Yes,Media
+c,a,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Media
+c,b,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Media
+a,a,Yes,No,No,No,Yes,Yes,No,No,Media
+c,a,Yes,Yes,Yes,No,No,No,No,No,Media
+a,d,Yes,Yes,No,No,No,Yes,No,Yes,Media
+c,b,Yes,Yes,No,No,No,No,No,No,Media
+a,a,Yes,Yes,No,No,No,Yes,No,Yes,Media
+a,a,Yes,No,No,No,No,No,Yes,No,Media
+a,a,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Media
+c,a,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Media
+c,a,Yes,No,No,Yes,Yes,Yes,No,Yes,Media
+a,a,Yes,Yes,Yes,No,Yes,Yes,No,No,Media
+c,a,Yes,No,No,Yes,No,Yes,Yes,No,Media
+b,b,Yes,No,No,No,No,Yes,Yes,No,Media
+a,a,Yes,No,Yes,No,No,Yes,No,No,Media
+b,a,No,Yes,Yes,No,Yes,Yes,No,Yes,Media
+a,a,No,Yes,No,No,No,Yes,No,No,Media
+c,a,Yes,Yes,No,Yes,No,Yes,No,No,Media
+c,a,No,Yes,Yes,No,No,Yes,No,No,Media
+b,a,Yes,Yes,No,No,Yes,Yes,No,Yes,Media
+c,a,Yes,No,No,Yes,No,No,No,Yes,Media
+a,d,Yes,No,Yes,No,No,Yes,No,No,Media
+b,a,Yes,Yes,No,Yes,No,Yes,No,No,Media
+a,b,Yes,Yes,No,No,No,Yes,Yes,No,Media
+c,c,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Media
+a,a,Yes,No,No,Yes,No,No,No,No,Media
+b,a,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Media
+b,a,Yes,No,Yes,No,No,Yes,Yes,Yes,Media
+c,b,Yes,Yes,No,No,No,Yes,No,Yes,Media
+c,a,Yes,No,No,No,No,No,No,No,Media
+b,b,Yes,Yes,No,No,No,Yes,No,Yes,Media
+a,a,Yes,No,Yes,No,No,Yes,Yes,No,Media
+c,b,Yes,Yes,No,Yes,No,No,Yes,Yes,Media
+c,b,No,Yes,No,No,Yes,Yes,Yes,Yes,Media
+c,a,Yes,Yes,Yes,No,Yes,Yes,No,No,Media
+c,a,Yes,No,Yes,Yes,No,Yes,No,No,Media
+c,a,No,Yes,No,No,No,No,No,Yes,Media
+a,d,Yes,No,Yes,No,No,Yes,No,Yes,Media
+c,c,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Media
+a,b,Yes,Yes,No,No,No,Yes,No,No,Media
+b,a,Yes,Yes,No,No,Yes,No,No,Yes,Media
+c,c,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Media
+b,a,No,No,No,No,Yes,Yes,No,No,Media
+c,a,No,No,Yes,Yes,No,Yes,No,No,Media
+c,a,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Media
+c,a,Yes,Yes,No,Yes,Yes,Yes,No,No,Media
+b,a,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Media
+b,a,Yes,Yes,No,Yes,No,Yes,No,Yes,Media
+c,c,Yes,Yes,No,Yes,No,Yes,No,No,Media
+c,a,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Media
+c,a,Yes,No,Yes,No,Yes,Yes,Yes,No,Media
+c,a,No,Yes,No,Yes,No,Yes,Yes,No,Media
+a,a,Yes,No,No,Yes,Yes,Yes,No,No,Media
+c,a,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Media
+c,b,Yes,Yes,Yes,No,No,Yes,No,Yes,Media
+c,a,Yes,Yes,No,Yes,No,No,Yes,Yes,Media
+c,c,Yes,No,No,Yes,Yes,Yes,No,No,Media
+c,a,Yes,Yes,Yes,Yes,Yes,No,No,No,Media
+a,a,Yes,No,No,Yes,No,Yes,No,No,Media
+c,d,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Media
+b,b,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Media
+c,d,Yes,No,No,Yes,No,Yes,No,No,Media
+b,a,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Media
+b,a,Yes,Yes,Yes,Yes,No,Yes,No,No,Media
+a,a,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Media
+b,a,Yes,No,No,Yes,Yes,Yes,Yes,No,Media
+c,d,Yes,Yes,No,No,No,Yes,No,No,Media
+b,a,Yes,Yes,No,No,No,Yes,Yes,No,Media
+a,c,Yes,No,No,Yes,No,Yes,No,No,Media
+c,a,Yes,No,No,No,Yes,Yes,No,No,Media
+c,a,Yes,No,No,Yes,No,No,No,No,Media
+c,b,Yes,No,No,No,Yes,No,No,Yes,Media
+a,a,Yes,Yes,No,Yes,No,Yes,No,Yes,Media
+c,a,Yes,Yes,Yes,No,Yes,No,No,Yes,Media
+c,a,No,Yes,No,No,Yes,No,Yes,No,Media
+c,b,Yes,No,No,No,Yes,Yes,No,No,Media
+c,d,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Media
+c,a,Yes,Yes,Yes,No,No,No,No,Yes,Media
+c,d,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Media
+c,d,Yes,Yes,No,No,No,No,Yes,No,Media
+c,b,Yes,Yes,No,Yes,No,Yes,Yes,No,Media
+c,a,No,No,No,No,Yes,Yes,No,Yes,Media
+b,c,Yes,No,No,No,No,Yes,No,No,Media
+c,a,Yes,No,Yes,No,No,Yes,Yes,Yes,Media
+c,b,Yes,Yes,No,No,No,No,No,Yes,Media
+c,a,Yes,Yes,Yes,No,No,No,Yes,No,Media
+a,a,Yes,Yes,No,No,No,Yes,Yes,Yes,Media
+b,a,No,Yes,Yes,No,Yes,Yes,No,No,Media
+c,a,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Media
+a,b,Yes,Yes,No,Yes,No,Yes,No,Yes,Media
+c,a,No,Yes,No,No,No,Yes,Yes,No,Media
+a,c,Yes,No,No,No,No,Yes,No,No,Media
+a,a,No,No,No,No,No,Yes,No,No,Media
+b,a,Yes,Yes,No,No,No,Yes,No,No,Media
+c,c,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Media
+c,d,Yes,No,No,No,No,Yes,No,No,Media
+c,a,No,No,Yes,Yes,Yes,No,No,Yes,Media
+c,a,Yes,Yes,Yes,No,Yes,No,No,No,Media
+a,a,No,Yes,No,No,No,Yes,Yes,Yes,Media
+c,a,No,No,Yes,No,Yes,Yes,No,No,Media
+c,a,Yes,Yes,No,No,Yes,No,Yes,Yes,Media
+b,a,Yes,Yes,No,No,Yes,Yes,No,No,Media
+c,d,No,Yes,No,No,No,Yes,Yes,Yes,Media
+a,b,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Media
+c,a,No,No,No,Yes,No,No,Yes,Yes,Media
+c,a,No,Yes,No,Yes,No,Yes,Yes,Yes,Media
+c,a,Yes,No,No,No,No,Yes,No,Yes,Media
+a,a,No,Yes,Yes,No,No,Yes,No,No,Media
+c,a,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Media
+c,b,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Media
+c,b,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Media
+c,a,No,No,No,Yes,Yes,No,No,Yes,Media
+c,b,Yes,No,No,No,No,Yes,No,Yes,Media
+a,a,No,Yes,Yes,Yes,No,Yes,Yes,No,Media
+c,d,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Media
+c,d,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Media
+c,a,No,Yes,Yes,No,Yes,Yes,No,No,Media
+c,a,No,No,Yes,No,Yes,No,No,Yes,Media
+c,a,No,Yes,Yes,No,Yes,No,Yes,No,Media
+c,c,No,Yes,No,No,No,Yes,Yes,Yes,Media
+c,b,Yes,Yes,No,Yes,Yes,No,No,No,Media
+c,b,Yes,No,Yes,Yes,No,Yes,No,Yes,Media
+c,d,No,Yes,Yes,No,Yes,Yes,Yes,No,Media
+c,a,No,Yes,No,Yes,No,Yes,No,Yes,Media
+c,b,Yes,Yes,No,No,No,Yes,No,No,Media
+c,d,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Media
+c,a,Yes,Yes,No,No,Yes,Yes,No,No,Media
+c,a,No,Yes,Yes,No,No,Yes,Yes,No,Media
+c,a,Yes,Yes,No,Yes,No,No,No,No,Media
+c,a,No,No,Yes,No,Yes,Yes,Yes,Yes,Media
+c,d,No,Yes,No,No,Yes,Yes,Yes,Yes,Media
+c,d,Yes,No,Yes,Yes,Yes,Yes,No,No,Media
+c,a,Yes,No,Yes,Yes,Yes,No,No,Yes,Media
+c,a,No,Yes,No,Yes,Yes,No,No,Yes,Media
+a,a,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Media
+c,d,Yes,Yes,Yes,Yes,No,Yes,No,No,Media
+c,b,Yes,Yes,No,Yes,No,No,No,No,Media
+a,a,Yes,No,No,No,No,No,No,No,Media
+a,b,Yes,Yes,Yes,Yes,No,Yes,No,No,Media
+c,c,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Media
+c,b,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Media
+c,b,No,Yes,Yes,No,No,Yes,Yes,No,Media
+c,b,Yes,No,Yes,No,Yes,Yes,No,Yes,Media
+c,a,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Media
+c,d,Yes,Yes,No,Yes,Yes,No,No,No,Media
+c,d,Yes,No,No,No,Yes,Yes,Yes,Yes,Media
+b,a,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Media
+c,d,Yes,No,Yes,No,Yes,Yes,No,Yes,Media
+b,b,Yes,Yes,No,No,Yes,Yes,No,No,Media
+c,a,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Media
+a,a,No,Yes,No,No,No,Yes,Yes,No,Media
+c,a,No,Yes,Yes,Yes,No,No,No,Yes,Media
+c,a,No,No,No,No,No,No,Yes,Yes,Media
+c,a,Yes,Yes,No,Yes,Yes,No,Yes,No,Media
+c,b,Yes,Yes,Yes,No,Yes,Yes,No,No,Media
+c,a,No,Yes,No,Yes,No,No,Yes,Yes,Media
+c,a,Yes,No,Yes,Yes,No,Yes,No,Yes,Media
+c,d,Yes,Yes,Yes,No,No,Yes,No,Yes,Media
+c,a,Yes,Yes,No,No,No,No,Yes,No,Media
+c,a,No,No,No,Yes,No,No,Yes,No,Media
+c,a,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Media
+c,b,Yes,No,No,No,No,Yes,Yes,Yes,Media
+c,d,No,Yes,No,No,Yes,Yes,Yes,No,Media
+a,b,Yes,Yes,No,Yes,No,Yes,No,No,Media
+c,d,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Media
+c,a,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Media
+a,a,Yes,No,No,Yes,No,Yes,Yes,No,Media
+c,a,No,No,Yes,No,Yes,Yes,Yes,No,Media
+a,d,Yes,Yes,Yes,No,No,Yes,No,No,Media
+c,c,Yes,Yes,No,Yes,No,Yes,Yes,No,Media
+c,a,Yes,Yes,No,No,Yes,Yes,No,Yes,Media
+c,b,Yes,No,No,No,No,Yes,Yes,No,Media
+b,a,Yes,No,No,No,Yes,Yes,No,No,Media
+c,a,Yes,No,No,No,No,No,Yes,No,Media
+c,a,No,Yes,Yes,No,No,No,No,Yes,Media
+c,c,Yes,Yes,No,No,No,Yes,No,Yes,Media
+a,a,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Media
+c,b,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Media
+a,d,Yes,Yes,No,No,No,Yes,Yes,No,Media
+a,a,Yes,Yes,Yes,No,No,Yes,No,No,Media
+c,a,No,No,Yes,Yes,Yes,No,No,No,Media
+b,a,Yes,Yes,Yes,No,No,No,No,No,Media
+c,a,No,Yes,Yes,No,Yes,No,No,No,Media
+b,c,Yes,Yes,No,No,No,Yes,Yes,No,Media
+c,a,Yes,Yes,No,No,No,No,No,No,Media
+a,a,Yes,Yes,Yes,Yes,No,No,No,No,Media
+c,b,Yes,No,No,Yes,No,Yes,Yes,No,Media
+b,a,No,Yes,No,No,No,Yes,No,No,Media
+a,a,Yes,Yes,No,Yes,No,Yes,Yes,No,Media
+c,b,No,Yes,No,No,No,Yes,Yes,Yes,Media
+a,a,Yes,No,No,Yes,No,No,Yes,No,Media
+b,a,No,Yes,No,No,No,Yes,Yes,No,Media
+c,a,Yes,Yes,No,Yes,No,No,Yes,No,Media
+c,b,Yes,No,Yes,Yes,Yes,Yes,No,No,Media
+a,a,Yes,No,Yes,No,Yes,Yes,No,No,Media
+c,a,No,No,Yes,No,Yes,No,No,No,Media
+c,a,Yes,No,No,Yes,Yes,No,No,Yes,Media
+b,a,Yes,Yes,No,No,Yes,Yes,Yes,No,Media
+c,d,Yes,No,No,No,Yes,No,No,No,Media
+c,b,Yes,Yes,No,No,Yes,No,Yes,Yes,Media
+a,a,Yes,Yes,No,No,No,Yes,No,No,Media
+b,a,No,Yes,Yes,No,No,Yes,Yes,No,Media
+c,d,Yes,Yes,No,No,No,Yes,Yes,No,Media
+c,a,Yes,Yes,No,No,Yes,No,No,No,Media
+b,a,Yes,No,Yes,Yes,No,Yes,No,No,Media
+c,b,Yes,No,Yes,No,No,Yes,No,No,Media
+c,d,Yes,Yes,No,No,Yes,No,No,Yes,Media
+c,b,Yes,No,No,No,Yes,Yes,Yes,Yes,Media
+a,a,Yes,Yes,No,No,No,No,Yes,No,Media
+c,a,Yes,No,No,No,Yes,No,No,Yes,Media
+c,c,Yes,Yes,No,No,Yes,Yes,Yes,No,Media
+c,b,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Media
+c,a,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Media
+b,a,No,No,Yes,No,Yes,Yes,No,No,Media
+c,a,No,Yes,Yes,Yes,No,No,Yes,No,Media
+c,a,Yes,Yes,No,No,Yes,No,No,Yes,Media
+b,a,No,Yes,Yes,No,No,Yes,No,No,Media
+c,a,Yes,Yes,No,No,No,Yes,Yes,Yes,Media
+c,b,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Media
+c,d,Yes,Yes,Yes,No,No,Yes,No,No,Media
+a,a,No,No,No,Yes,No,Yes,Yes,No,Media
+b,a,Yes,No,Yes,No,No,Yes,No,Yes,Media
+c,b,No,Yes,No,No,No,Yes,Yes,No,Media
+a,a,Yes,Yes,No,No,Yes,Yes,No,No,Media
+c,a,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Media
+c,d,Yes,No,No,No,No,No,No,Yes,Media
+c,b,Yes,No,Yes,Yes,No,Yes,No,No,Media
+c,b,Yes,Yes,No,No,No,No,Yes,No,Media
+c,b,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Media
+c,a,Yes,No,Yes,No,No,No,No,Yes,Media
+c,b,Yes,No,Yes,No,No,Yes,No,Yes,Media
+c,d,Yes,Yes,Yes,No,No,Yes,Yes,No,Media
+c,d,Yes,Yes,No,No,Yes,Yes,No,No,Media
+c,d,Yes,Yes,No,No,Yes,No,No,No,Media
+c,b,Yes,No,No,Yes,Yes,Yes,Yes,No,Media
+b,a,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Media
+c,b,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Arts
+a,c,Yes,Yes,No,No,No,No,No,No,Arts
+c,b,Yes,No,No,No,No,No,Yes,Yes,Arts
+b,c,No,No,Yes,No,Yes,No,No,No,Arts
+a,c,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Arts
+c,c,No,No,Yes,No,No,Yes,Yes,Yes,Arts
+c,d,No,No,Yes,No,No,No,Yes,No,Arts
+b,c,Yes,No,Yes,Yes,No,No,No,No,Arts
+b,c,Yes,No,Yes,No,Yes,Yes,Yes,No,Arts
+c,d,Yes,No,Yes,No,No,No,No,No,Arts
+c,c,No,No,Yes,No,No,Yes,Yes,No,Arts
+c,d,Yes,Yes,Yes,No,No,No,Yes,No,Arts
+a,c,Yes,No,Yes,No,No,Yes,No,Yes,Arts
+c,b,No,Yes,Yes,Yes,No,No,Yes,No,Arts
+c,c,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Arts
+b,c,Yes,No,Yes,No,Yes,No,Yes,Yes,Arts
+c,c,Yes,No,Yes,No,No,No,No,No,Arts
+c,b,Yes,No,Yes,No,Yes,Yes,Yes,No,Arts
+c,b,Yes,No,Yes,Yes,Yes,No,No,Yes,Arts
+c,b,Yes,No,No,Yes,No,No,Yes,Yes,Arts
+c,b,No,No,Yes,Yes,Yes,No,Yes,No,Arts
+c,c,No,No,Yes,Yes,No,Yes,Yes,No,Arts
+c,c,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Arts
+a,c,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Arts
+c,b,Yes,Yes,Yes,Yes,No,No,Yes,No,Arts
+b,c,Yes,No,No,No,No,No,Yes,No,Arts
+c,c,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Arts
+c,d,Yes,No,Yes,No,Yes,Yes,Yes,No,Arts
+c,c,No,Yes,No,No,Yes,No,Yes,No,Arts
+c,d,Yes,Yes,Yes,No,Yes,No,No,No,Arts
+c,c,No,Yes,Yes,Yes,No,No,No,Yes,Arts
+c,b,Yes,No,Yes,Yes,No,Yes,Yes,No,Arts
+c,c,No,Yes,Yes,No,No,Yes,Yes,Yes,Arts
+b,c,Yes,Yes,Yes,No,No,Yes,No,No,Arts
+c,c,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Arts
+c,c,Yes,Yes,Yes,Yes,No,No,No,No,Arts
+b,c,Yes,No,Yes,Yes,No,No,Yes,No,Arts
+c,c,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Arts
+c,c,Yes,Yes,No,No,Yes,No,Yes,Yes,Arts
+c,c,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Arts
+c,c,Yes,No,No,Yes,No,No,No,No,Arts
+c,d,Yes,No,Yes,Yes,No,No,Yes,No,Arts
+b,c,No,No,Yes,No,No,No,No,No,Arts
+a,d,Yes,No,Yes,No,No,No,No,No,Arts
+c,c,Yes,No,Yes,Yes,No,No,Yes,No,Arts
+c,a,Yes,No,Yes,No,Yes,No,Yes,Yes,Arts
+b,c,Yes,Yes,Yes,No,Yes,No,No,No,Arts
+c,c,Yes,Yes,Yes,No,No,Yes,Yes,No,Arts
+a,c,Yes,No,No,Yes,No,No,No,No,Arts
+c,c,Yes,No,Yes,No,No,No,Yes,No,Arts
+a,c,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Arts
+b,c,Yes,No,Yes,No,No,Yes,Yes,Yes,Arts
+c,c,Yes,No,Yes,Yes,No,No,Yes,Yes,Arts
+b,c,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Arts
+c,c,No,No,Yes,No,Yes,Yes,Yes,No,Arts
+b,c,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Arts
+b,c,Yes,No,Yes,No,No,Yes,Yes,No,Arts
+c,c,Yes,No,Yes,Yes,Yes,No,Yes,No,Arts
+a,a,Yes,No,Yes,No,No,No,Yes,No,Arts
+c,c,Yes,No,No,No,Yes,Yes,Yes,No,Arts
+a,c,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Arts
+b,c,Yes,No,Yes,Yes,Yes,Yes,No,No,Arts
+c,b,Yes,Yes,Yes,No,Yes,No,No,Yes,Arts
+c,c,Yes,Yes,Yes,Yes,No,No,Yes,No,Arts
+a,c,Yes,No,Yes,No,No,No,Yes,No,Arts
+c,c,Yes,Yes,Yes,No,Yes,No,Yes,No,Arts
+a,c,Yes,Yes,Yes,No,No,No,Yes,No,Arts
+c,c,No,No,Yes,Yes,Yes,No,No,Yes,Arts
+c,c,Yes,No,Yes,Yes,Yes,Yes,No,No,Arts
+c,d,Yes,Yes,Yes,Yes,No,No,No,No,Arts
+b,c,Yes,No,Yes,Yes,No,Yes,No,No,Arts
+c,c,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Arts
+c,b,Yes,Yes,Yes,No,Yes,No,Yes,No,Arts
+c,c,Yes,No,No,Yes,Yes,No,Yes,Yes,Arts
+b,c,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Arts
+a,c,Yes,No,No,No,No,Yes,Yes,No,Arts
+a,c,Yes,Yes,Yes,Yes,No,No,No,No,Arts
+c,c,Yes,Yes,Yes,Yes,No,No,No,Yes,Arts
+c,c,Yes,Yes,No,Yes,Yes,No,Yes,No,Arts
+c,c,No,No,No,Yes,No,No,Yes,Yes,Arts
+c,d,Yes,No,Yes,No,Yes,No,Yes,Yes,Arts
+c,a,No,No,Yes,No,Yes,No,Yes,No,Arts
+c,b,No,No,Yes,No,No,No,Yes,Yes,Arts
+a,c,Yes,Yes,Yes,Yes,No,Yes,No,No,Arts
+c,b,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Arts
+c,c,Yes,Yes,No,No,Yes,No,No,Yes,Arts
+c,c,Yes,Yes,Yes,No,No,No,Yes,No,Arts
+c,d,Yes,Yes,Yes,No,No,No,No,No,Arts
+c,b,No,No,Yes,No,Yes,No,Yes,No,Arts
+c,b,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Arts
+a,c,Yes,Yes,Yes,No,No,No,No,Yes,Arts
+c,c,Yes,No,No,No,Yes,No,Yes,No,Arts
+a,c,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Arts
+c,d,No,No,Yes,Yes,No,No,Yes,No,Arts
+b,c,Yes,No,Yes,No,No,No,Yes,No,Arts
+c,d,Yes,No,Yes,No,Yes,No,No,Yes,Arts
+c,c,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Arts
+c,c,No,Yes,Yes,No,Yes,No,No,No,Arts
+c,a,No,No,Yes,No,No,No,Yes,No,Arts
+c,c,No,No,Yes,No,No,No,No,No,Arts
+c,d,Yes,No,Yes,Yes,No,No,Yes,Yes,Arts
+a,c,Yes,No,No,Yes,No,Yes,Yes,No,Arts
+a,c,Yes,No,Yes,No,No,No,Yes,Yes,Arts
+c,c,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Arts
+a,c,Yes,No,Yes,Yes,No,Yes,No,Yes,Arts
+c,c,Yes,No,Yes,No,Yes,Yes,No,Yes,Arts
+c,c,No,Yes,Yes,No,No,No,No,Yes,Arts
+c,c,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Arts
+c,d,Yes,No,Yes,No,No,No,Yes,Yes,Arts
+c,c,Yes,No,Yes,No,No,No,No,Yes,Arts
+c,d,Yes,Yes,Yes,No,No,No,No,Yes,Arts
+c,c,No,No,Yes,Yes,No,No,No,No,Arts
+b,c,Yes,Yes,Yes,No,Yes,Yes,No,No,Arts
+c,b,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Arts
+a,c,Yes,Yes,Yes,No,No,No,Yes,Yes,Arts
+c,c,Yes,Yes,No,Yes,No,No,Yes,Yes,Arts
+c,c,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Arts
+c,c,No,Yes,No,Yes,Yes,No,Yes,No,Arts
+c,d,No,Yes,Yes,No,No,No,Yes,No,Arts
+b,c,Yes,No,No,No,No,Yes,Yes,No,Arts
+a,c,Yes,No,Yes,No,No,Yes,Yes,No,Arts
+c,c,No,Yes,No,No,No,No,Yes,No,Arts
+c,c,Yes,No,Yes,Yes,Yes,No,No,No,Arts
+c,b,Yes,No,Yes,Yes,No,No,No,Yes,Arts
+b,c,No,No,Yes,No,No,Yes,Yes,No,Arts
+c,b,Yes,No,Yes,No,Yes,No,No,No,Arts
+c,c,No,No,No,No,Yes,No,Yes,Yes,Arts
+c,d,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Arts
+c,c,Yes,Yes,No,Yes,No,No,No,Yes,Arts
+c,c,Yes,No,Yes,No,No,Yes,No,Yes,Arts
+c,c,Yes,No,Yes,Yes,No,Yes,No,Yes,Arts
+c,c,Yes,No,No,No,No,No,Yes,No,Arts
+c,c,Yes,No,Yes,Yes,No,No,No,No,Arts
+c,b,No,No,Yes,Yes,No,No,Yes,No,Arts
+c,b,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Arts
+b,c,Yes,Yes,Yes,No,No,No,Yes,No,Arts
+c,c,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Arts
+c,c,Yes,Yes,No,No,Yes,No,Yes,No,Arts
+c,a,No,No,Yes,No,Yes,No,Yes,Yes,Arts
+c,a,Yes,No,Yes,No,No,No,Yes,No,Arts
+c,d,Yes,No,Yes,No,Yes,No,No,No,Arts
+b,c,Yes,No,Yes,Yes,Yes,No,No,No,Arts
+c,d,Yes,No,No,No,No,No,Yes,No,Arts
+c,b,Yes,Yes,Yes,No,No,No,No,No,Arts
+c,c,Yes,No,No,Yes,No,No,Yes,Yes,Arts
+b,c,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Arts
+c,b,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Arts
+b,c,Yes,No,Yes,No,Yes,No,Yes,No,Arts
+c,b,Yes,Yes,Yes,No,No,No,No,Yes,Arts
+a,c,No,No,Yes,Yes,No,No,No,No,Arts
+b,c,Yes,Yes,Yes,No,No,No,No,Yes,Arts
+b,c,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Arts
+c,c,Yes,Yes,No,Yes,Yes,No,No,Yes,Arts
+a,c,Yes,No,Yes,No,No,Yes,Yes,Yes,Arts
+c,b,Yes,Yes,Yes,Yes,No,No,No,No,Arts
+c,b,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Arts
+b,c,Yes,No,Yes,No,Yes,Yes,No,Yes,Arts
+c,c,Yes,Yes,No,No,Yes,No,No,No,Arts
+b,a,Yes,No,Yes,No,No,No,Yes,No,Arts
+b,c,Yes,No,No,No,No,No,No,No,Arts
+b,c,Yes,No,Yes,No,Yes,Yes,No,No,Arts
+c,b,No,No,Yes,Yes,No,No,Yes,Yes,Arts
+c,c,No,Yes,Yes,No,Yes,No,Yes,Yes,Arts
+c,c,No,No,Yes,No,No,No,Yes,No,Arts
+c,c,Yes,Yes,No,No,No,No,Yes,Yes,Arts
+c,c,No,Yes,Yes,Yes,No,No,No,No,Arts
+c,a,No,No,Yes,Yes,No,No,Yes,Yes,Arts
+c,b,Yes,Yes,Yes,No,No,No,Yes,Yes,Arts
+c,d,Yes,No,No,Yes,No,No,Yes,No,Arts
+c,b,Yes,Yes,Yes,Yes,No,No,No,Yes,Arts
+c,b,Yes,No,Yes,Yes,No,No,Yes,No,Arts
+c,d,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Arts
+c,c,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Arts
+c,c,Yes,No,Yes,No,Yes,Yes,No,No,Arts
+c,c,No,No,Yes,Yes,Yes,No,Yes,No,Arts
+c,b,Yes,No,No,Yes,No,No,Yes,No,Arts
+c,d,No,No,Yes,Yes,Yes,No,Yes,No,Arts
+c,c,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Arts
+c,d,Yes,No,Yes,Yes,No,No,No,Yes,Arts
+c,c,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Arts
+c,c,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Arts
+c,d,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Arts
+c,b,Yes,No,Yes,No,No,No,No,No,Arts
+c,c,No,Yes,Yes,No,Yes,No,No,Yes,Arts
+c,c,No,No,Yes,No,Yes,Yes,Yes,Yes,Arts
+c,c,No,No,Yes,Yes,No,No,No,Yes,Arts
+a,d,Yes,No,Yes,No,No,Yes,Yes,No,Arts
+c,b,Yes,Yes,Yes,Yes,Yes,No,No,No,Arts
+c,d,Yes,No,No,Yes,Yes,No,Yes,No,Arts
+c,c,Yes,No,No,No,No,No,No,No,Arts
+c,b,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Arts
+c,c,Yes,No,No,No,Yes,No,Yes,Yes,Arts
+c,d,Yes,No,Yes,No,No,No,No,Yes,Arts
+c,c,Yes,No,No,Yes,No,No,Yes,No,Arts
+c,c,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Arts
+c,d,Yes,No,Yes,No,No,Yes,Yes,No,Arts
+c,b,Yes,No,Yes,Yes,No,No,Yes,Yes,Arts
+c,c,No,Yes,Yes,No,Yes,Yes,Yes,No,Arts
+b,c,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Arts
+c,c,Yes,No,No,No,No,No,No,Yes,Arts
+c,c,No,No,Yes,Yes,No,No,Yes,No,Arts
+c,c,No,Yes,Yes,No,No,Yes,Yes,No,Arts
+c,c,No,Yes,Yes,Yes,No,No,Yes,No,Arts
+c,b,Yes,No,No,No,Yes,No,Yes,No,Arts
+c,b,Yes,No,Yes,Yes,Yes,No,No,No,Arts
+c,c,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Arts
+c,c,Yes,No,No,Yes,Yes,No,No,No,Arts
+c,c,Yes,No,Yes,Yes,No,Yes,No,No,Arts
+b,c,Yes,Yes,Yes,No,No,Yes,No,Yes,Arts
+c,d,Yes,No,Yes,Yes,Yes,No,No,No,Arts
+c,d,Yes,No,No,No,No,No,Yes,Yes,Arts
+c,b,No,No,Yes,No,No,No,Yes,No,Arts
+c,b,Yes,Yes,Yes,No,No,No,Yes,No,Arts
+c,c,Yes,Yes,No,No,No,No,Yes,No,Arts
+c,b,Yes,No,Yes,No,Yes,No,Yes,No,Arts
+c,c,Yes,Yes,No,No,No,No,No,No,Arts
+c,c,No,No,No,Yes,Yes,No,Yes,No,Arts
+a,c,No,No,Yes,No,No,No,Yes,No,Arts
+a,c,Yes,Yes,Yes,Yes,No,No,No,Yes,Arts
+c,c,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Arts
+c,c,Yes,No,No,No,Yes,Yes,Yes,Yes,Arts
+c,c,Yes,No,Yes,No,No,Yes,No,No,Arts
+c,c,Yes,Yes,Yes,No,No,No,Yes,Yes,Arts
+a,c,Yes,No,Yes,No,No,No,No,No,Arts
+c,d,Yes,No,Yes,Yes,Yes,No,Yes,No,Arts
+c,d,Yes,Yes,Yes,No,Yes,No,Yes,No,Arts
+c,c,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Arts
+c,c,No,No,Yes,No,No,No,Yes,Yes,Arts
+c,d,Yes,No,Yes,Yes,No,No,No,No,Arts
+c,a,Yes,No,Yes,No,Yes,No,Yes,No,Arts
+c,c,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Arts
+c,c,Yes,No,No,Yes,Yes,Yes,Yes,No,Arts
+b,c,Yes,No,Yes,No,Yes,No,No,Yes,Arts
+c,c,Yes,No,No,No,No,Yes,Yes,Yes,Arts
+c,c,No,Yes,Yes,Yes,No,Yes,Yes,No,Arts
+a,d,Yes,No,Yes,No,No,No,Yes,No,Arts
+c,d,Yes,No,No,No,Yes,No,Yes,No,Arts
+c,d,Yes,Yes,Yes,Yes,Yes,No,No,No,Arts
+a,c,Yes,No,Yes,No,No,No,No,Yes,Arts
+c,c,No,No,No,No,No,No,Yes,No,Arts
+c,c,Yes,Yes,Yes,No,Yes,No,No,No,Arts
+c,c,Yes,No,Yes,Yes,No,No,No,Yes,Arts
+c,c,No,No,Yes,Yes,No,No,Yes,Yes,Arts
+b,b,Yes,No,Yes,No,No,Yes,Yes,No,Arts
+c,d,Yes,Yes,Yes,No,Yes,No,No,Yes,Arts
+c,d,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Arts
+a,c,Yes,Yes,No,No,No,No,Yes,No,Arts
+c,b,No,Yes,Yes,No,Yes,No,Yes,No,Arts
+c,c,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Arts
+c,c,Yes,No,No,No,No,Yes,Yes,No,Arts
+c,a,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Arts
+c,b,No,Yes,Yes,No,No,No,Yes,No,Arts
+c,c,No,No,Yes,No,Yes,No,Yes,Yes,Arts
+c,c,Yes,Yes,No,Yes,No,No,Yes,No,Arts
+a,c,No,Yes,Yes,No,No,No,No,No,Arts
+c,c,Yes,No,Yes,No,Yes,No,No,Yes,Arts
+c,c,Yes,Yes,Yes,No,No,Yes,No,No,Arts
+c,d,Yes,Yes,Yes,Yes,No,No,Yes,No,Arts
+c,c,No,No,No,No,No,No,Yes,Yes,Arts
+c,c,No,Yes,Yes,Yes,No,No,Yes,Yes,Arts
+c,c,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Arts
+c,c,Yes,No,No,No,Yes,No,No,Yes,Arts
+c,c,Yes,No,Yes,No,No,Yes,Yes,Yes,Arts
+c,b,Yes,No,Yes,No,Yes,No,Yes,Yes,Arts
+c,c,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Arts
+c,c,No,Yes,Yes,No,No,No,Yes,No,Arts
+a,c,Yes,Yes,Yes,No,No,No,No,No,Arts
+c,c,No,No,No,No,Yes,No,Yes,No,Arts
+b,c,Yes,No,Yes,Yes,No,Yes,Yes,No,Arts
+c,c,Yes,Yes,No,Yes,No,No,No,No,Arts
+c,c,Yes,No,No,No,Yes,No,No,No,Arts
+c,b,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Arts
+a,c,No,No,Yes,Yes,No,Yes,Yes,No,Arts
+c,c,No,No,Yes,Yes,Yes,Yes,Yes,No,Arts
+a,c,Yes,No,No,No,No,No,Yes,No,Arts
+c,c,No,Yes,Yes,No,No,No,No,No,Arts
+b,b,Yes,No,Yes,No,No,No,Yes,No,Arts
+b,c,Yes,Yes,Yes,No,No,Yes,Yes,No,Arts
+a,c,Yes,No,Yes,Yes,No,No,Yes,Yes,Arts
+c,c,Yes,Yes,Yes,No,No,No,No,Yes,Arts
+a,a,Yes,No,Yes,Yes,No,No,Yes,No,Arts
+c,c,No,Yes,Yes,Yes,Yes,No,Yes,No,Arts
+c,c,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Arts
+c,d,Yes,No,Yes,No,Yes,No,Yes,No,Arts
+c,c,Yes,Yes,Yes,No,No,No,No,No,Arts
+b,c,Yes,No,Yes,No,No,Yes,No,Yes,Arts
+c,d,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Arts
+c,c,Yes,Yes,Yes,No,Yes,Yes,No,No,Arts
+a,c,Yes,No,Yes,Yes,No,No,Yes,No,Arts
+c,c,No,No,Yes,Yes,No,Yes,Yes,Yes,Arts
+a,c,Yes,No,Yes,No,No,Yes,No,No,Arts
+c,c,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Arts
+c,d,No,No,Yes,No,No,No,Yes,Yes,Arts
+c,a,Yes,No,Yes,Yes,No,No,Yes,Yes,Arts
+c,c,Yes,No,Yes,No,Yes,Yes,Yes,No,Arts
+c,c,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Arts
+c,b,Yes,No,Yes,No,No,No,Yes,No,Arts
+c,b,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Arts
+b,c,Yes,No,Yes,No,No,No,No,No,Arts
+a,c,No,No,Yes,No,No,Yes,Yes,No,Arts
+c,d,Yes,Yes,Yes,No,No,No,Yes,Yes,Arts
+c,c,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Arts
+a,c,Yes,Yes,Yes,No,No,Yes,No,No,Arts
+c,d,Yes,No,Yes,Yes,Yes,No,No,Yes,Arts
+c,c,No,Yes,No,Yes,No,No,Yes,No,Arts
+b,c,Yes,No,Yes,No,No,Yes,No,No,Arts
+b,c,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Arts
+c,c,Yes,No,Yes,Yes,Yes,No,No,Yes,Arts
+c,b,Yes,No,Yes,No,No,Yes,Yes,Yes,Arts
+c,c,Yes,Yes,Yes,No,No,Yes,No,Yes,Arts
+c,c,Yes,Yes,Yes,Yes,No,Yes,No,No,Arts
+a,c,No,Yes,Yes,No,No,Yes,Yes,No,Arts
+b,c,Yes,Yes,Yes,No,No,No,No,No,Arts
+c,d,No,Yes,Yes,No,Yes,No,Yes,No,Arts
+c,c,No,Yes,Yes,Yes,Yes,No,No,Yes,Arts
+c,b,Yes,No,No,No,No,No,Yes,No,Arts
+b,c,Yes,Yes,Yes,No,Yes,No,No,Yes,Arts
+c,c,Yes,No,Yes,No,No,No,Yes,Yes,Arts
+c,a,No,No,Yes,No,No,No,Yes,Yes,Arts
+b,c,Yes,Yes,Yes,No,Yes,No,Yes,No,Arts
+c,b,Yes,No,Yes,No,No,No,Yes,Yes,Arts
+c,c,No,Yes,Yes,Yes,Yes,No,No,No,Arts
+a,c,Yes,Yes,Yes,No,No,Yes,Yes,No,Arts
+a,c,Yes,No,No,Yes,No,No,Yes,No,Arts
+c,a,Yes,No,Yes,Yes,Yes,No,Yes,No,Arts
+c,c,No,Yes,No,No,Yes,No,Yes,Yes,Arts
+c,b,Yes,No,Yes,No,No,Yes,Yes,No,Arts
+b,c,Yes,No,Yes,No,No,No,No,Yes,Arts
+c,c,Yes,No,No,Yes,No,Yes,Yes,Yes,Arts
+a,c,Yes,No,No,No,No,No,No,No,Arts
+c,c,Yes,No,Yes,Yes,No,Yes,Yes,No,Arts
+a,c,Yes,No,Yes,Yes,No,No,No,Yes,Arts
+c,a,Yes,No,Yes,No,No,No,Yes,Yes,Arts
+c,d,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Arts
+c,a,No,No,Yes,Yes,No,No,Yes,No,Arts
+a,c,No,Yes,Yes,No,No,No,Yes,No,Arts
+a,c,Yes,No,Yes,Yes,No,Yes,Yes,No,Arts
+c,b,Yes,No,Yes,No,Yes,No,No,Yes,Arts
+b,b,Yes,No,Yes,No,No,No,No,No,Arts
+a,c,Yes,No,Yes,Yes,No,Yes,No,No,Arts
+c,c,Yes,No,Yes,No,Yes,No,Yes,No,Arts
+c,b,Yes,No,Yes,Yes,Yes,No,Yes,No,Arts
+c,c,No,No,Yes,Yes,Yes,No,No,No,Arts
+c,d,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Arts
+c,c,Yes,No,Yes,No,Yes,No,Yes,Yes,Arts
+b,c,Yes,No,Yes,Yes,Yes,No,Yes,No,Arts
+c,c,No,No,Yes,No,Yes,No,No,Yes,Arts
+a,c,Yes,No,Yes,Yes,No,No,No,No,Arts
+c,c,Yes,Yes,Yes,No,Yes,No,No,Yes,Arts
+c,c,Yes,No,No,Yes,No,Yes,Yes,No,Arts
+c,c,Yes,Yes,Yes,Yes,Yes,No,No,No,Arts
+c,c,Yes,No,Yes,No,No,Yes,Yes,No,Arts
+c,b,Yes,No,No,Yes,Yes,No,Yes,No,Arts
+a,c,Yes,Yes,Yes,No,No,Yes,No,Yes,Arts
+c,c,Yes,Yes,No,Yes,Yes,No,No,No,Arts
+a,c,No,No,Yes,No,No,No,No,No,Arts
+c,c,Yes,No,No,No,No,No,Yes,Yes,Arts
+b,c,Yes,No,No,No,Yes,No,No,No,Arts
+c,c,No,No,Yes,Yes,Yes,No,Yes,Yes,Arts
+c,c,No,No,Yes,No,Yes,No,No,No,Arts
+a,c,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Arts
+c,c,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Arts
+c,d,Yes,No,Yes,No,No,Yes,Yes,Yes,Arts
+c,c,Yes,No,Yes,No,Yes,No,No,No,Arts
+c,b,Yes,Yes,Yes,No,Yes,No,No,No,Arts
+c,c,Yes,No,No,Yes,Yes,No,No,Yes,Arts
+c,c,No,Yes,Yes,No,No,No,Yes,Yes,Arts
+c,c,Yes,No,No,Yes,No,No,No,Yes,Arts
+c,a,Yes,No,Yes,Yes,No,No,Yes,No,Arts
+a,c,Yes,Yes,Yes,Yes,No,No,Yes,No,Arts
+c,b,Yes,No,Yes,No,No,No,No,Yes,Arts
+c,c,Yes,No,No,Yes,Yes,No,Yes,No,Arts
+b,c,Yes,No,Yes,No,No,No,Yes,Yes,Arts
+c,d,Yes,No,Yes,Yes,No,Yes,Yes,No,Arts
+c,c,Yes,Yes,No,No,No,No,No,Yes,Arts
+c,c,No,Yes,Yes,No,Yes,No,Yes,No,Arts
+c,c,No,Yes,No,No,No,No,Yes,Yes,Arts
+c,b,No,Yes,Yes,No,No,No,Yes,Yes,Arts
+c,d,Yes,No,Yes,No,No,No,Yes,No,Arts
+a,c,No,No,Yes,Yes,No,No,Yes,No,Arts
+c,a,No,No,Yes,Yes,Yes,No,Yes,No,Arts
+c,c,No,No,Yes,No,Yes,No,Yes,No,Arts
+c,c,No,No,No,Yes,No,No,Yes,No,Arts
+c,b,Yes,No,Yes,Yes,No,No,No,No,Arts
+c,c,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Arts
+b,c,Yes,No,Yes,No,Yes,No,No,No,Arts
+c,d,No,No,Yes,No,Yes,No,Yes,No,Arts
+c,d,No,No,Yes,No,Yes,No,No,Yes,Fine Arts
+c,d,No,No,No,No,No,Yes,No,Yes,Fine Arts
+c,b,No,Yes,No,No,Yes,Yes,No,No,Fine Arts
+c,d,No,Yes,No,No,Yes,Yes,No,No,Fine Arts
+c,c,No,Yes,No,No,Yes,Yes,No,No,Fine Arts
+c,b,No,No,Yes,Yes,Yes,No,No,No,Fine Arts
+c,b,No,No,No,No,No,Yes,Yes,Yes,Fine Arts
+c,d,No,No,Yes,Yes,Yes,Yes,Yes,No,Fine Arts
+c,b,No,Yes,No,No,No,Yes,No,Yes,Fine Arts
+c,b,No,No,Yes,No,Yes,No,No,No,Fine Arts
+a,c,No,No,No,Yes,No,Yes,No,No,Fine Arts
+c,c,No,Yes,No,Yes,No,Yes,No,Yes,Fine Arts
+c,d,No,Yes,Yes,No,No,No,No,No,Fine Arts
+c,b,No,Yes,Yes,No,No,No,No,No,Fine Arts
+c,c,No,No,Yes,No,No,Yes,No,No,Fine Arts
+c,d,No,No,Yes,No,No,Yes,Yes,Yes,Fine Arts
+b,c,No,No,No,No,No,Yes,No,No,Fine Arts
+c,d,No,No,No,Yes,No,No,No,No,Fine Arts
+c,d,No,Yes,No,No,No,Yes,No,Yes,Fine Arts
+c,b,No,No,Yes,Yes,No,No,No,No,Fine Arts
+c,b,No,No,No,Yes,Yes,Yes,No,No,Fine Arts
+a,c,No,No,Yes,No,No,Yes,No,No,Fine Arts
+a,d,No,No,No,No,No,Yes,No,No,Fine Arts
+c,b,No,No,No,No,Yes,Yes,No,No,Fine Arts
+c,d,No,Yes,No,Yes,Yes,Yes,No,No,Fine Arts
+c,b,No,No,Yes,Yes,Yes,Yes,Yes,No,Fine Arts
+c,c,No,Yes,Yes,No,Yes,Yes,No,No,Fine Arts
+c,c,No,Yes,No,No,No,No,No,No,Fine Arts
+c,d,No,No,No,No,Yes,Yes,Yes,No,Fine Arts
+c,b,No,No,No,No,No,No,No,No,Fine Arts
+c,c,No,No,Yes,No,Yes,Yes,No,Yes,Fine Arts
+c,d,No,No,No,No,No,No,No,No,Fine Arts
+c,c,No,No,No,No,No,Yes,Yes,No,Fine Arts
+c,c,No,No,No,Yes,No,Yes,Yes,No,Fine Arts
+c,d,No,No,No,Yes,No,Yes,No,Yes,Fine Arts
+c,d,No,No,Yes,No,Yes,Yes,Yes,No,Fine Arts
+c,d,No,Yes,No,No,Yes,Yes,No,Yes,Fine Arts
+c,c,No,No,No,No,No,No,No,Yes,Fine Arts
+c,b,No,No,Yes,No,No,No,No,No,Fine Arts
+c,c,No,No,No,Yes,Yes,No,No,Yes,Fine Arts
+c,c,No,No,No,Yes,Yes,Yes,No,No,Fine Arts
+c,b,No,No,No,No,Yes,No,No,No,Fine Arts
+c,b,No,Yes,No,Yes,No,No,No,No,Fine Arts
+c,b,No,No,No,Yes,Yes,Yes,No,Yes,Fine Arts
+c,c,No,No,Yes,Yes,No,Yes,No,No,Fine Arts
+c,c,No,No,Yes,No,No,Yes,No,Yes,Fine Arts
+c,b,No,No,No,Yes,Yes,No,No,No,Fine Arts
+c,d,No,No,No,No,No,No,Yes,No,Fine Arts
+c,c,No,Yes,No,Yes,Yes,Yes,No,Yes,Fine Arts
+c,d,No,No,No,Yes,No,Yes,Yes,No,Fine Arts
+b,b,No,No,No,No,No,Yes,No,No,Fine Arts
+c,b,No,No,Yes,No,No,Yes,No,Yes,Fine Arts
+c,d,No,Yes,Yes,No,Yes,Yes,No,Yes,Fine Arts
+c,d,No,No,Yes,Yes,Yes,No,No,No,Fine Arts
+c,b,No,Yes,Yes,No,No,Yes,No,No,Fine Arts
+c,b,No,No,No,Yes,No,No,Yes,No,Fine Arts
+c,b,No,Yes,Yes,Yes,Yes,No,No,No,Fine Arts
+b,c,No,No,Yes,No,No,Yes,No,No,Fine Arts
+c,b,No,Yes,No,Yes,Yes,Yes,No,Yes,Fine Arts
+c,c,No,Yes,Yes,Yes,Yes,Yes,No,No,Fine Arts
+c,b,No,No,Yes,Yes,No,No,No,Yes,Fine Arts
+c,b,No,No,Yes,No,No,No,No,Yes,Fine Arts
+c,b,No,Yes,Yes,No,Yes,Yes,No,Yes,Fine Arts
+c,d,No,No,Yes,No,No,No,No,No,Fine Arts
+c,b,No,No,No,No,No,No,No,Yes,Fine Arts
+c,b,No,No,No,Yes,Yes,Yes,Yes,No,Fine Arts
+c,b,No,No,Yes,Yes,No,Yes,No,Yes,Fine Arts
+c,b,No,Yes,No,Yes,No,Yes,No,Yes,Fine Arts
+c,d,No,Yes,No,No,No,No,No,No,Fine Arts
+c,b,No,Yes,Yes,Yes,No,Yes,No,Yes,Fine Arts
+c,d,No,Yes,No,No,No,Yes,No,No,Fine Arts
+c,b,No,No,Yes,No,No,Yes,No,No,Fine Arts
+c,b,No,Yes,Yes,No,No,Yes,No,Yes,Fine Arts
+c,c,No,Yes,No,No,Yes,No,No,Yes,Fine Arts
+a,d,No,No,Yes,No,No,Yes,No,No,Fine Arts
+b,c,No,No,No,No,Yes,Yes,No,No,Fine Arts
+c,c,No,No,Yes,Yes,Yes,Yes,No,No,Fine Arts
+b,c,No,No,Yes,No,Yes,Yes,No,No,Fine Arts
+c,c,No,No,No,No,No,Yes,Yes,Yes,Fine Arts
+c,b,No,No,No,No,No,Yes,No,Yes,Fine Arts
+c,d,No,No,No,No,No,Yes,Yes,Yes,Fine Arts
+c,d,No,No,Yes,No,Yes,Yes,No,Yes,Fine Arts
+c,c,No,No,Yes,No,Yes,Yes,No,No,Fine Arts
+c,c,No,Yes,No,No,No,No,No,Yes,Fine Arts
+b,b,No,No,Yes,No,No,Yes,No,No,Fine Arts
+c,c,No,Yes,No,Yes,Yes,No,No,No,Fine Arts
+c,c,No,Yes,Yes,Yes,No,Yes,No,No,Fine Arts
+c,b,No,Yes,Yes,No,Yes,Yes,No,No,Fine Arts
+c,d,No,Yes,Yes,No,No,Yes,No,Yes,Fine Arts
+a,c,No,Yes,No,No,No,Yes,No,No,Fine Arts
+c,d,No,No,Yes,No,No,Yes,No,Yes,Fine Arts
+c,b,No,No,Yes,No,Yes,Yes,No,Yes,Fine Arts
+c,b,No,Yes,No,Yes,No,Yes,No,No,Fine Arts
+c,c,No,No,No,Yes,Yes,No,No,No,Fine Arts
+c,b,No,No,No,No,No,No,Yes,No,Fine Arts
+a,c,No,No,Yes,Yes,No,Yes,No,No,Fine Arts
+c,d,No,Yes,No,Yes,No,Yes,No,No,Fine Arts
+a,c,No,No,No,No,No,Yes,No,No,Fine Arts
+c,b,No,Yes,No,No,Yes,No,No,No,Fine Arts
+c,c,No,No,No,No,Yes,Yes,Yes,No,Fine Arts
+c,b,No,Yes,No,Yes,Yes,No,No,No,Fine Arts
+c,d,No,No,No,No,No,Yes,No,No,Fine Arts
+c,c,No,No,No,No,Yes,No,No,Yes,Fine Arts
+c,c,No,No,No,Yes,No,Yes,No,No,Fine Arts
+c,d,No,Yes,Yes,Yes,Yes,Yes,No,No,Fine Arts
+c,b,No,No,Yes,No,Yes,Yes,Yes,No,Fine Arts
+c,b,No,Yes,No,No,No,No,No,No,Fine Arts
+c,b,No,Yes,No,No,Yes,Yes,No,Yes,Fine Arts
+c,d,No,No,No,Yes,No,Yes,No,No,Fine Arts
+c,d,No,No,No,Yes,Yes,Yes,No,Yes,Fine Arts
+c,b,No,No,Yes,No,No,Yes,Yes,Yes,Fine Arts
+c,b,No,No,No,No,Yes,Yes,Yes,No,Fine Arts
+c,b,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Fine Arts
+c,d,No,No,Yes,Yes,Yes,Yes,No,No,Fine Arts
+c,d,No,No,No,Yes,Yes,Yes,Yes,No,Fine Arts
+c,c,No,Yes,No,No,No,Yes,No,Yes,Fine Arts
+c,d,No,No,Yes,Yes,No,Yes,Yes,No,Fine Arts
+c,d,No,No,Yes,No,No,No,No,Yes,Fine Arts
+c,c,No,Yes,No,Yes,No,Yes,No,No,Fine Arts
+c,d,No,No,Yes,No,No,Yes,Yes,No,Fine Arts
+c,b,No,Yes,No,No,No,Yes,No,No,Fine Arts
+c,d,No,No,No,No,Yes,No,No,Yes,Fine Arts
+c,d,No,No,No,Yes,Yes,Yes,No,No,Fine Arts
+c,d,No,No,Yes,Yes,No,Yes,No,No,Fine Arts
+c,b,No,No,No,Yes,No,Yes,No,Yes,Fine Arts
+c,b,No,No,No,Yes,No,Yes,Yes,No,Fine Arts
+c,c,No,No,No,No,Yes,Yes,No,Yes,Fine Arts
+c,b,No,No,No,Yes,No,No,No,Yes,Fine Arts
+c,b,No,No,No,Yes,No,No,No,No,Fine Arts
+c,d,No,No,Yes,Yes,Yes,Yes,No,Yes,Fine Arts
+c,d,No,No,No,No,No,Yes,Yes,No,Fine Arts
+c,d,No,No,Yes,Yes,No,No,No,No,Fine Arts
+c,c,No,Yes,No,No,Yes,Yes,No,Yes,Fine Arts
+c,b,No,No,No,No,No,Yes,Yes,No,Fine Arts
+c,b,No,No,Yes,No,No,Yes,Yes,No,Fine Arts
+c,d,No,No,Yes,No,Yes,Yes,No,No,Fine Arts
+c,d,No,Yes,Yes,No,Yes,Yes,No,No,Fine Arts
+c,d,No,Yes,Yes,No,Yes,No,No,No,Fine Arts
+c,d,No,Yes,Yes,Yes,No,Yes,No,No,Fine Arts
+c,b,No,No,Yes,No,Yes,Yes,No,No,Fine Arts
+c,c,No,Yes,Yes,Yes,No,Yes,No,Yes,Fine Arts
+c,d,No,No,Yes,Yes,No,Yes,No,Yes,Fine Arts
+c,c,No,No,Yes,Yes,No,Yes,No,Yes,Fine Arts
+c,b,No,Yes,Yes,Yes,Yes,Yes,No,No,Fine Arts
+c,d,No,No,No,No,Yes,Yes,No,Yes,Fine Arts
+c,b,No,No,No,No,No,Yes,No,No,Fine Arts
+c,c,No,No,No,Yes,Yes,Yes,No,Yes,Fine Arts
+c,c,No,Yes,No,Yes,No,No,No,No,Fine Arts
+c,c,No,Yes,No,No,No,Yes,No,No,Fine Arts
+c,d,No,Yes,No,No,Yes,No,No,No,Fine Arts
+c,c,No,Yes,Yes,No,Yes,Yes,No,Yes,Fine Arts
+c,c,No,Yes,Yes,No,No,Yes,No,Yes,Fine Arts
+c,c,No,No,No,Yes,No,Yes,Yes,Yes,Fine Arts
+c,c,No,Yes,No,Yes,Yes,Yes,No,No,Fine Arts
+c,c,No,No,No,Yes,No,No,No,No,Fine Arts
+c,b,No,Yes,Yes,No,Yes,No,No,No,Fine Arts
+c,d,No,Yes,Yes,No,No,Yes,No,No,Fine Arts
+c,b,No,No,No,Yes,No,Yes,Yes,Yes,Fine Arts
+c,d,No,No,Yes,No,No,Yes,No,No,Fine Arts
+c,b,No,Yes,Yes,Yes,No,No,No,No,Fine Arts
+c,c,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Fine Arts
+c,c,No,No,Yes,Yes,Yes,Yes,No,Yes,Fine Arts
+c,d,No,No,Yes,No,Yes,No,No,No,Fine Arts
+c,b,No,No,Yes,Yes,Yes,Yes,No,No,Fine Arts
+c,b,No,No,Yes,Yes,No,Yes,Yes,No,Fine Arts
+c,b,No,No,Yes,Yes,No,Yes,Yes,Yes,Fine Arts
+c,c,No,No,No,Yes,No,Yes,No,Yes,Fine Arts
+c,d,No,No,No,Yes,Yes,No,No,No,Fine Arts
+c,c,No,No,No,No,Yes,Yes,Yes,Yes,Fine Arts
+c,b,No,No,Yes,Yes,No,Yes,No,No,Fine Arts
+c,b,No,Yes,Yes,No,No,No,No,Yes,Fine Arts
+c,c,No,No,No,No,No,No,No,No,Fine Arts
+c,c,No,No,No,No,No,Yes,No,Yes,Fine Arts
+c,b,No,Yes,Yes,Yes,No,Yes,No,No,Fine Arts
+c,b,No,No,No,Yes,No,Yes,No,No,Fine Arts
+c,d,No,No,No,No,Yes,No,No,No,Fine Arts
+c,c,No,No,No,Yes,No,No,No,Yes,Fine Arts
+c,c,No,No,No,Yes,Yes,Yes,Yes,No,Fine Arts
+c,c,No,No,No,No,Yes,No,No,No,Fine Arts
+c,b,No,No,Yes,Yes,Yes,Yes,No,Yes,Fine Arts
+c,c,No,Yes,No,No,Yes,No,No,No,Fine Arts
+c,b,No,No,No,No,Yes,Yes,No,Yes,Fine Arts
+a,c,No,Yes,Yes,No,No,Yes,No,No,Fine Arts
+c,b,No,Yes,No,Yes,Yes,Yes,No,No,Fine Arts
+c,c,No,Yes,Yes,No,No,Yes,No,No,Fine Arts
+c,d,No,No,No,No,Yes,Yes,No,No,Fine Arts
+c,b,No,Yes,No,No,No,No,No,Yes,Fine Arts
+c,d,No,No,No,No,No,No,No,Yes,Fine Arts
+c,c,No,No,No,No,Yes,Yes,No,No,Fine Arts
+c,c,No,No,No,No,No,Yes,No,No,Fine Arts

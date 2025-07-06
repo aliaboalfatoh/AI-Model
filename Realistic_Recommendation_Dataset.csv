@@ -1,0 +1,2501 @@
+Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,Recommended_Major
+b,a,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Media
+a,a,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Engineering
+a,c,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Engineering
+c,d,Yes,No,No,No,No,No,Yes,Yes,No,No,Media
+a,b,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Applied Health Sciences
+c,a,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Commerce
+b,d,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Computer Science
+c,a,No,No,Yes,No,No,Yes,No,No,No,Yes,Applied Sciences for Space and Navigation
+c,c,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Media
+c,b,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Commerce
+b,b,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Media
+b,b,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Applied Health Sciences
+a,b,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Engineering
+a,c,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+a,b,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Applied Health Sciences
+b,b,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Computer Science
+a,c,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Engineering
+d,b,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Fine Arts
+c,a,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Media
+b,c,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Computer Science
+d,c,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Fine Arts
+a,b,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Applied Health Sciences
+b,a,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Applied Sciences for Space and Navigation
+a,b,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Engineering
+b,b,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Computer Science
+a,b,No,No,No,Yes,Yes,Yes,No,No,No,No,Applied Health Sciences
+a,c,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Engineering
+d,b,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Fine Arts
+d,a,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Applied Sciences for Space and Navigation
+d,a,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Media
+d,b,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Applied Health Sciences
+d,d,No,Yes,No,Yes,No,No,No,Yes,Yes,No,Fine Arts
+c,b,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+c,d,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Commerce
+a,c,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Engineering
+c,a,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Media
+d,d,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Media
+c,d,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Commerce
+c,c,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+c,a,No,No,No,No,Yes,No,Yes,No,Yes,No,Commerce
+d,a,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Fine Arts
+d,a,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Applied Sciences for Space and Navigation
+a,c,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Engineering
+c,b,Yes,No,No,Yes,Yes,No,No,No,No,No,Applied Health Sciences
+b,d,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Computer Science
+b,a,No,Yes,No,No,No,No,Yes,No,Yes,No,Fine Arts
+a,c,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Media
+c,a,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Applied Sciences for Space and Navigation
+b,d,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Computer Science
+d,b,No,No,No,No,No,Yes,No,No,No,No,Commerce
+a,a,No,No,No,No,No,No,Yes,No,Yes,No,Media
+b,a,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Computer Science
+b,a,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Computer Science
+a,a,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Engineering
+b,d,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,Computer Science
+c,b,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Applied Health Sciences
+b,c,No,Yes,No,Yes,No,No,Yes,No,No,Yes,Computer Science
+c,a,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Commerce
+b,a,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Computer Science
+b,b,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Law
+c,a,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Applied Sciences for Space and Navigation
+c,a,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Commerce
+c,c,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Commerce
+d,b,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Fine Arts
+a,b,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Engineering
+a,d,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Media
+d,d,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Media
+a,d,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Engineering
+a,c,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Engineering
+a,a,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Engineering
+b,a,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Applied Sciences for Space and Navigation
+c,d,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Media
+a,d,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Media
+a,a,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Engineering
+c,a,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Applied Sciences for Space and Navigation
+a,a,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Media
+d,d,No,No,No,No,Yes,No,No,No,Yes,No,Commerce
+c,a,No,No,No,No,Yes,No,No,No,Yes,No,Commerce
+c,c,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Commerce
+c,c,No,No,No,No,No,Yes,No,No,No,No,Commerce
+a,c,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Engineering
+d,b,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Fine Arts
+d,b,No,No,No,Yes,No,Yes,No,No,Yes,No,Law
+b,b,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Computer Science
+a,c,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Media
+d,d,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Media
+b,a,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Applied Sciences for Space and Navigation
+c,d,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Media
+a,c,No,No,No,No,Yes,No,No,No,No,No,Science
+a,b,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Law
+a,d,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Engineering
+b,b,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Media
+d,d,No,No,Yes,No,No,No,No,Yes,No,No,Media
+b,c,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Computer Science
+b,d,Yes,No,Yes,No,Yes,No,No,No,No,No,Media
+a,c,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,Science
+c,b,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Commerce
+a,a,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Media
+c,a,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Law
+c,d,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+a,a,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Engineering
+c,a,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Commerce
+b,d,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Media
+c,d,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Commerce
+a,a,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Engineering
+a,a,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,Law
+a,b,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Engineering
+a,b,No,No,Yes,No,Yes,No,No,Yes,No,No,Engineering
+b,a,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Applied Sciences for Space and Navigation
+b,a,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Computer Science
+a,d,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Media
+a,b,No,No,No,No,Yes,Yes,No,No,No,No,Applied Health Sciences
+d,a,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Applied Sciences for Space and Navigation
+d,d,No,No,Yes,No,No,No,No,Yes,No,Yes,Media
+d,b,Yes,No,Yes,No,No,Yes,No,No,No,No,Media
+b,a,No,No,No,Yes,No,No,Yes,No,No,No,Law
+a,a,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Media
+d,c,Yes,No,No,Yes,No,Yes,No,Yes,No,No,Law
+b,d,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Computer Science
+b,a,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Computer Science
+a,a,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Engineering
+a,c,No,No,No,Yes,No,No,No,No,No,Yes,Law
+c,c,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Commerce
+a,a,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Engineering
+a,c,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Law
+c,b,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Media
+c,c,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Commerce
+b,c,No,No,No,No,Yes,No,No,Yes,No,Yes,Computer Science
+a,c,Yes,Yes,No,No,No,No,No,No,Yes,No,Higher Institute of Administrative Sciences
+d,c,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Media
+c,a,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Commerce
+b,b,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Science
+b,a,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Computer Science
+c,b,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Commerce
+a,d,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Engineering
+d,c,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Fine Arts
+b,c,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Law
+a,a,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Applied Sciences for Space and Navigation
+a,d,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Engineering
+b,d,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Computer Science
+d,b,No,No,Yes,No,No,No,Yes,No,No,No,Media
+c,b,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Law
+b,a,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Computer Science
+d,b,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Fine Arts
+c,b,No,No,No,Yes,No,Yes,No,No,No,Yes,Law
+d,d,No,No,Yes,No,No,Yes,No,No,No,Yes,Media
+c,a,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Applied Sciences for Space and Navigation
+d,c,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Fine Arts
+d,b,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Fine Arts
+b,a,No,No,No,No,No,No,No,No,Yes,Yes,Computer Science
+b,b,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Computer Science
+c,c,No,No,No,No,No,Yes,No,Yes,No,No,Fine Arts
+c,a,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Law
+b,a,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Applied Sciences for Space and Navigation
+d,b,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Fine Arts
+d,c,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Media
+a,c,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Law
+d,c,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Law
+b,d,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Media
+a,b,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Engineering
+a,b,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Applied Health Sciences
+b,c,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Computer Science
+a,a,No,No,No,No,No,No,Yes,No,Yes,Yes,Media
+c,d,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Commerce
+b,a,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Computer Science
+d,a,No,No,Yes,Yes,No,No,No,Yes,No,No,Media
+b,c,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Media
+d,c,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Law
+b,b,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Media
+d,d,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Fine Arts
+a,b,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Engineering
+c,b,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,Commerce
+c,b,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Media
+b,a,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Computer Science
+c,a,No,No,No,No,No,No,Yes,Yes,No,No,Commerce
+c,b,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Law
+a,b,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Engineering
+c,a,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Commerce
+c,c,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Media
+c,a,No,Yes,No,No,No,No,Yes,Yes,No,No,Fine Arts
+a,c,No,No,Yes,No,No,No,No,Yes,Yes,No,Engineering
+a,c,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Engineering
+b,a,Yes,No,No,Yes,No,Yes,No,No,No,No,Applied Sciences for Space and Navigation
+d,c,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Media
+a,d,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Engineering
+b,c,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Computer Science
+d,b,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Media
+c,a,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Commerce
+d,a,No,No,No,No,No,No,No,No,No,Yes,Media
+b,d,No,No,No,Yes,Yes,Yes,No,No,No,No,Law
+a,c,No,No,No,No,No,No,Yes,Yes,Yes,No,Engineering
+a,c,No,Yes,No,Yes,Yes,No,No,No,No,No,Law
+d,b,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Applied Health Sciences
+a,a,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Engineering
+d,a,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Media
+c,d,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Commerce
+c,a,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Applied Sciences for Space and Navigation
+b,a,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Applied Sciences for Space and Navigation
+c,a,No,No,No,No,No,No,Yes,No,No,Yes,Commerce
+a,b,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Media
+d,d,No,Yes,No,No,Yes,No,No,No,No,No,Fine Arts
+a,a,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Engineering
+c,a,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Applied Sciences for Space and Navigation
+c,d,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Commerce
+a,c,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Law
+b,a,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Computer Science
+c,d,No,No,No,No,No,No,No,Yes,Yes,No,Commerce
+b,b,No,No,No,No,Yes,Yes,No,No,No,No,Applied Health Sciences
+d,d,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Fine Arts
+b,d,No,Yes,No,No,Yes,No,No,No,No,Yes,Computer Science
+d,d,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Fine Arts
+c,a,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Applied Sciences for Space and Navigation
+b,d,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+d,a,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Applied Sciences for Space and Navigation
+a,d,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Media
+c,c,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Commerce
+c,c,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Media
+c,c,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Commerce
+b,c,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Media
+d,c,No,Yes,Yes,No,Yes,No,No,No,No,No,Fine Arts
+c,d,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Commerce
+b,a,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Computer Science
+b,b,No,No,No,No,No,Yes,No,Yes,Yes,No,Commerce
+a,b,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Law
+b,a,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Computer Science
+b,c,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Computer Science
+a,d,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Media
+c,c,No,No,No,No,No,No,No,Yes,No,No,Commerce
+c,a,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Media
+a,a,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Engineering
+b,b,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Applied Health Sciences
+a,b,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Media
+d,c,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Fine Arts
+d,b,No,No,No,No,No,No,No,No,Yes,Yes,Media
+d,b,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,Media
+d,a,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Applied Sciences for Space and Navigation
+c,d,No,Yes,No,No,No,No,No,No,Yes,No,Commerce
+b,c,Yes,No,No,No,Yes,No,No,No,No,No,Commerce
+c,c,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Commerce
+a,a,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Engineering
+b,d,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Computer Science
+b,d,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Computer Science
+b,b,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,Applied Health Sciences
+c,a,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Commerce
+c,c,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Law
+a,c,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Media
+b,a,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Computer Science
+d,b,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Fine Arts
+b,d,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Computer Science
+d,b,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Fine Arts
+d,b,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Fine Arts
+a,b,No,Yes,No,Yes,No,No,Yes,No,No,Yes,Law
+a,a,No,Yes,No,No,Yes,No,Yes,No,No,No,Science
+d,a,Yes,No,No,Yes,No,Yes,No,Yes,No,No,Applied Sciences for Space and Navigation
+b,b,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Computer Science
+a,a,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Applied Sciences for Space and Navigation
+a,c,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Engineering
+a,d,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Engineering
+a,c,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Law
+c,c,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+b,b,No,No,No,No,No,Yes,No,No,No,Yes,Computer Science
+c,a,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,Commerce
+d,a,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Fine Arts
+c,d,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Commerce
+a,c,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Law
+b,b,No,No,Yes,No,Yes,No,No,No,Yes,Yes,Computer Science
+b,d,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,Media
+b,c,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Media
+a,b,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Media
+a,a,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Engineering
+a,c,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Law
+b,d,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Computer Science
+c,d,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Media
+d,b,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Applied Health Sciences
+d,c,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Fine Arts
+d,d,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Fine Arts
+c,c,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Commerce
+d,a,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Fine Arts
+d,a,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Fine Arts
+b,c,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Computer Science
+a,c,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Engineering
+d,c,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Media
+b,b,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Computer Science
+c,b,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Commerce
+d,b,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Fine Arts
+a,d,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Media
+a,a,Yes,No,No,Yes,No,No,No,Yes,Yes,No,Engineering
+c,b,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Commerce
+b,d,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Media
+c,d,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Media
+d,a,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Applied Sciences for Space and Navigation
+b,d,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+d,c,No,No,Yes,No,Yes,No,No,Yes,No,Yes,Media
+c,a,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+d,c,Yes,No,No,No,No,Yes,No,No,No,No,Media
+a,d,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Law
+a,a,Yes,No,No,No,Yes,No,No,No,Yes,No,Higher Institute of Administrative Sciences
+c,a,No,No,Yes,No,Yes,Yes,No,No,No,No,Applied Sciences for Space and Navigation
+a,a,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Engineering
+c,c,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Media
+d,c,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Media
+d,a,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,No,Yes,No,Yes,No,No,No,Yes,No,No,Law
+c,a,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Applied Sciences for Space and Navigation
+c,c,Yes,No,No,No,No,No,No,Yes,No,Yes,Fine Arts
+a,c,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Engineering
+c,d,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Commerce
+a,a,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Engineering
+b,a,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Media
+c,d,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Media
+d,d,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Fine Arts
+a,b,No,No,No,No,Yes,No,No,Yes,No,No,Engineering
+c,b,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Commerce
+c,c,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Commerce
+d,b,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Fine Arts
+c,b,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Applied Health Sciences
+c,a,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+b,c,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Law
+c,d,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Commerce
+c,d,No,Yes,No,No,No,No,Yes,No,No,Yes,Science
+b,d,Yes,No,Yes,No,No,No,Yes,No,No,No,Media
+a,b,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Law
+c,a,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Media
+c,a,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Commerce
+b,d,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Law
+d,b,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Fine Arts
+d,c,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,c,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Computer Science
+a,a,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Applied Sciences for Space and Navigation
+c,d,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Media
+d,d,No,No,Yes,No,No,Yes,Yes,No,No,Yes,Media
+d,c,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Media
+d,d,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Media
+a,a,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Applied Sciences for Space and Navigation
+c,b,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Applied Health Sciences
+d,d,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Media
+c,c,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Commerce
+d,a,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Fine Arts
+b,c,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Computer Science
+c,a,No,No,No,Yes,No,Yes,No,Yes,No,No,Applied Sciences for Space and Navigation
+b,c,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Law
+a,d,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Engineering
+b,a,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Applied Sciences for Space and Navigation
+a,b,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Engineering
+b,c,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Computer Science
+c,a,No,No,Yes,No,No,No,No,No,Yes,Yes,Commerce
+a,c,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Engineering
+a,c,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Media
+a,c,No,No,Yes,No,Yes,No,No,No,No,No,Media
+a,a,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Engineering
+c,a,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Commerce
+b,c,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Computer Science
+a,c,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Engineering
+b,d,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Law
+b,d,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Computer Science
+b,d,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Computer Science
+b,c,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Computer Science
+c,b,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Commerce
+c,b,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Commerce
+a,d,No,No,No,Yes,No,Yes,No,No,No,No,Law
+a,d,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Engineering
+a,a,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Engineering
+c,c,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Media
+a,a,No,No,No,No,No,Yes,Yes,No,No,No,Applied Sciences for Space and Navigation
+d,a,No,Yes,No,No,Yes,No,No,Yes,No,Yes,Fine Arts
+a,c,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Engineering
+a,d,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,Engineering
+d,d,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Media
+d,d,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Fine Arts
+b,b,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Media
+d,b,No,No,No,No,No,No,Yes,No,No,No,Commerce
+a,a,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Engineering
+a,a,Yes,No,No,No,No,No,Yes,No,No,Yes,Fine Arts
+b,a,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Computer Science
+c,b,No,Yes,No,Yes,No,No,No,Yes,No,No,Law
+a,a,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Media
+a,a,No,No,Yes,No,No,No,No,No,No,No,Media
+d,a,Yes,Yes,No,Yes,No,No,No,No,No,No,Fine Arts
+d,a,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Fine Arts
+a,a,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Applied Sciences for Space and Navigation
+b,a,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Computer Science
+c,b,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Commerce
+d,b,No,No,No,No,No,No,Yes,Yes,No,Yes,Media
+c,d,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Commerce
+c,d,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+a,a,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Engineering
+b,b,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Computer Science
+a,c,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Media
+c,c,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Media
+c,a,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Applied Sciences for Space and Navigation
+d,b,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Applied Health Sciences
+d,d,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Media
+a,d,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,Engineering
+c,d,No,No,Yes,No,No,Yes,Yes,No,No,No,Media
+c,b,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Commerce
+a,d,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Engineering
+b,a,No,No,Yes,No,Yes,Yes,No,No,No,Yes,Computer Science
+b,b,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Computer Science
+b,d,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Law
+b,c,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+a,d,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Law
+b,b,No,No,No,No,No,No,No,Yes,Yes,Yes,Computer Science
+d,a,No,No,No,No,No,No,No,No,No,Yes,Science
+b,d,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Computer Science
+d,b,No,No,Yes,Yes,No,Yes,No,No,No,Yes,Media
+b,c,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Media
+a,a,Yes,No,No,No,No,No,No,Yes,No,Yes,Engineering
+b,a,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Applied Sciences for Space and Navigation
+a,d,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Engineering
+b,a,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Computer Science
+a,d,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Media
+b,d,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Media
+c,d,No,Yes,Yes,No,No,No,Yes,No,No,No,Media
+c,a,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Commerce
+b,c,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Computer Science
+b,a,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Applied Sciences for Space and Navigation
+d,b,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Fine Arts
+b,b,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Media
+b,c,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Media
+c,a,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Media
+d,c,No,No,No,No,Yes,No,Yes,No,No,No,Media
+c,a,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Media
+d,b,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Applied Health Sciences
+c,b,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Commerce
+c,c,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Commerce
+b,d,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Computer Science
+c,b,No,No,No,No,Yes,Yes,No,No,No,Yes,Applied Health Sciences
+b,b,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Computer Science
+d,b,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Media
+d,d,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Media
+b,d,No,Yes,Yes,No,No,No,No,No,No,No,Media
+c,a,No,No,No,No,No,No,Yes,No,Yes,Yes,Commerce
+a,c,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Engineering
+d,c,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Media
+b,d,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Law
+d,b,No,Yes,No,No,No,No,No,No,No,Yes,Fine Arts
+a,b,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Applied Health Sciences
+a,a,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Media
+b,c,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Computer Science
+d,c,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Law
+d,b,No,Yes,Yes,No,No,No,Yes,No,No,No,Fine Arts
+d,a,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Fine Arts
+c,b,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Applied Health Sciences
+a,c,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Engineering
+c,a,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Commerce
+c,b,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Commerce
+b,c,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Media
+a,c,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Law
+a,a,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Engineering
+a,a,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Applied Sciences for Space and Navigation
+c,b,Yes,No,No,Yes,No,No,Yes,No,No,No,Law
+b,b,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Applied Health Sciences
+b,c,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Media
+b,c,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Science
+d,c,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Fine Arts
+c,a,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Commerce
+c,c,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Law
+a,d,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Engineering
+a,c,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Engineering
+a,d,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Engineering
+b,c,No,No,No,No,No,No,No,No,Yes,No,Media
+c,b,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Commerce
+a,a,No,No,No,No,No,No,No,Yes,No,No,Engineering
+d,a,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Fine Arts
+d,c,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Fine Arts
+d,c,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Law
+c,d,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Commerce
+c,b,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Commerce
+b,b,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Media
+b,c,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Media
+a,b,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Law
+d,c,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Fine Arts
+a,b,No,No,No,Yes,Yes,No,No,No,Yes,No,Applied Health Sciences
+c,b,No,Yes,Yes,No,No,Yes,No,Yes,No,No,Media
+b,b,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,Computer Science
+d,a,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,Applied Sciences for Space and Navigation
+d,a,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Fine Arts
+d,c,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Fine Arts
+b,a,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Computer Science
+b,d,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Computer Science
+d,c,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Fine Arts
+c,c,No,No,No,No,Yes,Yes,No,Yes,No,No,Fine Arts
+b,d,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Computer Science
+a,b,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Engineering
+a,b,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Engineering
+b,a,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Computer Science
+c,b,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Commerce
+a,b,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Engineering
+c,b,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+d,a,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Fine Arts
+b,a,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Media
+c,d,Yes,No,No,No,No,Yes,No,Yes,No,No,Science
+c,b,Yes,No,No,Yes,Yes,No,No,No,No,No,Applied Health Sciences
+c,b,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Commerce
+a,a,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Applied Sciences for Space and Navigation
+c,b,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Commerce
+c,b,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Commerce
+b,a,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Computer Science
+c,c,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Commerce
+b,d,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Law
+a,d,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Law
+c,c,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Media
+d,b,No,No,Yes,No,No,No,No,Yes,Yes,No,Media
+d,d,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Media
+a,d,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Engineering
+b,a,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Law
+a,b,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Applied Health Sciences
+b,a,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Computer Science
+c,d,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Commerce
+d,b,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Applied Health Sciences
+c,a,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Applied Sciences for Space and Navigation
+b,a,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Applied Sciences for Space and Navigation
+a,c,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Engineering
+d,d,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Law
+a,b,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Media
+d,c,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Media
+d,a,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Fine Arts
+d,a,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Applied Sciences for Space and Navigation
+a,a,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Engineering
+a,b,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,Engineering
+b,c,No,No,No,No,No,No,No,No,Yes,Yes,Computer Science
+d,c,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Fine Arts
+a,c,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Engineering
+a,c,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Law
+b,c,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Commerce
+d,a,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Fine Arts
+b,c,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Computer Science
+d,b,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Fine Arts
+c,d,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Commerce
+c,c,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Commerce
+d,c,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Fine Arts
+a,d,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Engineering
+b,b,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Computer Science
+a,a,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Applied Sciences for Space and Navigation
+a,b,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Media
+d,b,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Applied Health Sciences
+d,c,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Media
+b,b,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Applied Health Sciences
+a,c,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+d,a,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Applied Sciences for Space and Navigation
+b,a,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Applied Sciences for Space and Navigation
+a,a,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Engineering
+c,b,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Commerce
+a,d,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Engineering
+d,b,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Fine Arts
+a,a,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Engineering
+c,d,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Fine Arts
+b,b,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Computer Science
+d,a,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Fine Arts
+d,a,No,No,Yes,No,No,Yes,No,Yes,No,No,Applied Sciences for Space and Navigation
+c,a,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Applied Sciences for Space and Navigation
+d,a,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Fine Arts
+c,a,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Media
+c,b,No,Yes,No,No,Yes,No,No,No,Yes,No,Commerce
+d,d,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+c,b,No,No,Yes,No,No,No,Yes,No,No,Yes,Media
+c,c,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Media
+a,b,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Applied Health Sciences
+a,c,No,No,No,No,Yes,No,No,No,Yes,Yes,Media
+d,a,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Law
+d,c,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Fine Arts
+a,a,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Applied Sciences for Space and Navigation
+d,c,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Fine Arts
+d,d,No,No,Yes,Yes,No,No,Yes,No,No,No,Media
+b,d,No,No,Yes,No,Yes,No,No,No,No,Yes,Computer Science
+a,d,No,Yes,No,Yes,No,No,No,No,No,No,Law
+b,a,No,No,No,Yes,No,No,No,Yes,No,Yes,Computer Science
+c,c,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Science
+c,c,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Media
+c,c,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Law
+a,c,No,No,Yes,No,No,No,No,No,No,No,Media
+b,b,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Computer Science
+b,d,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Commerce
+b,a,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Media
+c,d,No,No,No,No,No,Yes,Yes,No,Yes,No,Commerce
+b,b,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Computer Science
+b,c,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Media
+b,a,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Computer Science
+a,c,No,No,Yes,No,No,Yes,Yes,No,No,No,Media
+b,d,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Computer Science
+c,a,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Commerce
+a,d,Yes,No,No,No,No,Yes,No,Yes,No,No,Engineering
+a,d,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Engineering
+b,d,No,No,Yes,Yes,No,No,Yes,No,No,No,Media
+c,d,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,Media
+b,b,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Computer Science
+c,b,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Media
+d,d,No,No,No,Yes,No,Yes,No,No,No,No,Law
+d,a,Yes,No,No,No,Yes,No,No,No,No,Yes,Science
+c,b,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Applied Health Sciences
+d,c,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Fine Arts
+c,c,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Commerce
+b,b,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Computer Science
+d,d,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Law
+d,d,No,No,Yes,No,No,No,No,No,Yes,No,Media
+b,d,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Computer Science
+d,b,No,No,No,Yes,Yes,No,No,No,No,No,Applied Health Sciences
+a,b,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Engineering
+b,d,No,No,No,No,No,No,No,No,Yes,Yes,Computer Science
+c,c,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Commerce
+b,b,Yes,No,Yes,No,No,No,No,No,Yes,No,Media
+b,c,No,No,No,No,Yes,No,Yes,Yes,No,No,Fine Arts
+d,d,No,No,No,Yes,No,No,No,No,No,Yes,Law
+b,a,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Computer Science
+b,a,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Applied Sciences for Space and Navigation
+c,c,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Commerce
+c,b,Yes,No,No,No,No,No,Yes,No,No,No,Commerce
+a,c,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Media
+b,b,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Computer Science
+a,c,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Media
+c,d,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,Media
+a,c,No,No,No,No,No,No,No,Yes,Yes,No,Engineering
+a,b,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Applied Health Sciences
+c,b,No,Yes,No,Yes,No,No,Yes,No,No,No,Law
+d,c,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,Law
+b,c,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Computer Science
+c,c,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Media
+a,a,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Media
+c,a,No,Yes,No,Yes,No,No,Yes,No,No,Yes,Law
+a,b,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Applied Health Sciences
+b,b,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Computer Science
+b,a,No,Yes,No,No,Yes,No,No,No,No,Yes,Computer Science
+d,a,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Media
+c,b,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Applied Health Sciences
+b,a,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Computer Science
+c,a,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Commerce
+d,c,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Media
+d,b,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Applied Health Sciences
+a,d,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Higher Institute of Administrative Sciences
+c,d,Yes,No,No,No,Yes,No,No,No,Yes,No,Commerce
+c,d,No,No,No,Yes,No,No,No,Yes,Yes,No,Commerce
+a,b,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Media
+b,a,No,Yes,No,Yes,No,No,No,Yes,No,No,Law
+a,c,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Engineering
+c,a,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Applied Sciences for Space and Navigation
+c,d,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Commerce
+a,d,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Engineering
+c,d,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Media
+d,b,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Fine Arts
+b,a,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Computer Science
+b,c,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Computer Science
+b,b,Yes,No,No,No,Yes,Yes,No,Yes,No,No,Applied Health Sciences
+d,c,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Fine Arts
+d,d,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Media
+c,c,No,Yes,No,No,Yes,Yes,No,No,No,No,Fine Arts
+c,d,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Commerce
+c,d,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Law
+a,a,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Engineering
+d,d,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Fine Arts
+b,d,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Computer Science
+c,b,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Commerce
+d,b,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Fine Arts
+c,a,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Commerce
+d,a,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Fine Arts
+b,a,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Computer Science
+d,c,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Media
+a,b,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Engineering
+b,d,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Computer Science
+b,d,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Computer Science
+c,d,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Commerce
+a,b,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Law
+b,b,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Computer Science
+a,b,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Applied Health Sciences
+d,a,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Law
+d,b,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Fine Arts
+b,a,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Media
+a,b,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Engineering
+d,a,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Fine Arts
+a,b,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Media
+a,d,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Engineering
+c,d,Yes,Yes,No,Yes,No,No,No,No,No,No,Law
+d,a,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Media
+d,d,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Media
+c,d,No,Yes,No,Yes,No,No,No,No,No,Yes,Law
+d,a,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Fine Arts
+c,d,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+b,a,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Law
+b,b,No,No,No,Yes,No,No,Yes,No,No,Yes,Computer Science
+c,a,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Media
+d,d,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Media
+c,d,No,Yes,No,No,No,No,No,No,No,Yes,Science
+c,a,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Commerce
+b,b,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Computer Science
+c,d,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+d,d,Yes,Yes,No,No,No,No,No,Yes,No,No,Fine Arts
+a,d,Yes,No,No,No,Yes,Yes,No,No,No,No,Science
+c,b,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Applied Health Sciences
+a,d,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Law
+b,c,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Computer Science
+c,a,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Commerce
+c,d,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Commerce
+c,d,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Media
+c,c,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Commerce
+c,a,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Applied Sciences for Space and Navigation
+a,c,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Engineering
+b,a,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Media
+c,c,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Commerce
+a,c,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Engineering
+b,c,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Computer Science
+d,b,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Applied Health Sciences
+a,a,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Media
+c,c,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Media
+b,b,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Media
+b,d,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Fine Arts
+a,d,No,No,Yes,No,No,Yes,No,No,Yes,No,Media
+d,d,No,Yes,No,No,No,Yes,Yes,No,No,No,Fine Arts
+b,a,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Computer Science
+d,b,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Law
+d,c,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Fine Arts
+c,a,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Commerce
+c,c,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Media
+a,b,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Engineering
+d,d,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Media
+c,b,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Commerce
+c,a,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Applied Sciences for Space and Navigation
+a,b,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Media
+d,d,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Media
+d,d,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Media
+a,b,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Engineering
+d,a,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Fine Arts
+a,c,No,No,No,No,No,Yes,Yes,Yes,No,No,Engineering
+b,b,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Computer Science
+c,d,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Commerce
+a,c,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Media
+b,c,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Media
+a,a,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Engineering
+c,a,No,No,No,No,Yes,No,Yes,No,Yes,No,Commerce
+d,a,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Fine Arts
+b,c,No,No,No,No,Yes,Yes,No,Yes,No,No,Fine Arts
+a,d,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Engineering
+d,a,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Fine Arts
+c,d,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Commerce
+b,a,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Computer Science
+c,d,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Law
+a,c,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Media
+a,d,Yes,No,Yes,No,No,No,No,No,Yes,No,Media
+a,d,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Media
+d,a,No,No,Yes,No,No,No,No,No,Yes,Yes,Media
+d,c,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Media
+b,c,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Media
+d,d,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Media
+c,c,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Commerce
+c,b,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Applied Health Sciences
+d,b,Yes,No,No,No,No,No,No,No,No,Yes,Science
+c,a,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Commerce
+b,b,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Applied Health Sciences
+c,a,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Media
+b,b,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Applied Health Sciences
+d,c,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Media
+a,d,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Media
+c,b,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Applied Health Sciences
+b,c,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Media
+a,d,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Media
+c,d,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+d,d,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Fine Arts
+d,b,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Fine Arts
+d,c,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Fine Arts
+b,b,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Computer Science
+d,b,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Media
+b,c,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Computer Science
+c,d,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Commerce
+b,a,Yes,Yes,No,No,No,No,No,No,No,No,Fine Arts
+d,c,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Fine Arts
+d,c,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Fine Arts
+c,c,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Media
+d,d,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Fine Arts
+c,c,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Commerce
+d,a,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Fine Arts
+b,a,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Media
+b,b,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Computer Science
+b,c,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Law
+c,b,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Commerce
+d,c,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Fine Arts
+c,d,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Media
+a,b,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Law
+c,a,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Applied Sciences for Space and Navigation
+c,c,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Commerce
+c,c,No,No,No,No,No,No,No,No,Yes,Yes,Commerce
+b,c,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Law
+d,b,No,No,No,No,No,Yes,No,No,Yes,Yes,Commerce
+a,b,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Media
+d,b,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Fine Arts
+c,b,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Commerce
+d,d,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Media
+c,b,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Law
+d,a,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Fine Arts
+c,d,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Law
+a,d,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Engineering
+a,c,Yes,No,Yes,No,No,No,Yes,No,No,No,Media
+a,b,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Applied Health Sciences
+b,b,No,No,No,No,Yes,No,Yes,No,Yes,No,Applied Health Sciences
+a,a,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Engineering
+b,d,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Media
+a,c,No,No,Yes,No,No,Yes,No,No,Yes,No,Media
+d,c,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Fine Arts
+b,b,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Computer Science
+a,b,No,Yes,No,No,Yes,No,Yes,No,No,No,Applied Health Sciences
+b,b,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Media
+d,c,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Science
+a,b,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Engineering
+d,d,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Fine Arts
+b,d,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Computer Science
+b,a,Yes,Yes,No,No,No,Yes,No,No,No,No,Applied Sciences for Space and Navigation
+c,b,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Law
+b,a,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,Applied Sciences for Space and Navigation
+a,c,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Law
+c,b,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Applied Health Sciences
+c,c,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Media
+a,a,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Applied Sciences for Space and Navigation
+b,a,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Applied Sciences for Space and Navigation
+b,d,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Media
+d,d,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Law
+a,a,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Applied Sciences for Space and Navigation
+b,c,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Computer Science
+b,c,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Computer Science
+a,d,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Engineering
+d,c,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Fine Arts
+b,c,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Computer Science
+b,a,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Fine Arts
+c,a,No,No,Yes,No,No,No,Yes,Yes,No,No,Media
+a,c,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Engineering
+d,a,Yes,No,No,No,No,Yes,No,No,Yes,No,Applied Sciences for Space and Navigation
+d,c,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+a,d,No,No,Yes,No,No,No,No,Yes,No,No,Engineering
+b,c,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Media
+b,d,Yes,Yes,No,Yes,No,No,No,No,No,No,Law
+c,a,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Applied Sciences for Space and Navigation
+b,d,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Media
+c,c,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Media
+c,b,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Commerce
+a,a,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Applied Sciences for Space and Navigation
+a,a,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+c,d,No,No,Yes,No,No,Yes,No,No,No,No,Media
+b,a,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Computer Science
+c,b,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Commerce
+d,a,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Fine Arts
+d,b,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Fine Arts
+b,d,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+a,b,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Engineering
+d,b,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Fine Arts
+c,b,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Commerce
+d,c,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Fine Arts
+d,c,No,Yes,No,No,No,No,No,Yes,No,No,Fine Arts
+b,c,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Computer Science
+a,b,Yes,No,Yes,No,No,No,No,Yes,No,No,Engineering
+a,d,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Media
+b,b,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Applied Health Sciences
+c,d,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Commerce
+d,d,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Commerce
+c,d,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Law
+d,c,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Fine Arts
+a,c,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Engineering
+a,d,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Engineering
+d,b,No,Yes,Yes,No,No,No,No,No,No,Yes,Fine Arts
+a,b,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Applied Health Sciences
+c,b,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Commerce
+d,d,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Fine Arts
+a,c,Yes,No,Yes,No,No,No,No,No,No,Yes,Media
+a,c,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Engineering
+d,a,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Applied Sciences for Space and Navigation
+d,c,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Law
+a,d,No,No,Yes,No,Yes,Yes,No,Yes,No,No,Engineering
+c,c,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Commerce
+d,d,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Fine Arts
+c,b,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Applied Health Sciences
+d,b,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Science
+d,b,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Applied Health Sciences
+a,c,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Law
+b,b,Yes,No,Yes,No,No,Yes,No,No,No,No,Media
+b,c,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Media
+b,c,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Computer Science
+c,d,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Media
+d,b,No,No,Yes,No,No,Yes,No,No,Yes,No,Media
+d,b,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Applied Health Sciences
+d,a,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Fine Arts
+d,c,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Fine Arts
+d,a,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Fine Arts
+d,a,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Fine Arts
+d,d,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Fine Arts
+a,c,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Engineering
+b,b,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Applied Health Sciences
+d,c,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Media
+a,b,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Engineering
+b,d,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+c,a,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Commerce
+b,b,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Applied Health Sciences
+c,c,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Science
+b,c,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Computer Science
+b,a,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Fine Arts
+c,a,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Commerce
+d,b,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Applied Health Sciences
+a,a,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Engineering
+d,a,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Fine Arts
+a,a,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Applied Sciences for Space and Navigation
+b,a,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Computer Science
+d,d,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Media
+a,d,No,Yes,No,No,No,No,Yes,No,No,No,Fine Arts
+d,c,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Fine Arts
+a,c,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Engineering
+a,b,No,No,Yes,No,Yes,No,Yes,No,Yes,No,Applied Health Sciences
+b,a,No,No,Yes,No,No,No,No,No,No,Yes,Computer Science
+d,a,No,No,No,Yes,No,No,Yes,No,No,No,Law
+d,a,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Fine Arts
+d,a,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+c,c,Yes,No,No,No,Yes,No,Yes,No,No,No,Media
+b,a,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Fine Arts
+a,d,No,No,No,Yes,Yes,No,No,No,Yes,No,Law
+b,c,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Fine Arts
+a,d,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Commerce
+b,c,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Computer Science
+d,d,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Fine Arts
+c,c,No,No,Yes,No,Yes,No,No,No,Yes,Yes,Commerce
+b,c,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Computer Science
+d,a,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Media
+a,c,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Media
+d,d,Yes,No,No,No,No,Yes,Yes,No,No,No,Media
+c,c,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Commerce
+c,b,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Commerce
+a,c,No,No,Yes,No,No,No,Yes,No,No,Yes,Media
+d,d,No,No,No,Yes,Yes,No,Yes,No,No,Yes,Law
+b,b,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Computer Science
+b,b,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Applied Health Sciences
+d,a,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Fine Arts
+b,c,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Media
+b,d,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Computer Science
+d,a,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Applied Sciences for Space and Navigation
+d,b,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Fine Arts
+b,d,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Computer Science
+d,d,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Media
+a,a,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Law
+d,b,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Fine Arts
+a,c,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Commerce
+d,c,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Fine Arts
+d,d,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Fine Arts
+b,b,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Computer Science
+d,c,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Fine Arts
+d,b,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,Media
+c,a,No,No,No,No,No,Yes,No,Yes,No,No,Applied Sciences for Space and Navigation
+b,d,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Media
+d,a,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Applied Sciences for Space and Navigation
+d,d,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Media
+b,b,No,Yes,No,Yes,No,No,No,Yes,Yes,No,Law
+c,b,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Commerce
+c,b,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Commerce
+c,a,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Commerce
+d,c,Yes,Yes,No,No,No,Yes,No,No,No,No,Fine Arts
+b,b,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Computer Science
+c,a,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Applied Sciences for Space and Navigation
+a,d,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Engineering
+b,a,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Media
+c,b,No,Yes,No,No,No,No,No,No,No,Yes,Commerce
+c,a,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+a,b,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Engineering
+b,b,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Media
+d,a,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Fine Arts
+d,d,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Fine Arts
+d,b,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Fine Arts
+d,a,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Applied Sciences for Space and Navigation
+d,c,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+a,b,No,No,No,No,No,Yes,No,Yes,No,No,Engineering
+c,c,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Media
+b,b,No,No,Yes,No,Yes,No,Yes,No,No,No,Applied Health Sciences
+a,b,Yes,No,No,No,Yes,No,No,Yes,No,No,Engineering
+c,d,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Media
+c,c,No,Yes,No,Yes,No,No,No,No,No,Yes,Law
+d,c,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Fine Arts
+d,a,No,No,Yes,No,Yes,No,No,Yes,No,Yes,Media
+b,d,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Computer Science
+b,c,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Law
+a,b,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Engineering
+d,a,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Fine Arts
+a,b,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Engineering
+d,b,Yes,Yes,No,No,No,Yes,No,No,No,No,Fine Arts
+b,b,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Media
+b,d,No,No,Yes,No,No,Yes,No,No,No,Yes,Computer Science
+d,b,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Fine Arts
+c,d,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+d,c,No,No,No,Yes,Yes,Yes,No,No,No,Yes,Law
+a,d,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Law
+b,d,No,No,Yes,Yes,No,No,No,Yes,No,No,Media
+a,a,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Applied Sciences for Space and Navigation
+c,c,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Media
+a,b,Yes,No,No,Yes,No,No,No,No,No,No,Law
+c,c,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Law
+a,a,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Media
+c,d,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Commerce
+a,c,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Engineering
+c,c,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Fine Arts
+b,d,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Computer Science
+b,a,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Applied Sciences for Space and Navigation
+d,c,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Fine Arts
+c,d,No,Yes,No,No,Yes,Yes,Yes,No,No,No,Media
+a,c,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Media
+c,d,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Commerce
+a,c,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Fine Arts
+c,b,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Media
+a,c,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Engineering
+a,a,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Engineering
+b,a,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Computer Science
+b,d,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Computer Science
+d,a,Yes,Yes,No,Yes,No,No,No,No,No,No,Fine Arts
+b,b,No,Yes,No,No,No,No,No,Yes,Yes,No,Science
+c,a,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Commerce
+a,d,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Engineering
+c,a,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Media
+c,d,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Commerce
+a,b,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Applied Health Sciences
+a,b,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Applied Health Sciences
+b,d,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Law
+a,b,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Engineering
+b,d,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Computer Science
+c,c,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Commerce
+d,d,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Media
+b,a,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Applied Sciences for Space and Navigation
+c,a,No,Yes,No,No,No,No,Yes,No,No,Yes,Fine Arts
+d,a,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Fine Arts
+b,b,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Law
+c,d,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Media
+b,d,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Media
+c,a,Yes,No,No,No,Yes,No,No,No,No,No,Media
+a,a,No,No,No,No,No,No,Yes,No,Yes,No,Commerce
+a,a,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Media
+a,b,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Applied Health Sciences
+a,a,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Applied Sciences for Space and Navigation
+a,b,Yes,No,Yes,No,No,No,No,No,Yes,No,Media
+b,a,No,Yes,Yes,No,No,Yes,No,Yes,No,No,Applied Sciences for Space and Navigation
+a,d,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Engineering
+a,b,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Applied Health Sciences
+b,c,No,No,No,Yes,No,No,No,No,No,No,Law
+b,b,No,No,Yes,No,No,No,No,No,Yes,No,Media
+d,b,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Law
+a,d,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Media
+a,b,No,No,No,Yes,No,Yes,No,No,No,No,Law
+c,a,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Media
+a,c,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Engineering
+a,d,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Media
+c,b,No,Yes,No,No,No,No,Yes,No,Yes,No,Commerce
+b,b,No,No,Yes,Yes,No,Yes,No,No,No,Yes,Computer Science
+c,b,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Commerce
+a,c,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Engineering
+d,d,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Fine Arts
+c,d,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Law
+c,d,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Commerce
+b,c,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Media
+c,a,Yes,No,No,Yes,No,No,No,No,No,Yes,Law
+d,d,No,No,Yes,No,Yes,No,Yes,No,No,Yes,Media
+c,b,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Commerce
+b,d,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Media
+a,c,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Engineering
+c,d,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Commerce
+b,b,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Computer Science
+d,a,No,No,No,No,No,No,No,No,No,No,Media
+d,a,No,No,No,No,No,Yes,Yes,Yes,No,No,Applied Sciences for Space and Navigation
+a,b,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Engineering
+a,c,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Media
+b,b,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Computer Science
+c,c,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Commerce
+d,b,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Applied Health Sciences
+c,a,Yes,No,No,No,No,No,No,No,Yes,No,Commerce
+c,d,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Commerce
+b,d,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Computer Science
+c,c,No,Yes,No,No,Yes,Yes,No,No,No,No,Fine Arts
+c,c,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Commerce
+c,b,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Commerce
+d,d,No,No,No,Yes,No,Yes,No,No,Yes,No,Law
+c,c,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Commerce
+a,a,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Engineering
+b,a,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Computer Science
+d,c,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Fine Arts
+a,b,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Engineering
+a,a,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Media
+d,b,No,Yes,No,No,No,No,No,No,No,Yes,Fine Arts
+a,d,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Engineering
+c,d,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Media
+c,d,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Commerce
+a,d,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Media
+b,a,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Computer Science
+d,a,No,No,Yes,No,Yes,No,Yes,No,No,Yes,Media
+b,c,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Computer Science
+d,a,Yes,No,No,No,No,No,No,No,No,No,Fine Arts
+a,c,No,No,No,Yes,No,Yes,No,No,No,No,Law
+d,c,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Fine Arts
+c,d,No,Yes,No,No,No,No,Yes,No,No,Yes,Science
+c,d,No,Yes,No,Yes,No,Yes,No,No,No,No,Law
+d,d,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Fine Arts
+d,d,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Media
+c,c,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Commerce
+a,a,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Engineering
+d,d,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Fine Arts
+d,a,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Fine Arts
+b,d,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Law
+d,b,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Fine Arts
+c,d,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Commerce
+d,a,No,No,Yes,Yes,No,No,No,No,No,Yes,Media
+a,d,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Engineering
+c,a,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Applied Sciences for Space and Navigation
+a,a,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Engineering
+b,a,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Computer Science
+b,d,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Media
+c,a,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Media
+c,d,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Commerce
+b,a,Yes,No,No,No,Yes,No,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,a,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Computer Science
+d,a,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Fine Arts
+b,c,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Computer Science
+a,a,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Fine Arts
+a,d,Yes,No,No,No,Yes,No,No,Yes,No,No,Engineering
+a,c,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Media
+b,d,No,No,No,No,Yes,No,Yes,Yes,No,No,Commerce
+d,d,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Fine Arts
+c,a,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Applied Sciences for Space and Navigation
+d,d,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Fine Arts
+b,a,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Computer Science
+d,a,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Media
+a,a,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Engineering
+a,a,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Engineering
+d,c,No,Yes,No,No,Yes,No,No,Yes,No,No,Fine Arts
+d,a,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Fine Arts
+b,b,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Media
+c,b,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Commerce
+b,a,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Computer Science
+a,b,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Law
+b,c,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Computer Science
+a,c,No,No,No,Yes,No,No,No,Yes,Yes,No,Engineering
+a,a,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Applied Sciences for Space and Navigation
+b,d,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Law
+b,d,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Media
+b,a,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Applied Sciences for Space and Navigation
+a,c,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Engineering
+d,c,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Media
+d,a,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Fine Arts
+a,d,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Engineering
+c,b,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Commerce
+d,d,No,No,No,No,No,Yes,No,Yes,No,Yes,Media
+c,c,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+a,a,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Engineering
+b,d,Yes,No,No,No,No,No,Yes,No,No,No,Fine Arts
+a,c,No,Yes,No,No,No,No,No,No,No,No,Science
+b,b,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Computer Science
+a,d,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Engineering
+d,d,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Fine Arts
+d,b,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Fine Arts
+d,a,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Fine Arts
+d,d,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Fine Arts
+d,c,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Fine Arts
+a,a,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Applied Sciences for Space and Navigation
+d,a,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Applied Sciences for Space and Navigation
+c,d,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Law
+a,b,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Engineering
+b,a,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Computer Science
+d,d,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Fine Arts
+d,a,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Applied Sciences for Space and Navigation
+d,c,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Media
+b,d,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Computer Science
+c,d,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Media
+b,a,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Computer Science
+c,a,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Commerce
+c,b,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Commerce
+b,a,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Computer Science
+c,a,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Media
+d,d,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Media
+b,b,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Law
+d,a,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Fine Arts
+c,b,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Commerce
+b,d,No,No,No,No,Yes,No,No,No,Yes,Yes,Computer Science
+b,d,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Computer Science
+b,d,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Computer Science
+b,d,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Media
+a,c,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Engineering
+c,c,No,No,No,No,Yes,No,No,No,No,Yes,Fine Arts
+c,a,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Commerce
+b,d,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Computer Science
+c,b,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,Applied Health Sciences
+a,c,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Engineering
+b,b,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Computer Science
+d,c,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Fine Arts
+c,a,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Commerce
+c,b,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Commerce
+b,d,No,No,No,Yes,No,No,Yes,No,Yes,No,Law
+b,d,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Computer Science
+b,a,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Computer Science
+d,a,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Law
+b,b,No,Yes,No,No,Yes,No,No,No,No,No,Applied Health Sciences
+c,c,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Commerce
+c,d,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Commerce
+d,b,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Fine Arts
+c,b,No,No,No,Yes,Yes,No,No,No,No,Yes,Applied Health Sciences
+b,d,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Computer Science
+c,d,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Commerce
+d,c,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Fine Arts
+c,c,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Media
+c,c,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Commerce
+a,c,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Law
+b,d,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Computer Science
+b,d,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Media
+c,d,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Law
+d,d,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Fine Arts
+a,d,No,No,Yes,Yes,Yes,No,No,No,No,No,Media
+a,a,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Engineering
+c,a,Yes,No,No,Yes,No,No,Yes,No,No,No,Law
+a,d,No,Yes,No,No,No,No,Yes,No,No,No,Commerce
+c,a,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Commerce
+c,a,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Commerce
+b,a,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Computer Science
+d,a,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Applied Sciences for Space and Navigation
+a,c,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+a,b,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Media
+c,a,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Commerce
+b,d,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Computer Science
+b,c,No,No,No,Yes,No,No,Yes,Yes,No,No,Law
+b,c,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Science
+b,d,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Media
+d,c,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Fine Arts
+b,d,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Computer Science
+b,b,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Applied Health Sciences
+a,d,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Media
+b,a,No,No,No,Yes,No,Yes,No,No,No,Yes,Computer Science
+d,d,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Media
+c,b,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Applied Health Sciences
+d,d,No,No,No,No,No,Yes,Yes,No,Yes,No,Commerce
+d,a,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Applied Sciences for Space and Navigation
+c,b,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Applied Health Sciences
+b,c,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Media
+b,b,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Applied Health Sciences
+b,c,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Computer Science
+b,a,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Computer Science
+c,d,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Media
+d,a,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Applied Sciences for Space and Navigation
+b,c,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Computer Science
+a,c,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Media
+c,d,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Science
+a,a,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Applied Sciences for Space and Navigation
+b,d,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Computer Science
+b,d,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Computer Science
+b,b,No,No,Yes,No,No,Yes,No,No,Yes,No,Media
+b,d,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Media
+c,a,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Commerce
+a,c,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Engineering
+a,a,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Engineering
+b,a,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Applied Sciences for Space and Navigation
+a,a,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Engineering
+a,d,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Engineering
+a,b,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Media
+d,d,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Fine Arts
+d,c,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Fine Arts
+c,b,No,No,No,No,Yes,Yes,No,No,No,Yes,Applied Health Sciences
+d,b,No,No,No,No,Yes,No,Yes,No,No,No,Applied Health Sciences
+b,b,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Computer Science
+c,d,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Commerce
+a,d,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Media
+a,b,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Applied Health Sciences
+d,c,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Law
+c,a,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Applied Sciences for Space and Navigation
+a,a,No,Yes,No,No,Yes,No,No,No,Yes,No,Commerce
+c,b,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Commerce
+b,d,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Computer Science
+c,b,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+c,b,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Applied Health Sciences
+b,b,No,No,Yes,Yes,No,No,No,Yes,No,No,Media
+a,b,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Applied Health Sciences
+b,b,No,No,Yes,No,Yes,No,No,Yes,No,No,Applied Health Sciences
+a,d,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Engineering
+d,c,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Fine Arts
+a,d,No,No,No,No,Yes,No,Yes,No,No,Yes,Media
+d,a,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Applied Sciences for Space and Navigation
+b,b,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Law
+c,d,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Commerce
+c,b,No,No,No,Yes,Yes,Yes,No,No,No,Yes,Applied Health Sciences
+c,a,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Commerce
+a,c,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Media
+b,b,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Media
+c,d,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Commerce
+d,b,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Applied Health Sciences
+b,a,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Computer Science
+d,c,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Fine Arts
+c,b,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Fine Arts
+b,d,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Computer Science
+a,c,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Engineering
+b,a,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Computer Science
+c,b,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Commerce
+c,a,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Commerce
+b,c,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Computer Science
+c,a,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Media
+d,b,No,No,No,No,No,Yes,No,No,Yes,Yes,Media
+d,b,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Fine Arts
+b,a,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Computer Science
+b,b,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Computer Science
+c,a,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Applied Sciences for Space and Navigation
+d,d,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Fine Arts
+a,b,No,No,Yes,No,Yes,No,No,Yes,No,Yes,Engineering
+c,a,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Commerce
+c,c,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Media
+b,d,No,No,No,Yes,No,Yes,No,No,No,No,Law
+a,d,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,Media
+b,d,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Computer Science
+a,a,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Engineering
+d,a,Yes,No,No,No,No,No,No,Yes,No,Yes,Science
+a,a,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,Fine Arts
+d,d,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Fine Arts
+b,a,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Applied Sciences for Space and Navigation
+d,a,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Fine Arts
+d,a,No,No,No,Yes,Yes,No,No,No,No,No,Law
+d,b,No,No,No,Yes,No,No,No,No,No,Yes,Law
+b,c,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Computer Science
+c,c,No,No,No,Yes,No,Yes,No,No,No,Yes,Law
+d,d,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Fine Arts
+c,a,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,Commerce
+a,c,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Engineering
+a,a,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+b,d,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Computer Science
+c,c,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Commerce
+d,b,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Fine Arts
+a,d,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Media
+b,b,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Computer Science
+d,d,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Media
+a,c,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Engineering
+c,a,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Commerce
+d,c,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Law
+a,b,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Engineering
+d,c,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Fine Arts
+a,a,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Engineering
+c,d,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Media
+b,b,No,No,No,Yes,Yes,Yes,No,No,No,No,Applied Health Sciences
+b,c,No,No,No,Yes,No,No,No,No,No,No,Law
+b,c,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Computer Science
+a,a,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Engineering
+d,b,No,No,Yes,No,No,No,No,No,Yes,No,Media
+c,b,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Commerce
+b,d,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Media
+d,b,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Fine Arts
+d,a,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Fine Arts
+c,c,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Commerce
+b,a,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Commerce
+c,b,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Law
+c,c,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Commerce
+d,d,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Fine Arts
+a,a,No,No,No,Yes,No,Yes,No,Yes,No,No,Engineering
+d,b,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Applied Health Sciences
+c,d,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Law
+c,c,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Media
+d,c,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,Law
+a,d,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Media
+b,b,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Applied Health Sciences
+d,d,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+a,b,No,Yes,No,Yes,No,No,No,Yes,No,No,Engineering
+a,b,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Engineering
+d,d,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Fine Arts
+d,b,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Applied Health Sciences
+c,c,Yes,No,No,No,No,No,No,No,Yes,Yes,Commerce
+a,d,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Media
+c,c,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Media
+a,d,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Law
+c,a,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Commerce
+d,c,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,Law
+c,a,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+b,b,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Computer Science
+d,c,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Media
+c,a,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+b,c,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,Law
+a,a,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Engineering
+d,b,No,No,No,No,No,Yes,Yes,No,Yes,No,Media
+b,b,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Computer Science
+c,a,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Commerce
+b,c,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Law
+d,c,No,No,No,No,Yes,No,No,No,No,Yes,Science
+d,c,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Fine Arts
+c,b,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Media
+a,a,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Applied Sciences for Space and Navigation
+a,b,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Applied Health Sciences
+b,b,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+d,b,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Applied Health Sciences
+b,b,No,Yes,No,No,No,Yes,No,No,No,No,Commerce
+c,a,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Media
+a,a,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Applied Sciences for Space and Navigation
+b,a,No,No,No,No,Yes,Yes,No,No,No,Yes,Computer Science
+b,b,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Applied Health Sciences
+a,d,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Engineering
+c,a,No,No,Yes,No,No,Yes,No,Yes,No,No,Applied Sciences for Space and Navigation
+a,c,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Engineering
+c,c,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Media
+c,b,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Commerce
+a,a,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Engineering
+c,a,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Commerce
+c,c,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Commerce
+b,b,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Computer Science
+b,b,No,Yes,No,No,No,No,No,No,No,Yes,Computer Science
+d,a,No,No,No,Yes,Yes,No,No,No,Yes,No,Law
+c,d,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Law
+b,c,Yes,No,No,No,Yes,Yes,No,Yes,No,No,Science
+a,a,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Engineering
+a,a,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Media
+b,d,No,Yes,No,No,No,No,No,No,No,Yes,Computer Science
+a,d,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Media
+c,a,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Commerce
+a,b,No,No,No,No,No,Yes,No,Yes,No,Yes,Engineering
+c,d,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Commerce
+d,a,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Fine Arts
+a,b,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Law
+a,a,Yes,No,No,No,No,No,Yes,No,No,Yes,Fine Arts
+a,c,No,No,No,No,No,No,No,No,No,Yes,Commerce
+a,b,No,No,No,Yes,No,No,Yes,No,No,Yes,Law
+d,b,No,Yes,No,No,No,Yes,No,Yes,No,No,Fine Arts
+a,a,No,Yes,No,Yes,No,No,No,No,No,Yes,Law
+c,a,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Commerce
+a,c,No,Yes,No,Yes,No,Yes,No,No,No,Yes,Law
+b,a,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Media
+a,b,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Engineering
+c,c,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Commerce
+b,c,Yes,Yes,No,No,No,No,Yes,No,No,No,Fine Arts
+a,c,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Engineering
+c,a,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Commerce
+d,a,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Fine Arts
+b,c,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Law
+a,c,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Media
+d,d,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Media
+a,d,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Media
+b,b,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Computer Science
+b,c,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,Computer Science
+c,c,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Commerce
+c,d,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Commerce
+a,d,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Engineering
+a,d,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Media
+c,d,No,Yes,No,No,No,No,No,No,Yes,Yes,Commerce
+a,d,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Engineering
+d,d,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Fine Arts
+d,a,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Applied Sciences for Space and Navigation
+c,b,No,No,No,No,No,No,Yes,Yes,No,Yes,Commerce
+a,c,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Media
+d,d,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Media
+c,c,Yes,No,No,No,Yes,Yes,No,Yes,No,No,Media
+d,b,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Fine Arts
+d,d,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Fine Arts
+a,c,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Engineering
+a,b,No,No,Yes,No,No,No,Yes,No,No,Yes,Media
+b,a,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Law
+b,d,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Media
+c,b,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Commerce
+c,a,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Applied Sciences for Space and Navigation
+d,c,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Fine Arts
+c,c,Yes,No,No,No,No,No,No,No,Yes,Yes,Commerce
+d,a,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Commerce
+c,d,No,Yes,No,No,No,Yes,No,No,Yes,No,Commerce
+b,d,No,No,No,No,No,Yes,No,No,No,No,Commerce
+b,d,No,No,Yes,Yes,No,No,No,No,No,Yes,Computer Science
+d,c,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Fine Arts
+b,c,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Media
+a,a,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Engineering
+c,b,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Applied Health Sciences
+b,c,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Media
+d,a,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Fine Arts
+a,c,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Engineering
+b,b,No,Yes,No,No,No,No,No,Yes,Yes,No,Science
+a,d,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Engineering
+c,a,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Commerce
+a,d,Yes,No,No,No,No,No,No,Yes,Yes,No,Engineering
+d,d,No,No,No,No,Yes,No,No,Yes,No,Yes,Media
+c,d,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Commerce
+c,c,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Science
+b,b,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Applied Health Sciences
+c,c,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Commerce
+c,a,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Commerce
+b,c,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Computer Science
+a,a,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Engineering
+c,d,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,Law
+a,b,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Engineering
+d,c,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Media
+b,b,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Computer Science
+a,c,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Media
+b,d,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Computer Science
+b,a,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Applied Sciences for Space and Navigation
+b,d,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Computer Science
+d,c,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Fine Arts
+b,c,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Science
+b,d,Yes,Yes,No,Yes,No,No,No,No,No,No,Law
+c,a,No,No,Yes,No,No,Yes,Yes,No,No,No,Applied Sciences for Space and Navigation
+c,b,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+c,b,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+c,d,No,No,Yes,No,No,Yes,No,Yes,No,Yes,Media
+c,b,No,No,Yes,No,No,No,Yes,Yes,No,No,Media
+d,b,Yes,No,No,No,No,No,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+c,c,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Commerce
+b,c,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Computer Science
+d,d,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Fine Arts
+d,d,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Fine Arts
+c,b,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Applied Health Sciences
+c,b,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Media
+c,c,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Law
+c,d,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Commerce
+d,d,Yes,No,No,No,No,No,No,No,Yes,No,Higher Institute of Administrative Sciences
+c,b,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Commerce
+a,c,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Law
+a,a,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Engineering
+d,b,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Fine Arts
+b,a,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Computer Science
+b,c,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Computer Science
+c,c,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Commerce
+a,c,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Engineering
+d,a,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Media
+b,a,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Computer Science
+b,b,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Media
+b,b,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Applied Health Sciences
+a,a,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Engineering
+a,b,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Engineering
+b,b,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Media
+a,b,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Engineering
+d,c,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Fine Arts
+c,d,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Commerce
+c,a,Yes,No,No,No,Yes,No,Yes,No,No,No,Fine Arts
+d,d,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Media
+d,a,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Media
+c,b,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Commerce
+c,c,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Media
+c,a,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Commerce
+c,c,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Media
+b,c,No,No,No,Yes,Yes,No,Yes,No,No,No,Law
+a,a,No,No,Yes,No,No,Yes,No,No,Yes,Yes,Applied Sciences for Space and Navigation
+c,b,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Commerce
+d,d,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Fine Arts
+c,b,Yes,No,No,No,Yes,Yes,No,No,No,No,Applied Health Sciences
+d,a,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Applied Sciences for Space and Navigation
+c,b,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Commerce
+d,b,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Media
+d,b,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Media
+d,c,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Media
+a,b,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Engineering
+b,c,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Media
+d,d,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Fine Arts
+a,d,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Media
+a,c,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Law
+b,a,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Computer Science
+b,a,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Computer Science
+c,a,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Media
+a,d,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Media
+a,c,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Media
+c,c,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Law
+a,c,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Engineering
+b,a,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Computer Science
+c,c,No,Yes,No,No,No,No,Yes,Yes,No,No,Media
+c,c,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Commerce
+c,a,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Commerce
+d,a,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Fine Arts
+c,c,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Media
+c,d,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Media
+a,b,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Applied Health Sciences
+d,a,Yes,No,No,No,Yes,No,No,No,Yes,No,Higher Institute of Administrative Sciences
+a,b,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Engineering
+c,d,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Science
+b,b,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+c,a,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Commerce
+b,b,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Media
+b,a,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Computer Science
+c,a,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Applied Sciences for Space and Navigation
+b,d,No,No,Yes,Yes,No,Yes,No,No,No,No,Media
+a,d,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Engineering
+b,d,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Computer Science
+a,c,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Law
+d,b,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Fine Arts
+d,d,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Fine Arts
+c,d,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Commerce
+d,c,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Fine Arts
+a,a,Yes,No,No,No,No,No,No,Yes,No,Yes,Engineering
+c,d,No,Yes,Yes,No,No,No,Yes,No,No,Yes,Media
+c,d,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Commerce
+c,c,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Media
+d,a,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Fine Arts
+a,a,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Engineering
+d,d,Yes,No,No,No,No,Yes,No,No,Yes,No,Higher Institute of Administrative Sciences
+b,d,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Computer Science
+a,d,No,Yes,No,Yes,No,No,No,Yes,Yes,No,Engineering
+c,c,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Commerce
+b,d,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Science
+c,a,No,No,No,No,No,Yes,No,Yes,No,Yes,Applied Sciences for Space and Navigation
+c,d,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Commerce
+d,b,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Fine Arts
+a,b,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Applied Health Sciences
+d,a,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Media
+c,d,No,Yes,No,No,Yes,No,No,No,No,Yes,Media
+d,d,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Law
+c,c,No,No,Yes,No,No,Yes,No,Yes,No,Yes,Media
+d,b,No,No,Yes,No,No,No,No,Yes,No,Yes,Media
+b,d,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Computer Science
+c,a,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Commerce
+c,a,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Commerce
+a,d,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Engineering
+a,c,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Engineering
+d,a,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Fine Arts
+d,b,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Fine Arts
+d,b,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Applied Health Sciences
+c,c,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Media
+b,c,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Computer Science
+c,d,No,No,No,No,Yes,No,No,Yes,No,Yes,Commerce
+d,d,No,Yes,No,Yes,No,No,No,Yes,No,No,Fine Arts
+d,d,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Fine Arts
+b,d,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Media
+d,a,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Law
+d,c,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Fine Arts
+d,a,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Fine Arts
+c,b,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Applied Health Sciences
+b,a,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Applied Sciences for Space and Navigation
+c,d,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Media
+b,b,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Computer Science
+a,c,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Engineering
+c,c,No,No,Yes,Yes,No,No,No,No,Yes,No,Commerce
+d,c,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Law
+b,a,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Computer Science
+c,d,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Commerce
+a,a,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Engineering
+c,c,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Commerce
+c,d,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Commerce
+c,d,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Commerce
+c,d,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Commerce
+d,b,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Fine Arts
+a,b,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Media
+a,c,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Engineering
+d,b,No,No,No,Yes,No,No,Yes,No,No,No,Law
+d,a,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Fine Arts
+b,c,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+d,b,No,Yes,No,No,Yes,No,No,No,No,Yes,Fine Arts
+a,d,No,No,No,Yes,No,No,No,No,No,Yes,Law
+d,a,No,No,No,No,No,No,No,Yes,No,No,Fine Arts
+a,c,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Engineering
+b,a,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Applied Sciences for Space and Navigation
+d,b,Yes,No,No,No,No,No,No,No,No,Yes,Media
+d,a,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Applied Sciences for Space and Navigation
+b,c,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Computer Science
+b,d,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Computer Science
+d,c,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Media
+d,d,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Media
+b,a,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Computer Science
+b,a,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Applied Sciences for Space and Navigation
+d,a,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Fine Arts
+c,b,Yes,No,No,No,No,No,Yes,No,No,No,Science
+a,c,No,No,Yes,Yes,No,No,Yes,No,No,No,Media
+c,a,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,Applied Sciences for Space and Navigation
+a,c,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Engineering
+d,c,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Media
+d,d,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Media
+a,a,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Engineering
+c,a,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Law
+d,c,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Fine Arts
+b,d,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Media
+c,d,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Law
+d,b,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Applied Health Sciences
+c,d,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Commerce
+c,b,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Applied Health Sciences
+a,c,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Commerce
+b,d,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Computer Science
+c,c,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Commerce
+c,d,No,No,No,No,Yes,No,Yes,No,No,Yes,Media
+b,b,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Law
+b,c,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Computer Science
+c,d,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Commerce
+a,c,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Engineering
+d,b,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Fine Arts
+d,a,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+a,b,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Law
+a,a,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Engineering
+a,c,No,Yes,No,No,No,No,Yes,No,Yes,No,Commerce
+c,c,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Commerce
+c,b,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+a,c,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Engineering
+b,a,No,No,No,No,Yes,No,No,No,Yes,Yes,Computer Science
+d,d,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Fine Arts
+c,d,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Commerce
+b,b,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Applied Health Sciences
+d,d,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Media
+c,a,Yes,No,Yes,No,No,No,No,No,No,Yes,Media
+d,c,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Fine Arts
+b,d,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Media
+b,d,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Law
+a,b,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Engineering
+c,b,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Media
+b,c,No,Yes,No,No,No,No,No,Yes,No,No,Fine Arts
+d,a,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Fine Arts
+a,a,No,No,No,Yes,Yes,No,No,No,No,No,Law
+c,b,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Commerce
+a,d,No,Yes,Yes,No,No,No,No,Yes,No,No,Engineering
+c,c,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Law
+c,d,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Commerce
+c,b,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Commerce
+d,b,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Applied Health Sciences
+c,c,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Law
+d,a,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Applied Sciences for Space and Navigation
+c,a,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Commerce
+a,c,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Engineering
+c,d,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Media
+d,c,No,No,No,No,No,Yes,No,Yes,No,No,Commerce
+a,a,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Engineering
+b,a,No,No,Yes,No,Yes,No,No,Yes,No,Yes,Computer Science
+c,d,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Media
+b,c,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Media
+a,b,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Engineering
+c,d,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Commerce
+a,c,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Engineering
+b,c,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Media
+a,d,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Media
+a,a,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Engineering
+a,c,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Law
+b,d,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Law
+c,d,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Law
+b,c,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Computer Science
+a,c,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Engineering
+c,d,Yes,Yes,No,No,No,No,No,No,No,No,Media
+b,d,No,Yes,No,No,No,No,No,No,Yes,Yes,Computer Science
+b,a,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Media
+b,c,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Media
+d,b,Yes,Yes,No,No,No,No,Yes,No,No,No,Fine Arts
+c,c,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Commerce
+c,a,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Law
+b,c,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Computer Science
+c,a,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Commerce
+d,a,No,No,No,Yes,No,No,No,No,No,No,Law
+b,a,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Computer Science
+d,c,Yes,No,No,Yes,No,Yes,No,No,No,Yes,Law
+d,d,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Media
+b,d,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Media
+c,a,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Applied Sciences for Space and Navigation
+d,d,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Fine Arts
+b,a,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Computer Science
+a,d,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Engineering
+b,b,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Computer Science
+d,c,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Fine Arts
+c,a,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Commerce
+a,c,No,No,Yes,No,No,No,No,No,Yes,No,Media
+c,b,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Commerce
+a,b,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Applied Health Sciences
+b,b,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Computer Science
+a,d,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Engineering
+a,d,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Engineering
+d,d,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Fine Arts
+d,b,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Fine Arts
+a,c,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Media
+a,d,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Engineering
+c,c,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Science
+a,c,No,Yes,No,No,Yes,No,No,Yes,No,No,Engineering
+c,c,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Commerce
+b,b,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Applied Health Sciences
+b,c,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Computer Science
+a,b,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Engineering
+c,c,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Media
+c,a,No,Yes,Yes,No,No,No,No,Yes,No,No,Media
+d,a,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Fine Arts
+c,a,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Commerce
+d,a,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Applied Sciences for Space and Navigation
+c,c,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Fine Arts
+b,d,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Computer Science
+d,b,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Fine Arts
+b,d,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+d,b,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Fine Arts
+d,c,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Media
+a,b,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Law
+b,c,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+d,a,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Media
+c,b,No,No,Yes,No,Yes,No,Yes,No,No,Yes,Applied Health Sciences
+d,b,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Applied Health Sciences
+d,c,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Fine Arts
+a,a,No,Yes,No,Yes,No,No,Yes,No,No,Yes,Law
+a,b,No,No,Yes,Yes,No,No,No,No,No,No,Media
+b,c,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+b,d,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Media
+b,b,No,No,No,No,No,Yes,No,Yes,No,Yes,Computer Science
+d,d,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Media
+c,c,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Law
+b,c,Yes,No,No,No,Yes,No,Yes,No,No,No,Commerce
+a,d,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Media
+a,a,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Engineering
+d,b,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Fine Arts
+c,b,No,No,No,No,Yes,No,No,No,Yes,No,Commerce
+d,a,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Applied Sciences for Space and Navigation
+d,b,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Fine Arts
+c,a,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Commerce
+a,d,No,Yes,No,No,Yes,Yes,Yes,No,No,No,Fine Arts
+b,b,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Computer Science
+d,c,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Fine Arts
+a,b,No,No,Yes,Yes,No,No,No,No,Yes,No,Media
+d,a,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Applied Sciences for Space and Navigation
+d,a,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Applied Sciences for Space and Navigation
+d,a,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Fine Arts
+d,b,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Law
+d,b,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Fine Arts
+b,d,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Media
+c,c,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Media
+b,c,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Media
+d,d,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Fine Arts
+a,b,No,No,Yes,Yes,No,Yes,No,No,No,No,Media
+d,b,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Fine Arts
+c,a,No,No,No,No,No,Yes,Yes,No,No,No,Applied Sciences for Space and Navigation
+a,c,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Engineering
+a,b,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Engineering
+b,c,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Media
+b,c,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Media
+a,b,No,No,No,No,No,No,Yes,No,No,No,Commerce
+d,b,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Applied Health Sciences
+b,c,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Computer Science
+b,d,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Media
+d,c,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Fine Arts
+d,c,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+a,b,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Engineering
+d,c,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Fine Arts
+c,c,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Media
+c,a,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Commerce
+d,b,No,No,No,No,Yes,No,No,No,No,No,Applied Health Sciences
+b,d,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Higher Institute of Administrative Sciences
+b,b,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Computer Science
+c,b,No,No,No,No,Yes,Yes,No,No,No,Yes,Applied Health Sciences
+a,b,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Engineering
+d,a,No,Yes,Yes,No,No,Yes,No,Yes,No,No,Fine Arts
+a,b,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Engineering
+d,b,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Fine Arts
+b,a,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Applied Sciences for Space and Navigation
+c,a,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+c,b,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Media
+c,b,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Media
+c,c,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Science
+d,b,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Fine Arts
+d,a,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Applied Sciences for Space and Navigation
+d,c,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Media
+d,c,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Fine Arts
+b,c,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Media
+d,d,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Fine Arts
+b,c,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Computer Science
+d,c,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Fine Arts
+c,b,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Law
+b,b,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Computer Science
+a,a,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Engineering
+c,b,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Applied Health Sciences
+d,d,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Fine Arts
+c,a,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Commerce
+c,b,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Applied Health Sciences
+a,a,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Engineering
+a,d,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Engineering
+a,a,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Applied Sciences for Space and Navigation
+b,b,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Computer Science
+d,d,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Fine Arts
+c,a,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Applied Sciences for Space and Navigation
+a,a,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Engineering
+d,c,Yes,No,No,Yes,No,No,No,No,No,No,Law
+b,d,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Computer Science
+a,a,No,No,No,Yes,No,Yes,No,Yes,No,No,Engineering
+c,c,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Commerce
+b,d,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Computer Science
+d,a,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Fine Arts
+a,b,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Media
+c,d,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Commerce
+a,d,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Engineering
+b,a,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Computer Science
+b,a,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Computer Science
+d,a,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Fine Arts
+c,a,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Commerce
+c,d,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Commerce
+c,a,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Law
+d,b,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Fine Arts
+d,d,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Fine Arts
+b,d,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Law
+b,c,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Computer Science
+c,d,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Media
+b,a,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Law
+c,d,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Media
+d,c,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Fine Arts
+c,a,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Commerce
+a,c,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Media
+d,c,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,Law
+b,b,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Computer Science
+b,a,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Computer Science
+c,a,No,No,Yes,No,Yes,Yes,No,Yes,No,No,Applied Sciences for Space and Navigation
+b,a,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Computer Science
+c,b,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+d,c,No,Yes,No,Yes,No,Yes,No,No,No,Yes,Fine Arts
+a,c,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Engineering
+d,d,No,No,No,No,Yes,No,No,Yes,No,Yes,Media
+d,c,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Fine Arts
+d,d,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Fine Arts
+b,c,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Computer Science
+b,c,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Computer Science
+c,c,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,Commerce
+a,d,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Media
+c,b,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,Media
+b,c,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Commerce
+b,d,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,Law
+a,d,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Media
+c,d,Yes,No,No,No,No,No,No,No,Yes,Yes,Commerce
+c,b,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Commerce
+a,b,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Law
+c,b,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Applied Health Sciences
+c,c,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Commerce
+a,a,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Applied Sciences for Space and Navigation
+c,d,No,Yes,No,Yes,No,No,No,No,Yes,No,Commerce
+d,d,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Fine Arts
+d,c,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Law
+d,a,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Applied Sciences for Space and Navigation
+b,a,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+d,d,No,Yes,No,No,Yes,No,No,Yes,No,Yes,Fine Arts
+d,d,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Media
+a,b,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Engineering
+c,d,No,No,Yes,No,Yes,No,No,No,No,No,Media
+d,c,No,No,Yes,No,No,Yes,No,Yes,No,Yes,Media
+d,b,No,No,Yes,No,Yes,No,No,Yes,No,No,Applied Health Sciences
+b,a,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Computer Science
+c,d,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Commerce
+a,b,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Engineering
+c,d,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Commerce
+a,b,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Engineering
+a,c,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Engineering
+b,a,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Computer Science
+d,a,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Law
+b,c,No,No,Yes,No,No,No,No,Yes,Yes,No,Media
+b,b,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Applied Health Sciences
+b,c,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Computer Science
+b,a,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Computer Science
+c,c,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Commerce
+b,d,Yes,No,Yes,No,No,No,No,No,Yes,No,Media
+c,d,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Law
+a,b,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Applied Health Sciences
+d,b,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Fine Arts
+b,c,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Computer Science
+d,d,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Media
+d,a,Yes,No,No,No,No,No,No,No,Yes,Yes,Higher Institute of Administrative Sciences
+c,a,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Commerce
+a,c,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Media
+c,d,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Commerce
+d,c,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Fine Arts
+b,d,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Computer Science
+a,d,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Engineering
+a,c,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Media
+b,c,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Media
+c,b,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Applied Health Sciences
+d,a,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Fine Arts
+d,d,No,No,No,No,No,No,No,No,Yes,Yes,Fine Arts
+c,b,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Media
+b,b,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Computer Science
+d,c,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Fine Arts
+c,a,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Commerce
+d,c,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Fine Arts
+b,a,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Computer Science
+d,c,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Fine Arts
+b,b,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Computer Science
+d,c,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Media
+d,d,No,No,No,No,No,No,Yes,No,Yes,No,Fine Arts
+b,a,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Media
+a,c,No,Yes,No,No,Yes,No,No,Yes,No,No,Engineering
+c,b,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Commerce
+c,a,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Applied Sciences for Space and Navigation
+a,d,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Engineering
+b,c,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Media
+d,b,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Applied Health Sciences
+d,d,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Law
+b,c,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Media
+a,d,Yes,No,No,Yes,No,No,No,Yes,Yes,No,Engineering
+a,c,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Media
+b,c,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Computer Science
+c,b,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Applied Health Sciences
+d,c,Yes,No,No,No,Yes,No,No,Yes,No,No,Science
+b,a,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Computer Science
+c,c,No,No,Yes,No,Yes,No,No,Yes,No,No,Media
+c,d,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Law
+d,c,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Fine Arts
+b,c,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Computer Science
+a,a,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Applied Sciences for Space and Navigation
+b,b,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Law
+a,d,No,No,No,No,Yes,Yes,No,No,No,No,Fine Arts
+a,d,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Engineering
+c,c,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Fine Arts
+d,d,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Fine Arts
+a,a,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Engineering
+d,c,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Fine Arts
+a,d,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Engineering
+c,b,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Media
+b,b,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Applied Health Sciences
+c,a,No,No,No,Yes,Yes,No,No,Yes,No,No,Law
+b,d,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Computer Science
+d,c,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Fine Arts
+d,a,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Applied Sciences for Space and Navigation
+a,c,Yes,No,No,Yes,No,No,No,Yes,No,No,Engineering
+c,c,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Law
+b,b,No,No,No,Yes,No,No,No,No,No,No,Law
+c,b,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Science
+a,b,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Engineering
+d,d,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Law
+d,b,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Fine Arts
+d,a,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Fine Arts
+b,a,No,No,No,Yes,No,No,No,No,No,No,Law
+c,c,No,No,No,No,Yes,No,No,Yes,No,No,Commerce
+d,a,No,No,No,No,Yes,Yes,Yes,No,No,No,Applied Sciences for Space and Navigation
+d,b,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Fine Arts
+c,b,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Commerce
+a,d,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Law
+a,d,No,Yes,No,Yes,No,No,Yes,No,No,Yes,Law
+d,a,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Fine Arts
+b,b,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Computer Science
+b,d,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Computer Science
+c,c,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Media
+b,d,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Media
+a,c,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Engineering
+b,d,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Computer Science
+c,a,No,No,No,Yes,No,No,No,No,Yes,Yes,Commerce
+c,a,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Media
+b,c,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Media
+c,b,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Applied Health Sciences
+a,d,No,No,No,Yes,No,No,Yes,No,No,No,Law
+a,a,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Applied Sciences for Space and Navigation
+d,a,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Fine Arts
+c,b,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Applied Health Sciences
+c,d,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Media
+b,c,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Computer Science
+a,d,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,Engineering
+a,a,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Media
+b,b,Yes,Yes,Yes,No,No,No,No,No,No,No,Media
+d,d,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Media
+d,d,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Media
+d,c,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Media
+c,d,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Commerce
+a,b,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,Media
+a,d,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Fine Arts
+c,d,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Media
+c,a,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Commerce
+d,d,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Media
+a,d,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Engineering
+b,d,No,No,No,No,Yes,Yes,No,No,No,Yes,Computer Science
+a,c,No,Yes,No,No,No,Yes,Yes,No,No,No,Fine Arts
+c,a,No,No,No,Yes,Yes,No,No,No,No,No,Law
+d,d,No,No,No,Yes,Yes,No,No,No,Yes,No,Law
+a,d,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,Law
+b,c,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Media
+b,b,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Applied Health Sciences
+d,c,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Fine Arts
+b,d,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Computer Science
+a,d,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Law
+a,a,Yes,No,Yes,No,Yes,No,No,No,No,No,Media
+a,b,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Engineering
+a,d,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Engineering
+a,c,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Engineering
+c,a,No,Yes,No,No,Yes,No,No,No,No,Yes,Fine Arts
+d,c,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Fine Arts
+a,b,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Applied Health Sciences
+d,a,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Law
+c,c,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Commerce
+b,d,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Computer Science
+b,c,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Media
+a,b,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Engineering
+b,d,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Computer Science
+b,a,No,No,Yes,No,No,Yes,No,Yes,No,No,Applied Sciences for Space and Navigation
+d,a,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Fine Arts
+d,b,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Fine Arts
+b,d,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Computer Science
+d,d,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Fine Arts
+d,c,No,Yes,Yes,No,No,Yes,No,No,No,No,Fine Arts
+b,d,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Law
+c,b,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Commerce
+b,a,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Computer Science
+b,c,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Computer Science
+b,b,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Applied Health Sciences
+d,d,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Fine Arts
+b,c,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Computer Science
+d,a,Yes,No,Yes,No,No,No,No,No,No,No,Media
+b,d,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Computer Science
+c,a,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Applied Sciences for Space and Navigation
+c,a,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Commerce
+a,a,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Media
+b,a,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Applied Sciences for Space and Navigation
+c,c,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Law
+a,b,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Engineering
+c,d,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Commerce
+d,b,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Media
+c,d,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Commerce
+d,a,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Fine Arts
+c,c,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Commerce
+d,c,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Fine Arts
+c,d,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Commerce
+b,d,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Media
+c,a,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Commerce
+a,c,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Engineering
+a,d,No,No,Yes,Yes,No,No,No,No,Yes,No,Media
+c,a,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Commerce
+c,d,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Fine Arts
+a,c,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Media
+d,c,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Fine Arts
+a,b,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Media
+c,b,No,No,Yes,Yes,No,Yes,No,No,No,Yes,Media
+d,c,No,No,No,Yes,Yes,No,Yes,No,No,No,Law
+d,a,Yes,No,No,Yes,No,No,No,No,No,Yes,Law
+c,a,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Commerce
+d,b,No,No,No,Yes,Yes,Yes,No,No,No,No,Applied Health Sciences
+c,d,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Commerce
+d,d,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Fine Arts
+b,b,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Law
+c,c,No,No,No,Yes,Yes,No,Yes,No,No,No,Law
+c,a,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Law
+b,d,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Computer Science
+c,a,No,No,No,No,No,No,No,No,Yes,No,Commerce
+b,d,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Media
+c,b,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Commerce
+d,a,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Media
+c,a,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Commerce
+c,d,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Commerce
+a,b,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Engineering
+b,d,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Computer Science
+d,c,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Fine Arts
+c,d,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Commerce
+d,a,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Fine Arts
+a,a,No,Yes,Yes,Yes,No,No,No,No,No,No,Media
+a,a,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Engineering
+c,b,No,No,Yes,No,No,Yes,No,Yes,No,No,Media
+a,a,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Applied Sciences for Space and Navigation
+d,d,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Fine Arts
+c,c,Yes,No,No,No,No,No,No,No,No,No,Media
+d,d,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Fine Arts
+b,c,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Commerce
+d,b,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Fine Arts
+d,b,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Fine Arts
+a,a,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Engineering
+b,b,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Media
+b,a,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Computer Science
+b,c,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Computer Science
+a,b,Yes,No,No,No,No,Yes,No,No,Yes,No,Higher Institute of Administrative Sciences
+c,a,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Applied Sciences for Space and Navigation
+d,d,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Media
+b,d,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Computer Science
+a,b,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Commerce
+d,d,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Law
+a,a,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,Applied Sciences for Space and Navigation
+a,a,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Applied Sciences for Space and Navigation
+b,c,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Computer Science
+b,a,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Computer Science
+a,c,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Engineering
+a,a,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Law
+c,c,No,No,No,Yes,No,No,No,No,No,No,Law
+c,c,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Commerce
+d,a,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Fine Arts
+c,d,No,No,No,No,No,No,No,No,No,Yes,Science
+b,a,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Law
+c,a,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Commerce
+d,b,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Fine Arts
+d,a,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Fine Arts
+b,b,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Computer Science
+d,a,No,No,No,Yes,Yes,No,No,No,No,No,Law
+a,c,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Engineering
+d,d,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Fine Arts
+d,b,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Fine Arts
+a,b,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Applied Health Sciences
+b,d,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Computer Science
+b,b,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Computer Science
+c,d,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Media
+d,c,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Fine Arts
+c,c,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Media
+a,d,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Media
+c,d,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Commerce
+c,a,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Commerce
+b,a,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Computer Science
+d,a,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Fine Arts
+c,a,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Applied Sciences for Space and Navigation
+c,a,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Commerce
+a,b,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Applied Health Sciences
+d,c,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Fine Arts
+c,d,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Media
+b,b,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Computer Science
+b,a,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Computer Science
+b,d,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Media
+b,c,Yes,No,No,No,No,No,No,No,Yes,Yes,Computer Science
+c,a,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Media
+d,a,No,No,Yes,No,Yes,No,No,No,No,No,Media
+c,d,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Fine Arts
+c,b,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Media
+a,c,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Engineering
+c,d,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Commerce
+c,d,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Commerce
+b,a,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Media
+c,d,No,No,Yes,No,Yes,No,No,No,No,Yes,Media
+c,b,No,Yes,Yes,No,No,No,Yes,No,No,No,Media
+c,b,No,Yes,No,No,No,Yes,Yes,No,No,No,Fine Arts
+a,d,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Engineering
+b,b,No,No,No,No,No,No,No,Yes,Yes,No,Commerce
+d,d,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Fine Arts
+b,a,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Media
+c,d,Yes,No,No,Yes,No,No,No,No,Yes,No,Commerce
+c,c,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Media
+b,d,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Media
+b,c,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Media
+a,a,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Media
+d,b,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,Applied Health Sciences
+a,b,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Engineering
+a,d,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Media
+d,c,Yes,No,No,No,No,Yes,No,Yes,No,No,Science
+a,b,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Engineering
+c,c,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Commerce
+c,c,No,No,Yes,No,No,No,Yes,Yes,No,No,Media
+a,b,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Engineering
+b,d,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Computer Science
+d,c,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Fine Arts
+a,c,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Engineering
+a,d,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Engineering
+c,d,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,Commerce
+b,a,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Law
+d,b,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Fine Arts
+c,a,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Applied Sciences for Space and Navigation
+a,c,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,Engineering
+b,d,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Computer Science
+c,b,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Media
+c,a,No,No,Yes,Yes,No,No,No,No,No,No,Media
+d,c,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Law
+b,c,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Fine Arts
+a,b,No,No,Yes,No,No,No,No,Yes,No,Yes,Engineering
+a,d,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Engineering
+c,c,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Media
+d,b,No,No,Yes,No,No,No,No,No,No,No,Media
+c,b,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Applied Health Sciences
+b,a,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Law
+d,c,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Fine Arts
+c,d,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Commerce
+a,a,No,No,No,No,No,No,No,No,Yes,Yes,Science
+d,c,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Media
+c,c,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Commerce
+d,d,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Fine Arts
+a,c,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Media
+b,a,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Applied Sciences for Space and Navigation
+a,d,No,No,Yes,No,No,No,Yes,No,Yes,No,Media
+a,b,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Engineering
+c,c,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Commerce
+d,d,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Fine Arts
+a,a,No,No,No,Yes,No,No,No,Yes,No,No,Engineering
+d,b,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Fine Arts
+a,c,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Science
+d,b,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Applied Health Sciences
+c,a,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Commerce
+a,c,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Engineering
+d,d,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Fine Arts
+c,b,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Applied Health Sciences
+c,b,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Applied Health Sciences
+b,c,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Media
+d,c,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Fine Arts
+d,d,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Fine Arts
+c,b,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+c,d,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Law
+b,b,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Computer Science
+d,d,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Law
+c,d,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Commerce
+c,c,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Commerce
+d,b,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Applied Health Sciences
+d,a,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Fine Arts
+a,a,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Engineering
+d,c,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Media
+d,d,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Law
+c,b,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Commerce
+c,c,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Commerce
+b,c,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Computer Science
+b,d,No,Yes,No,No,No,No,No,No,No,Yes,Computer Science
+d,d,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Media
+d,b,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Applied Health Sciences
+c,d,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Commerce
+a,d,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,Media
+c,a,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Commerce
+c,b,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Law
+a,c,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Media
+a,c,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Media
+a,d,No,Yes,No,No,No,No,Yes,No,No,Yes,Media
+a,d,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Engineering
+a,a,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Engineering
+c,d,No,No,No,Yes,No,Yes,No,No,No,No,Law
+d,b,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Fine Arts
+a,c,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Media
+d,b,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Applied Health Sciences
+c,b,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Commerce
+d,c,Yes,No,No,Yes,No,No,No,No,No,Yes,Law
+d,a,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Fine Arts
+a,b,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Engineering
+d,a,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Applied Sciences for Space and Navigation
+c,a,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Applied Sciences for Space and Navigation
+b,d,No,No,Yes,No,No,No,Yes,No,No,Yes,Computer Science
+d,a,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Fine Arts
+c,c,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Media
+a,d,No,No,No,Yes,Yes,No,Yes,No,No,Yes,Law
+b,b,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Computer Science
+c,c,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Commerce
+b,a,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Computer Science
+a,a,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Applied Sciences for Space and Navigation
+c,c,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Commerce
+a,b,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Engineering
+b,b,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Computer Science
+b,c,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Computer Science
+b,b,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Applied Health Sciences
+a,a,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Applied Sciences for Space and Navigation
+a,a,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Media
+d,c,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Fine Arts
+b,c,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Computer Science
+b,a,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Computer Science
+d,b,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Higher Institute of Administrative Sciences
+d,b,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Applied Health Sciences
+a,c,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Engineering
+c,b,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,Applied Health Sciences
+a,a,No,No,No,No,Yes,Yes,No,No,No,Yes,Applied Sciences for Space and Navigation
+a,c,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Law
+c,d,Yes,No,No,No,Yes,Yes,No,Yes,No,No,Fine Arts
+a,a,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Applied Sciences for Space and Navigation
+d,b,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Fine Arts
+a,c,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Engineering
+c,d,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Commerce
+c,b,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Commerce
+c,d,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Commerce
+a,c,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Engineering
+b,d,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Computer Science
+b,a,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Computer Science
+c,c,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Commerce
+d,c,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Fine Arts
+a,d,No,No,No,No,Yes,Yes,No,No,Yes,No,Media
+a,d,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+a,b,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Law
+d,b,Yes,No,No,No,No,No,No,No,No,Yes,Science
+a,c,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Engineering
+b,b,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Applied Health Sciences
+b,b,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Computer Science
+d,a,No,No,No,No,No,Yes,Yes,Yes,No,No,Applied Sciences for Space and Navigation
+d,a,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Fine Arts
+b,a,No,No,No,Yes,No,No,No,No,Yes,Yes,Computer Science
+a,b,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Engineering
+d,d,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Fine Arts
+b,c,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Law
+a,d,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Engineering
+c,b,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Commerce
+d,d,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Fine Arts
+b,b,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Computer Science
+d,c,No,No,No,No,No,No,Yes,No,Yes,Yes,Commerce
+d,b,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Media
+d,c,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Fine Arts
+a,c,Yes,No,Yes,No,No,No,No,Yes,No,No,Engineering
+c,c,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Media
+b,d,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Computer Science
+b,a,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Applied Sciences for Space and Navigation
+a,a,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Engineering
+d,d,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Media
+b,a,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Media
+c,c,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Commerce
+b,b,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Computer Science
+c,c,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Commerce
+b,d,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Computer Science
+c,b,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Commerce
+c,a,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Law
+a,c,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Engineering
+c,d,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Commerce
+a,d,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,Media
+b,b,No,No,No,Yes,Yes,No,No,Yes,No,No,Applied Health Sciences
+b,b,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Computer Science
+a,b,Yes,Yes,No,Yes,No,No,No,No,No,No,Law
+c,d,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Law
+a,c,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Engineering
+a,c,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Media
+d,c,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Media
+a,c,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Media
+a,d,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Engineering
+c,d,No,No,Yes,No,Yes,Yes,No,No,No,No,Media
+d,b,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Fine Arts
+a,b,No,No,No,No,No,No,No,No,No,No,Fine Arts
+c,c,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Fine Arts
+b,b,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Computer Science
+d,d,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Fine Arts
+a,a,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Engineering
+d,b,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Fine Arts
+a,a,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Engineering
+a,b,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Engineering
+d,d,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Fine Arts
+d,c,Yes,No,No,No,No,No,Yes,No,No,Yes,Science
+b,b,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Computer Science
+c,b,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Commerce
+d,c,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Media
+c,c,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Media
+a,b,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Applied Health Sciences
+c,b,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Commerce
+c,a,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Commerce
+c,a,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Commerce
+a,c,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Engineering
+c,c,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Law
+c,c,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Commerce
+d,d,No,Yes,Yes,No,No,No,No,No,No,No,Fine Arts
+a,d,No,No,No,No,No,Yes,No,No,Yes,No,Media
+c,c,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Commerce
+a,a,No,Yes,No,Yes,No,No,Yes,No,No,Yes,Law
+a,a,No,Yes,No,Yes,No,No,No,No,Yes,No,Law
+d,c,No,No,No,Yes,Yes,No,No,No,No,Yes,Law
+b,c,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Computer Science
+c,c,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Commerce
+b,b,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Applied Health Sciences
+c,b,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Commerce
+b,b,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Media
+d,a,No,No,No,No,No,Yes,Yes,No,No,No,Applied Sciences for Space and Navigation
+b,a,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Applied Sciences for Space and Navigation
+a,c,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Media
+c,a,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Media
+c,c,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Commerce
+c,a,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Commerce
+a,a,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Media
+c,c,No,Yes,No,No,No,No,No,Yes,No,No,Science
+d,c,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Fine Arts
+d,b,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Applied Health Sciences
+c,d,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Media
+b,b,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Applied Health Sciences
+a,c,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Engineering
+a,c,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Engineering
+b,d,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Computer Science
+d,b,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Fine Arts
+c,b,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Media
+a,c,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Engineering
+b,b,Yes,No,No,No,Yes,No,No,No,No,Yes,Computer Science
+c,b,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Commerce
+c,b,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Media
+d,c,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Law
+c,c,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Commerce
+c,b,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Commerce
+d,d,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Fine Arts
+d,b,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Fine Arts
+d,d,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Fine Arts
+a,c,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Engineering
+a,d,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Law
+b,b,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Applied Health Sciences
+a,d,Yes,No,Yes,No,No,Yes,No,No,No,No,Media
+c,b,No,No,No,No,Yes,Yes,No,No,No,No,Applied Health Sciences
+d,a,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Applied Sciences for Space and Navigation
+c,d,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Commerce
+b,a,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Applied Sciences for Space and Navigation
+c,a,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Applied Sciences for Space and Navigation
+c,b,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Commerce
+c,c,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Commerce
+a,a,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Applied Sciences for Space and Navigation
+a,a,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Engineering
+b,b,Yes,Yes,No,No,No,Yes,No,No,No,No,Media
+b,b,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Computer Science
+c,d,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Commerce
+d,b,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Applied Health Sciences
+b,b,No,No,No,No,No,No,Yes,Yes,No,No,Commerce
+d,c,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Media
+b,a,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Computer Science
+d,a,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,Fine Arts
+c,b,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Commerce
+d,c,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Fine Arts
+a,b,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Engineering
+c,d,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Commerce
+b,c,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Computer Science
+a,c,No,No,No,Yes,Yes,No,No,No,No,No,Law
+d,a,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Fine Arts
+d,a,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Media
+b,b,No,No,No,No,Yes,Yes,No,Yes,No,No,Applied Health Sciences
+c,d,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Commerce
+b,d,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+d,d,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Fine Arts
+d,a,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Fine Arts
+d,c,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Law
+d,d,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Higher Institute of Administrative Sciences
+d,c,No,No,No,No,Yes,No,No,Yes,No,Yes,Media
+a,b,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Engineering
+a,a,No,No,No,Yes,No,No,Yes,No,No,No,Law
+b,a,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Computer Science
+b,b,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Applied Health Sciences
+c,a,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Fine Arts
+b,d,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Computer Science
+c,a,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Commerce
+c,b,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Commerce
+a,b,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Applied Health Sciences
+c,c,No,No,No,No,No,Yes,No,No,No,No,Science
+b,b,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Applied Health Sciences
+a,d,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Law
+c,a,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Applied Sciences for Space and Navigation
+a,d,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Engineering
+d,c,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Fine Arts
+c,a,No,No,Yes,No,Yes,No,No,No,No,No,Media
+c,d,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Commerce
+d,d,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Fine Arts
+c,b,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Applied Health Sciences
+c,c,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Commerce
+c,d,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Fine Arts
+d,b,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Higher Institute of Administrative Sciences
+c,b,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Commerce
+b,d,No,Yes,No,No,No,No,No,No,No,No,Media
+b,c,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Computer Science
+d,c,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Media
+a,a,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Applied Sciences for Space and Navigation
+a,a,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Engineering
+b,a,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Computer Science
+c,a,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Commerce
+b,c,No,No,No,Yes,Yes,No,No,Yes,No,No,Law
+b,d,No,Yes,No,No,Yes,No,No,No,No,Yes,Computer Science
+c,b,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Media
+d,d,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Fine Arts
+a,a,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Applied Sciences for Space and Navigation
+d,d,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Law
+d,d,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Law
+c,a,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Commerce
+c,b,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Commerce
+b,d,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Law
+d,d,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Fine Arts
+d,b,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Law
+d,d,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Law
+b,a,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Higher Institute of Administrative Sciences
+a,a,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Engineering
+a,c,Yes,No,Yes,Yes,No,No,No,No,No,No,Media
+b,c,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Law
+a,a,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Media
+a,a,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Engineering
+d,c,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Law
+d,b,No,No,Yes,Yes,No,Yes,No,No,No,No,Media
+d,c,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Fine Arts
+a,c,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Media
+b,b,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Applied Health Sciences
